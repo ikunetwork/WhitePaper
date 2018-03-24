@@ -14,7 +14,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    1. [Problem Statement](#problem-statement)
    2. [IKU Approach](#iku-approach)
    3. [How](#how)
-   4. [What are Smart Contracts](#what-are-smart-contracts?)
+   4. [What are Smart Contracts?](#what-are-smart-contracts-?)
    5. [Why IKU?](#why-IKU)
    6. [What about Patents?](#what-about-patents?)
    7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
