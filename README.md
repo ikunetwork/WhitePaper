@@ -21,13 +21,14 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    8. [Token and License](#token-and-license)
    9. [The IKU Foundation](#the-IKU-foundation)
 2. [The Network Economy](#the-network-economy)
-   1. [Research Targets](#research-targets)
+   1. [Research Target](#research-targets)
    2. [Dev Tools](#deve-tools)
-   3. [Participants](#participants)
+   3. [IKU Network Participants](#iku-network-participants)
    4. [Request for Proposals](#request-for-proposals)
+   5. [The Proposal Library](#the-proposal-library)
 3. [Tokenization](#tokenization)
-   1. [ELX Utility](#elx-utility)
-   2. [RST Utility](#rst-utility)
+   1. [IKU Value](#iku-value)
+   2. [RST Value](#rst-value)
    3. [The RST permissionlessLicense](#the-rst-permissionlessLicense)
    4. [SMART K for permissionlessLicense](#smart-k-for-permissionlessLicense)
    5. [Royalties](#royalties) [CONSIDER DELETING THIS]------------------------------------------ OR SAVING FOR LATER
@@ -108,7 +109,7 @@ This will serve to provide more equitable foundations in the following:
 
 - **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options, including aging. Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy). Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to 13-15 years for NME [6]. Compound this with (i) 20+ FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) [FN: The large scale, and very expensive multicenter Phase III trials (assessing safety and efficacy in comparison to standard treatment) are generally acknowledged to be very difficult to set up for rare diseases (< 200,000 patients/year [2]), for which also often no therapy exists (~7000 rare diseases, affecting 25-30 million Americans alone, for which there are 400+ drugs and biologics [2]); drugs targeting rare diseases are therefore commonly approved with Phase II data only such as in the case of 20+ different FDA approvals in 2016 - 2017 - END FN]. and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success while eliminating years of uncertainty, dramatically reducing the cost. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached sooner and at lesser cost - accelerating market entry of inexpensive, safe medicines. 
 
-- **IP**: A license is required by regulatory bodies (i.e. FDA, EMA, CFDA) globally proving copyright title provenance to medical R&D data. Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew (raising capital and performing an independent clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide. IKU data will be hashed and stored on Inter Planetary File System IPFS through a NuCypher proxy-reecncryption scheme where the hash is proof of the data's existence, therefore proving genesis of the data and copyright title provenance. This hash is then tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access.  Parties may capitalize on market/data exclusivity periods (independent of patents) in many jurisdictions, including but not limited to:
+- **IP**: A license is required by regulatory bodies (i.e. FDA, EMA, CFDA) globally proving copyright title provenance to medical R&D data. Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew (raising capital and performing an independent clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide. IKU data will be hashed and stored on Inter Planetary File System IPFS through a NuCypher proxy-reecncryption scheme where the hash is proof of the data's existence, therefore proving genesis of the data and copyright title provenance. This hash is essentially tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access.  Parties may capitalize on market/data exclusivity periods (independent of patents) in many jurisdictions, including but not limited to:
 
 	- Europe: up to ~10 years
 	- Asia: up to ~10 years 
@@ -203,7 +204,7 @@ RFP Score: https://docs.google.com/document/d/1gnY8KdrvTtcWzok7rYUPKsL7mh-nCyyaM
 
 An `RFP` is required to consist of (i) a principal investigator PI that leads the R&D team along with the RST Holders that the PI and his/her team will have to answer to (see below RST value), (ii) how much capital is being raised and for what percentage of RST, with proposers encouraged to not issue 100% of RST's to account for future capital requirements and (iii) the scientific justification, etc (see google doc above). A standard RST Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an RST. This leaves significant room for RST value creativity.
 
-## The Proposal Library
+### The Proposal Library
 
 Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available (Costa, 2014).  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads. Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable proper clinical trials.
 
@@ -255,11 +256,11 @@ An RST carries pro-rata rights to its specific R&D initiative and such rights ar
 - `permissionlessLicense` threshold
 - 1st priority to upgrade to clinical trial subject
 - Access to medicine upon regulatory approval at a discounted (or free) rate [with prescription from a licensed MD]
-- RST DC governance including **Voting rights to release funding for next stage of RST roadmap** (must achieve security to do this b/c this will be a target for hacking) + remove PI, etc. [Note to Bruno: See DAICO/Aragon smart contracts?]
+- RST DC governance including **Voting rights to release funding for next stage of RST roadmap** (must achieve security to do this b/c this will be a target for hacking) + remove PI, etc.
 
 R&D data will be made available to `RST[x]` holders and updated by the `RST[x]` team through the IN infrastructure on an ongoing basis. RST R&D data/IP will de-identified and be stored on IPFS. Access to the data/IP will be made available with possession of a minimum, predetermined RST threshold and private key, unless otherwise made public thru IKU. A transaction involving RST is the cryptographic validation of rights transfer to RST hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on Inter Planetary File Systems/Inter Planetary Linked Data IPFS at a given point in time, protecting against reasons for litigation.
 
-*Insert RST smart contract code*
+**BRUNO - SHOW TRIGGER CONTRACT, IF APPLICABLE**
 
 IPFS will serve to provide infrastructure for the `RST[x]` DC. The R&D team will provide updates to the RST Holders in their DC on a regular basis, in which `RST[x]` holders will have ability to:
 
@@ -278,14 +279,17 @@ The IN will provide a standard `permissionlessLicense` with drop down variables 
 
 Specifically, the `permissionlessLicense` license enables exit opportunities for RST holders to license RST-backed data which can be obtained by any interested party (e.g. health insurance distributor, traditional pharma, venture, etc.).  If the `permissionlessLicense` threshold is not achieved after a succcessful Phase II clinical trial, the RST DC may become a collective ad hoc venture team around its cryptoasset, e.g. an approved rare disease treatment with 7 years of market exclusivity in the U.S., for further development, market distribution, etc.  This creates a self perpetuating ecosystem of innovation and multiple opportunities for IKU and RST holders, as well as other parties interested in licensing.
 
-Upon the public release of the IN, IKU token holders will be able to decide what happens to RSTs that are not part of the `permissionlicense`.  This may include creating a software bounty thats allows for royalties to flow to the remaining outstanding RSTs in exchange for work or in the alternative, as a securitized asset.  Because RSTs are traded on the [ethereum] blockchain, provenance of RST data rights are known, facilitating potential trustless royalty distribution to RST holders from the licensee.  Note that this will be up to IKU token holders to decide and may never come to fruition.
+Upon the public release of the IN, IKU token holders will be able to decide what happens to RSTs that are not part of the `permissionlicense`. This may include creating a software bounty thats allows for royalties to flow to the remaining outstanding RSTs in exchange for work or in the alternative, as a securitized asset.  Because RSTs are traded on the Ethereum blockchain, provenance of RST data rights are known, facilitating potential trustless royalty distribution to RST holders from the licensee.  Note that this will be up to IKU token holders to decide and may never come to fruition.
 
-### NuCypher KMS - `permissionlessLicense`
-*placeholder*
+### Decentralized Key Management System
+
+The `RST[X]` DC is incentivized to upload relevant and appropriate research data that pertains to the `RFP` and `RST[x]`. As this data is stored on IPFS, the associated private key must be encrypted and only available to RST Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the`permissionless` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]` DC will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon RST Holder request of the `RST[x]` in the `devtools`. 
+
+**BRUNO - SHOULD WE INLCUDE PROXY REENCRYPTION DIAGRAM (BORROW FROM THEIR WHITE PAPER?)
 
 ### Fees and the Network Digital Wallet
 
-Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all RST's, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in RST as [x%] of all of the **fundedProposal** RSTs, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on the iku.network. 
+Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all RST's, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in RST as [x%] of all of the **fundedProposal** RSTs, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
 
 ### Network Utility for R&D 
 
@@ -328,7 +332,7 @@ How to bundle:
 
 All IN R&D initiatives would have the option to actively bundle their RST’s into RSTi, or allow for RSTi to choose to bundle with an RST, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same, R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/RSTi in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
 
-*Insert Atomic Swap code*. 
+**BRUNO - ANYTHING WE CAN SHOW HERE? IF NOT, NO WORRIES*. 
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk. Capital resources would be allocated purely towards R&D with the ability to algorithmically bond with each other thru smart contract. 
 
@@ -348,7 +352,7 @@ For example:
 
 
 ## Conclusion
-iku.network will serve to enable unprecedented global organization and deployment of resources. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant medical innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient medical R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire patent agnostic digital medical R&D system.  This is the fundamental intention and the essence of the IN.
+IKU will serve to enable unprecedented global organization and deployment of resources. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant medical innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient medical R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire patent agnostic digital medical R&D system.  This is the fundamental intention and the essence of the IN.
 
 ## Footnotes
 <b id="f1">1</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, Deli very, https://energycommerce.house.gov/cures/ (2016).[↩](#a1)
