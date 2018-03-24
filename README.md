@@ -332,7 +332,7 @@ How to bundle:
 
 All IN R&D initiatives would have the option to actively bundle their RST’s into RSTi, or allow for RSTi to choose to bundle with an RST, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same, R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/RSTi in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
 
-**BRUNO - ANYTHING WE CAN SHOW HERE? IF NOT, NO WORRIES*. 
+**BRUNO - ANYTHING WE CAN SHOW HERE? IF NOT, NO WORRIES**. 
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk. Capital resources would be allocated purely towards R&D with the ability to algorithmically bond with each other thru smart contract. 
 
@@ -340,9 +340,9 @@ Pricing a bundle can be defined by the expected value:
 
 <img width="200" alt="Expected Value" src="https://github.com/marcgug/White-Paper/raw/master/Expected%20Value.PNG">
 
-### Burning - mike lets go thru this - see Kyle Samani token burning - this must already be programmed into the contract
+### Burning
 
-IKU aligns its burning strategy with the creation of RST, where [x%] of IKU tokens contributed to a specific RST are burned from the IKU Reserve. The same percentage of the specific RST pool are also offered to IKU Token holders. Burning serves to increase the economic and utility value of the IKU Token, and build on the liquidity mechanism. 
+IKU aligns its burning strategy with the creation of RST, where a % of IKU tokens contributed to a specific RST are burned from the IKU Reserve. The same percentage of the specific RST pool are also offered to IKU Token holders. Burning serves to increase the economic and utility value of the IKU Token, and build on the liquidity mechanism. 
 
 For example: 
 
