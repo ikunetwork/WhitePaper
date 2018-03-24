@@ -26,7 +26,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    3. [Participants](#participants)
    4. [Request for Proposals](#request-for-proposals)
 3. [Tokenization](#tokenization)
-   1. [ELX Utility](#elx-utility)
+   1. [IKU Utility](#iku-utility)
    2. [RST Utility](#rst-utility)
    3. [The RST permissionlessLicense](#the-rst-permissionlessLicense)
    4. [SMART K for permissionlessLicense](#smart-k-for-permissionlessLicense)
@@ -199,8 +199,6 @@ The IN will serve to produce requests for peer reviewed proposals `RFP` in respo
 RFP Template: https://docs.google.com/document/d/1vIZyS90e-aiWynNalBplVmUAJPtMZajXw7gdfjjBozk/edit
 RFP Score: https://docs.google.com/document/d/1gnY8KdrvTtcWzok7rYUPKsL7mh-nCyyaMEdcEd5yosU/edit
 
-**BRUNO - RFP THRESHOLD MET - SMART CONTRACT SPAWNED - RST**
-
 An `RFP` is required to consist of (i) a principal investigator PI that leads the R&D team along with the RST Holders that the PI and his/her team will have to answer to (see below RST value), (ii) how much capital is being raised and for what percentage of RST, with proposers encouraged to not issue 100% of RST's to account for future capital requirements and (iii) the scientific justification, etc (see google doc above). A standard RST Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an RST. This leaves significant room for RST value creativity.
 
 ## The Proposal Library
@@ -221,13 +219,56 @@ The review period requires the IN peer review process to score an `RFP`, which c
 	
 `β` is expected to be optimized overtime with IN demand.
 
-Upon `β` > `λ`, an RST smart contract is created, `RST[x]`, responsible for minting `RST[x]` which in turn is used to fund `RFP`.  Upon `RST[x]` achieving its softcap - minimum `RST[x]` required to achieve milestone:
+Upon `β` > `λ`, 2 smart contracts will be deployed to the Ethereum Blockchain:
+1) `RST[x]` - An ERC20 token representing the specific research
+2) `RSTCrowdsale[x]` (based on https://github.com/OpenZeppelin/zeppelin-solidity), which responsible for minting `RST[x]` and in exchange send tokens to contributors
+  
+Upon `RSTCrowdsale[x]` achieving its softcap - minimum `RST[x]` required to achieve milestone:
 
 1. [y%] of the funds will be released to the R&D team,
 2. All RST Holders will be able to participate in an `RST[x]DC` on a per project basis, and
-3. ELX Holders earn fees in RST as described below under **Fees and the Network Digital Wallet**.
+3. IKU Token Holders earn fees in RST as described below under **Fees and the Network Digital Wallet**.
 
 Funds released to the R&D team in BTC, ETH and IKU can be converted to fiat, through a trusted third party crypto to fiat provider such as Coinbase. In addition, prior to initiating a clinical trial, an RST DC will be responsible for ensuring ethical compliance through an institutional review board.
+
+### Smart contract code for RSTCrowdsale 
+
+```solidity
+pragma solidity ^0.4.18;
+
+import 'zeppelin-solidity/contracts/crowdsale/validation/CappedCrowdsale.sol';
+import 'zeppelin-solidity/contracts/crowdsale/distribution/RefundableCrowdsale.sol';
+import 'zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol';
+import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
+
+
+contract RSTCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
+    
+
+  function RSTCrowdsale(
+    uint256 _openingTime, 
+    uint256 _closingTime, 
+    uint256 _rate, 
+    address _wallet,
+    uint256 _cap, 
+    MintableToken _token,
+    uint256 _goal
+  ) public
+    Crowdsale(_rate, _wallet, _token)
+    CappedCrowdsale(_cap)
+    TimedCrowdsale(_openingTime, _closingTime)
+    RefundableCrowdsale(_goal)
+  {
+
+    //As goal needs to be met for a successful crowdsale
+    //the value needs to less or equal than a cap which is limit for accepted funds
+    require(_goal <= _cap);
+    
+  }
+
+}
+
+```
 
 ## Tokenization 
 
@@ -255,12 +296,35 @@ An RST carries pro-rata rights to its specific R&D initiative and such rights ar
 - `permissionlessLicense` threshold
 - 1st priority to upgrade to clinical trial subject
 - Access to medicine upon regulatory approval at a discounted (or free) rate [with prescription from a licensed MD]
-- RST DC governance including **Voting rights to release funding for next stage of RST roadmap** (must achieve security to do this b/c this will be a target for hacking) + remove PI, etc. [Note to Bruno: See DAICO/Aragon smart contracts?]
+- RST DC governance including **Voting rights to release funding for next stage of RST roadmap** (must achieve security to do this b/c this will be a target for hacking) + remove PI, etc.
 
 R&D data will be made available to `RST[x]` holders and updated by the `RST[x]` team through the IN infrastructure on an ongoing basis. RST R&D data/IP will de-identified and be stored on IPFS. Access to the data/IP will be made available with possession of a minimum, predetermined RST threshold and private key, unless otherwise made public thru IKU. A transaction involving RST is the cryptographic validation of rights transfer to RST hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on Inter Planetary File Systems/Inter Planetary Linked Data IPFS at a given point in time, protecting against reasons for litigation.
 
-*Insert RST smart contract code*
+### Smart Contract for RST Token
+```solidity
 
+pragma solidity ^0.4.18;
+
+import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
+
+ contract ResearchSpecificToken is MintableToken {
+    uint8 public  decimals;
+    string public  name;
+    string public  symbol;
+   
+    function ResearchSpecificToken(
+        uint8 _decimalUnits,
+        string _tokenName,
+        string _tokenSymbol
+    ) public{
+        decimals = _decimalUnits;
+        name = _tokenName;
+        symbol = _tokenSymbol; 
+    }
+}
+
+
+```
 IPFS will serve to provide infrastructure for the `RST[x]` DC. The R&D team will provide updates to the RST Holders in their DC on a regular basis, in which `RST[x]` holders will have ability to:
 
 (i) Determine whether R&D team should have access to remainder of funds for continuing research (upon reaching or not reaching R&D milestone x - oracle),
@@ -310,7 +374,8 @@ The following sequence of events illustrate Network utility and ability to facil
 **NOTE: SHOULD WE DELETE THE LIST AND JUST KEEP THE FLOW CHART?  THE FLOW CHART SHOULD BE CONDENSED TO MAXIMUM 5 BUBBLES**
 
 ### The IKU Reserve
-The IN will maintain all funds raised from the token sale, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.  All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. [we cannot hold this as custody - we could keep it in an ethereum multisig w a certain threshold of votes to unlock it - does OZ have a multisig contract we can use?] -BRUNO
+The IN will maintain all funds raised from the token sale, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.  All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
+The funds will be stored in an Ethereum MultiSigWallet (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).
    
 ### Future Development
 
