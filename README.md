@@ -91,7 +91,7 @@ Ethereum is the internet's government, and smart contracts are its laws.[FN] Sma
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to make sure agreements are executed. Efficiency increases, especially in markets that are fraught with litigation, allowing for new markets where too much overhead is required for trade and/or little exchange of information. No third party is needed for escrow. Money is guaranteed to flow on contract resolution without the need to sue. Smart contracts provide justice without judges.
 
-IKU is built on Ethereum, leveraging smart contracts to transact in clinical trial assets without the necessity of a middle man (VC, investment banks, Big Pharma, etc). This dramatically decreases barrier to entry, and allows (i) scientists and other learned persons to directly engage p2p capital for the creation and trade of peer reviewed clinical research proposals (see below) as Research Specific Tokens **RST** on the IN, (ii) anyone to participate in the market and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively review and direct liquid research data, incentivizing one record of scientific truth.
+IKU is built on Ethereum, leveraging smart contracts to transact in clinical trial assets without the necessity of a middle man (VC, investment banks, Big Pharma, etc). This dramatically decreases barrier to entry, and allows (i) scientists and other learned persons to directly engage p2p capital for the creation and trade of peer reviewed clinical research proposals (see below) as Research Specific Tokens `RST` on the IN, (ii) anyone to participate in the market and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively review and direct liquid research data, incentivizing one record of scientific truth.
 
 ### Why IKU?
 
@@ -103,7 +103,7 @@ In addition, the IN will serve to attract R&D ideation through crowdsourced inpu
 
 Typically, by the time a NME is ready to enter clinical trial, there is < 10 years left of patent life, often times only 5-6 years. Jurisdictions throughout the world, including U.S., EU and Asia provide market/data exclusivity periods (independent of patents) for clinical trial data, regardless if NME or not, for up to ~10 years. Generic medicines are built on the same active ingredients (as the branded drugs) once their patents or marketing exclusivities have expired. They have the same dosage, effectiveness and - safety - profile as the original drug [1]. By definition, once the generic forms can be sold, the ingredient is on the market for many years and as such, generics themeselves are considered safe for patients. Because their patents have expired, there is significantly less risk of infringement and significant freedom to operate. 
 
-IKU RST holders have rights over the data they help generate and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. The RST Holder has pro-rata rights in the R&D data if they hold the respective RST. While RST holders may pursue patent protection for inventions developed based on IN funded research, such patents may not be used on the IN. IN is designed to provide global liquidity for R&D regardless of patent policy.
+IKU `RST` holders have rights over the data they help generate and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. The `RST` Holder has pro-rata rights in the R&D data if they hold the respective `RST[x]`. While `RST` holders may pursue patent protection for inventions developed based on IN funded research, such patents may not be used on the IN. IN is designed to provide global liquidity for R&D regardless of patent policy.
 
 This will serve to provide more equitable foundations in the following:
 
@@ -115,9 +115,9 @@ This will serve to provide more equitable foundations in the following:
 	- Asia: up to ~10 years 
 	- U.S.: up to ~7 years 
 	
-Data and/or market exclusivity can be built on top of an RST DC and/or `permissionlessLicense` (which confers timed data exclusivity) as it is collectively owned by the DC as a competitive advantage.  
+Data and/or market exclusivity can be built on top of an `RST[x]DC` and/or `permissionlessLicense` (which confers timed data exclusivity) as it is collectively owned by the DC as a competitive advantage.  
 
-- **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs [4] - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient. In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of patient effect. By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token RST. The RST enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
+- **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs [4] - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient. In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of patient effect. By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RST`. The `RST` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
 
 Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control. IKU is providing the former for medical R&D allowing R&D to trade globally.  Through this architecture, we can realize global supply and demand of medical science. 
  
@@ -187,9 +187,9 @@ Friends, message, and upvote access will require an IN profile, but will not req
 Below are the players in the IKU Network. They are not mutually exclusive:
 
 - **IKU Holder**: IKU token holder; can be an individual, institution, private company, etc. (described further below)
-- **RST Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. (described further below)  
+- **`RST[x]` Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. (described further below)  
 - **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU Peer Review process.  
-- **ADV** Anonymous data viewer - the public, who freely contributes a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition all RST initiatives will post a gnatt chart for how advanced their research initiative is as well as the top line de-identified research data they have generated on a quarterly basis.
+- **ADV** Anonymous data viewer - the public, who freely contributes a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition all `RST[x]DC` initiatives will post a gnatt chart for how advanced their research initiative is as well as the top line de-identified research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
 
@@ -202,13 +202,13 @@ The IN will serve to produce requests for peer reviewed proposals `RFP` in respo
 RFP Template: https://docs.google.com/document/d/1vIZyS90e-aiWynNalBplVmUAJPtMZajXw7gdfjjBozk/edit
 RFP Score: https://docs.google.com/document/d/1gnY8KdrvTtcWzok7rYUPKsL7mh-nCyyaMEdcEd5yosU/edit
 
-An `RFP` is required to consist of (i) a principal investigator PI that leads the R&D team along with the RSTx Holders that the PI and his/her team will have to answer to (see below RST value), (ii) how much capital is being raised and for what percentage of RST, with proposers encouraged to not issue 100% of RST's to account for future capital requirements and (iii) the scientific justification, etc (see google doc above). A standard RST Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an RST. This leaves significant room for RST value creativity.
+An `RFP` is required to consist of (i) a principal investigator PI that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to (see below `RST[x]` value), (ii) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and (iii) the scientific justification, etc (see google doc above). A standard `RST[x]` Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`. This leaves significant room for `RST[x]` value creativity.
 
 ### The Proposal Library
 
 Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.[FN]  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.[FN] Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable proper clinical trials.[FN]
 
-The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU Peer Review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and RST - incentivizing the the most promising redevelopment initiatives to be capitalized. 
+The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU Peer Review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - incentivizing the the most promising redevelopment initiatives to be capitalized. 
 
 IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving the longevity escape velocity for as many humans as possible. Participants will use the `devTools` to peer review, allowing for a community R&D demand oracle and prediction index, encouraging capitalization of highly rated proposals.  
 
@@ -229,12 +229,12 @@ Upon `β` > `λ`, 2 smart contracts will be deployed to the Ethereum Blockchain:
 Upon `RSTCrowdsale[x]` achieving its softcap - minimum `RST[x]` required to achieve milestone:
 
 1. [y%] of the funds will be released to the R&D team,
-2. All RST Holders will be able to participate in an `RST[x]DC` on a per project basis, and
-3. IKU Token Holders earn fees in RST as described below under **Fees and the Network Digital Wallet**.
+2. All `RST[x]` Holders will be able to participate in an `RST[x]DC` on a per project basis, and
+3. IKU Token Holders earn fees in `RST[x]` as described below under **Fees and the Network Digital Wallet**.
 
-Funds released to the R&D team in BTC, ETH and IKU can be converted to fiat, through a trusted third party crypto to fiat provider such as Coinbase. In addition, prior to initiating a clinical trial, an RST DC will be responsible for ensuring ethical compliance through an institutional review board.
+Funds released to the R&D team in BTC, ETH and IKU can be converted to fiat, through a trusted third party crypto to fiat provider such as Coinbase. In addition, prior to initiating a clinical trial, an `RST[x]DC` will be responsible for ensuring ethical compliance through an institutional review board.
 
-### Smart contract code for RSTCrowdsale 
+### Smart contract code for `RSTCrowdsale` 
 
 ```solidity
 pragma solidity ^0.4.18;
@@ -279,7 +279,7 @@ The IN creates two classes of native tokens:
 
 - **IKU**: The IN token IKU serves to secure the IN with consensus on R&D, allow for IN decision making and fee 	derivation as further explained under IKU Value. The supply of IKU is finite. 
 	
-- **RST**: The research specific token RST is representative of the R&D it was specifically created to fund.  RST supply is determined by proposers and is dependent on the project economics it is used to fund and facilitate. RST bundles, RSTi, may  be developed as per a future bounty, allowing for scientific and economic risk diversification where *i* represents the number of RST’s bundled. 
+- **`RST`**: The Research Specific Token `RST` is representative of the R&D `[x]` it was specifically created to fund. `RST[x]` supply is determined by proposers and is dependent on the project economics it is used to fund and facilitate. `RST[x]` bundles, `RST[i]` may  be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RST[x]` bundled. 
 
 
 ### IKU Value
@@ -290,11 +290,11 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 - power to make decisions and perform work for IN
 - 2nd priority to upgrade to clinical trial subject
 - Fees
-	Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all RST's, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in RST as [x%] of all of the **fundedProposal** RSTs, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
+	Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in `RST[x]` as [x%] of all of the R`STCrowdsale`, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
 
-### RST Value
+### `RST[x]` Value
 
-An RST carries pro-rata rights to its specific R&D initiative and such rights are cryptographically maintained with the ability to (i) access the `RST[x]` DC and (ii) be transacted in an `permissionlessLicense` smart contract. Value in the `RST[x]` token can be ascribed to the following: @MIKE RSTx DC control f to make sure its all in same font
+An `RST[x]` carries pro-rata rights to its specific R&D `[x]` initiative and such rights are cryptographically maintained with the ability to (i) access the `RST[x]DC` and (ii) be transacted in an `permissionlessLicense` smart contract. Value in the `RST[x]` token can be ascribed to the following:
 
 - `permissionlessLicense` threshold
 - 1st priority to upgrade to clinical trial subject
