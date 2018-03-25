@@ -1,4 +1,4 @@
-#  IKU - Safe Drugs. New Tricks.
+#  IKU - Better Drugs. Better Tricks.
 
 by Gregory Rigano & Michael Kisselgof
 
@@ -365,7 +365,7 @@ The following sequence of events illustrate Network utility and ability to facil
 
 get rid of bubbles - lets do this in two colums @Mike
 
-1. Submit a `researchTarget` for consideration. The `researchTargets` is public, accessible,  and can be upvoted captcha.  
+1. Submit a `researchTarget` for consideration. The `researchTarget` is public, accessible,  and can be upvoted captcha.  
 2. Login to EN to use the `devTools A`. If participant possess IKU, he/she can login and access `devTools B`. A VR is guaranteed access to ‘devTools B’, as funded by the elixrONE reserve. An non-VR must purchase IKU and must post bond of to make submit RFP, protecting against spam. 
 3. RFP:
 - RFP submissions must include their scientific, economic and strategic approach to their R&D initiative.
@@ -411,7 +411,7 @@ Pricing a bundle can be defined by the expected value:
 
 IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same percentage of the specific `RST[x]` pool are also offered to IKU Token holders. Burning serves to increase the economic and utility value of the IKU Token, and build on the liquidity mechanism. 
 
-- A researchTarget is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the researchTarget of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
+- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the `researchTarget` of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
 
 - Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for FIAT. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
 
