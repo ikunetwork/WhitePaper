@@ -1,5 +1,8 @@
-#  IKU - Global Liquidity for Cures             
-Working Draft, Version 0.99 March 23, 2018
+#  IKU - Safe Drugs. New Tricks.
+Gregory Rigano: gregor@iku.network
+Michael Kisselgof: mike@iku.network
+
+Working Draft, Version 0.99 March 25, 2018
 
 ## Abstract 
 IKU is building the first decentralized cooperative DC to accelerate clinical trials at scale by offering a new form of liquidity and risk mitigation. The DC establishes clinical trial data rights as cryptoassets to be issued and traded in an open, global market. This architecture will be supported by a distributed network of researchers and interested parties enforcing behavior, specifically efficient clinical development of medicines, amongst each other.  It uses a two token model to provide for decision making and fee derivation, maximizing global liquidity pools.
@@ -299,11 +302,11 @@ An `RST[x]` carries pro-rata rights to its specific R&D `[x]` initiative and suc
 - `permissionlessLicense` threshold
 - 1st priority to upgrade to clinical trial subject
 - Access to medicine upon regulatory approval at a discounted (or free) rate [FN: compliant to jurisdiction]
-- RSTx DC right to perform work including **Voting rights to release funding for next stage of RST roadmap**, remove PI, etc.
+- `RST[x]DC` right to perform work including **Voting rights to release funding for next stage of RST roadmap**, remove PI, etc.
 
-R&D data will be made available to `RST[x]` holders and updated by the `RST[x]` team through the IN infrastructure on an ongoing basis. RSTx R&D data will be de-identified and stored on IPFS. Access to the data and and specific RSTx DC will be made available with possession of a minimum, predetermined RST threshold and private key, unless otherwise made public thru IKU. A transaction involving RST is the cryptographic validation of rights transfer to RST hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
+R&D data will be made available to `RST[x]` holders and updated by the `RST[x]DC` team through the IN infrastructure on an ongoing basis. `RST[x]DC` R&D data will be de-identified and stored on IPFS. Access to the data and and specific `RST[x]DC` will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
 
-### Smart Contract for RST Token
+### `RST[x]` Smart Contract
 
 ```solidity
 
@@ -329,28 +332,28 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 
 ```
-IPFS will serve to provide infrastructure for the `RST[x]` DC. The R&D team will provide updates to the RSTx Holders in their DC on a regular basis, in which `RST[x]` holders will have ability to:
+IPFS will serve to provide infrastructure for the `RST[x]DC`. The R&D team will provide updates to the `RST[x` Holders in their DC on a regular basis, in which `RST[x]` holders will have ability to:
 
 (i) Determine whether R&D team should have access to remainder of funds for continuing research (upon reaching or not reaching R&D milestone x - oracle),
 (ii) Upgrade to clinical trial subject,
-(iii) Provide reputation scores to fellow RST[x] holders and the R&D team
-(iv) remove R&D operations personnel (e.g. PI) upon achieving RST DC majority consensus.
+(iii) Provide reputation scores to fellow `RST[x]` holders and the R&D team
+(iv) remove R&D operations personnel (e.g. PI) upon achieving `RST[x]DC` majority consensus.
 
-The RSTx DC is incentivized to provide timely and relevant information to both its own DC and the public as the RSTx and also IKU will be at the mercy of market sentiment. IKU and RSTx tokens are expected to trade in real time, globally in the cryptourrency market place.  If an RSTx DC does not operate in efficient scientific fashion, this is expected to be reflected accordingly. 
+The `RST[x]DC` is incentivized to provide timely and relevant information to both its own DC and the public as the `RST[x]` and also IKU will be at the mercy of market sentiment. IKU and `RST[x]` tokens are expected to trade in real time, globally in the cryptourrency market place. If an `RST[x]DC` does not operate in efficient scientific fashion, this is expected to be reflected accordingly. 
 
-### The RSTx `permissionlessLicense`
+### The `RST[x]` `permissionlessLicense`
 
-The `permissionlessLicense` facilitates digital scarcity as an additional efficienct economic incentive vehicle. The `permissionlessLicense` protocol allows for global trade of any data or IP, that has scarcity properties, as cryptographic assets. Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic license to the data or IP generated by the RSTx DC. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding RSTx’s. The party who holds the private key to such Ethereum address now has a license to utilize and exploit the clinical trial data, e.g. completed Phase II clinical trial data,  to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the potential demand as the data and its corresponding license and therefore RST becomes more scientifically valuable i.e. completing Phase II clinical trials and therefore more value will be required by one who desires a `permissionlessLicense` to achieve the RST threshold.
+The `permissionlessLicense` facilitates digital scarcity as an additional efficienct economic incentive vehicle. The `permissionlessLicense` protocol allows for global trade of any data or IP, that has scarcity properties, as cryptographic assets. Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic license to the data or IP generated by the `RST[x]DC`. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding `RST[x]`. The party who holds the private key to such Ethereum address now has a license to utilize and exploit the clinical trial data, e.g. completed Phase II clinical trial data,  to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the potential demand as the data and its corresponding license and therefore `RST[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials and therefore more value will be required by one who desires a `permissionlessLicense` to achieve the `RST[x]` threshold.
 
-The IN will provide a standard `permissionlessLicense` with drop down variables such as territory, RST license threshold, required efforts for good faith development (e.g. FDA approval within [x time]), amongst others.  This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen, enabling an open streamlined licensing process.  In addition, parties will have the opportunity to provide their own customized license, subject to market demand.
+The IN will provide a standard `permissionlessLicense` with drop down variables such as territory, `RST[x]` license threshold, required efforts for good faith development (e.g. FDA approval within [x time]), amongst others.  This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen, enabling an open streamlined licensing process.  In addition, parties will have the opportunity to provide their own customized license, subject to market demand.
 
-Specifically, the `permissionlessLicense` enables exit opportunities for RST holders to license RST-backed data which can be obtained by any interested party (e.g. health insurance distributor, venture, foundation, etc.).  If the `permissionlessLicense` threshold is not achieved after a succcessful Phase II clinical trial, the RST DC may become a collective ad hoc venture team around its cryptoasset, e.g. an approved rare disease treatment with 7 years of market exclusivity in the U.S., for further development, market distribution, etc.  This creates a self perpetuating ecosystem of innovation and multiple opportunities for IKU and RST holders, as well as other parties interested in licensing.
+Specifically, the `permissionlessLicense` enables exit opportunities for `RST[x]` Holders to license `RST[x]`-backed data which can be obtained by any interested party (e.g. health insurance distributor, venture, foundation, etc.).  If the `permissionlessLicense` threshold is not achieved after a succcessful Phase II clinical trial, the `RST[x]DC` may become a collective ad hoc venture team around its cryptoasset, e.g. an approved rare disease treatment with 7 years of market exclusivity in the U.S., for further development, market distribution, etc.  This creates a self perpetuating ecosystem of innovation and multiple opportunities for IKU and `RST[x]` holders, as well as other parties interested in licensing.
 
-Upon the public release of the IN, IKU token holders will be able to decide what happens to RSTs that are not part of the `permissionlicense`. This may include creating a software bounty thats allows for royalties to flow to the remaining outstanding RSTs in exchange for work or in the alternative, as a securitized asset.  Because RSTs are traded on the Ethereum blockchain, provenance of RST data rights are known, facilitating potential trustless royalty distribution to RST holders from the licensee.  Note that this will be up to IKU token holders to decide.
+Upon the public release of the IN, IKU token holders will be able to decide what happens to `RST[x]` that are not part of the `permissionlicense`. This may include creating a software bounty thats allows for royalties to flow to the remaining outstanding `RST[x]` in exchange for work or in the alternative, as a securitized asset.  Because `RST[x]` is traded on the Ethereum blockchain, provenance of `RST[x]` data rights are known, facilitating potential trustless royalty distribution to `RST[x]` holders from the licensee.  Note that this will be up to IKU token holders to decide.
 
 ### Decentralized Key Management System 
 
-As the `RST[X]` DC is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to RST Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]` DC will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon RST Holder request of the `RST[x]` in the `devtools`.  @mike control f permissionliessLicense and make sure its all sme font
+As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.  
 
 **BRUNO - SHOULD WE INLCUDE PROXY REENCRYPTION DIAGRAM (BORROW FROM THEIR WHITE PAPER?)
 
@@ -360,8 +363,6 @@ The following sequence of events illustrate Network utility and ability to facil
 
 **Figure E: The Network Utility**
 
-<img width="900" alt="Global capital formation" src="https://github.com/marcgug/White-Paper/raw/master/Network%20Utility.png">
-
 get rid of bubbles - lets do this in two colums @Mike
 
 1. Submit a `researchTarget` for consideration. The `researchTargets` is public, accessible,  and can be upvoted captcha.  
@@ -369,12 +370,12 @@ get rid of bubbles - lets do this in two colums @Mike
 3. RFP:
 - RFP submissions must include their scientific, economic and strategic approach to their R&D initiative.
 - RFP submissions must utilize IKU smart contract templates.
-4. Peer review commences.  Upon `β` > λ, an RST contract is created, `RST[x]`, responsible for minting `RST[x]` to fund proposal.  Upon `RST[x]` achieving its softcap :
+4. Peer review commences.  Upon `β` > λ, an `RST[x]` contract is created, `RST[x]`, responsible for minting `RST[x]` to fund proposal.  Upon `RST[x]` achieving its softcap :
 (i) funds will be released to the R&D team,
-(ii) all RST Holders can participate in the RST DC,
-(iii) IKU Holders that have a Network Digital Wallet (and VR) earn fees in RST.
-5. R&D team commences and stores all data on IPFS only available for RST team protected thru proxy re-encryption.
-6. `RST[x]` available for `permissionlessLicense` and RSTi, globally liquid.
+(ii) all `RST[x]` Holders can participate in the `RST[x]DC`,
+(iii) IKU Holders that have a Network Digital Wallet (and VR) earn fees in `RST[x]`.
+5. R&D team commences and stores all data on IPFS only available for `RST[x]DC` team protected thru proxy re-encryption.
+6. `RST[x]` available for `permissionlessLicense` and `RST[i]`, globally liquid.
 
 **NOTE: SHOULD WE DELETE THE LIST AND JUST KEEP THE FLOW CHART?  THE FLOW CHART SHOULD BE CONDENSED TO MAXIMUM 5 BUBBLES**
 
@@ -388,15 +389,15 @@ While IKU in its initial phase will focus on redeveloping drugs, we anticipate f
 
 As to the platform itself, additional IN features are expected to be developed and/or integrated based on IKU decision making to further enable medical R&D efficiency, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs (e.g., PubMed, IP Databases). This will improve workflow efficiency and thus lead to enhanced platform performance. 
 
-As to specific anticipated service components, dependent on IKU token holder decision making, a software bounty may be deployed for RSTi bundling, *i* representing the number of RST’s bundled, as stated below:
+As to specific anticipated service components, dependent on IKU token holder decision making, a software bounty may be deployed for `RST[i]` bundling, `i` representing the number of `RST[x]` bundled, as stated below:
 
-Bundling may serve to enable various medical R&D financial products to mitigate economic and scientific risk exposure as well as provide horizontal, or vertical, research collaboration. As opposed to a traditional centralized corporation, the RST bundle lowers the cost of both trust and risk.
+Bundling may serve to enable various medical R&D financial products to mitigate economic and scientific risk exposure as well as provide horizontal, or vertical, research collaboration. As opposed to a traditional centralized corporation, the `RST[i]` bundle lowers the cost of both trust and risk.
 
 How to bundle:
-- Declare RST eligible to bundle with *i-1* in the `RFP`, during token sale, or later point in time
-- Declare RST seeking bundle
+- Declare `RST[x]` eligible to bundle with `i-1` in the `RFP`, during token sale, or later point in time
+- Declare `RST[x]` seeking bundle
 
-All IN R&D initiatives would have the option to actively bundle their RST’s into RSTi, or allow for RSTi to choose to bundle with an RST, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same, R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/RSTi in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
+All IN R&D initiatives would have the option to actively bundle `RST[x]` into `RST[i]`, or allow for `RST[i]` to choose to bundle with an `RST[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same, R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`RST[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
 
 **BRUNO - ANYTHING WE CAN SHOW HERE? IF NOT, NO WORRIES**. 
 
@@ -408,13 +409,11 @@ Pricing a bundle can be defined by the expected value:
 
 ### Burning
 
-IKU aligns its burning strategy with the creation of RST, where a % of IKU tokens contributed to a specific RST are burned from the IKU Reserve. The same percentage of the specific RST pool are also offered to IKU Token holders. Burning serves to increase the economic and utility value of the IKU Token, and build on the liquidity mechanism. 
+IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same percentage of the specific `RST[x]` pool are also offered to IKU Token holders. Burning serves to increase the economic and utility value of the IKU Token, and build on the liquidity mechanism. 
 
-For example: @Mike make sure all code font is same thru out
+- A researchTarget is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the researchTarget of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
 
-- A researchTarget is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the researchTarget of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated RST  Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in RST are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
-
-- Let’s say Bob contributed 500 IKU tokens to RST Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for FIAT. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the RST pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
+- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for FIAT. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
 
 
 ## Conclusion
