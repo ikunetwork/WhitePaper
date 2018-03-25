@@ -1,7 +1,5 @@
 #  IKU - Better Drugs. Better Tricks.
 
-by Gregory Rigano & Michael Kisselgof
-
 Working Draft, Version 0.99 March 25, 2018
 
 ## Abstract 
