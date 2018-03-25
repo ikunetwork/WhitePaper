@@ -1,8 +1,6 @@
 #  IKU - Safe Drugs. New Tricks.
 
-Gregory Rigano: gregor@iku.network
-
-Michael Kisselgof: mike@iku.network
+by Gregory Rigano & Michael Kisselgof
 
 Working Draft, Version 0.99 March 25, 2018
 
