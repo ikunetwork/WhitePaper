@@ -134,13 +134,12 @@ Figure D further contextualizes the benefits of the IKU data approach:
 
 ### IKU Scales at Low Cost 
  
-The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $5 -100 million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent market per medicine approval (NME). Figure E compares this for better context:
+The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $5 -100 [FN] million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure E compares this for better context:
 
 **Figure E: IKU Scales at Low Cost**
 
 <img width="900" alt="IKU Data Approach" src="https://github.com/marcgug/White-Paper/raw/master/IKU%20Scale%20Cost.png">
-
-At 100% saturation (maximum share the network will take of its target market), IKU estimates to potentially address a market of 200 projects on average per year with a 30% chance of FDA approval. Thus ~ 60 approved medicines on average per year. In fact, IKU can scale even higher with non-patent projects costing less than $100 million. @ Mike All IKU Scales at Low Cost
+IKU estimates to potentially address a market of 200 projects on average per year with a 30% chance of FDA approval per project. Thus ~ 60 approved redeveloped medicines on average per year at a 12% conservative cost of a patented NME. In fact, IKU can scale 10x higher with non-patent projects costing as little as $10 million. 
 
 ### Token and License
 
