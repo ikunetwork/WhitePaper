@@ -141,7 +141,7 @@ IKU estimates to potentially address a market of 200 projects on average per yea
 
 ### Token and License
 
-The IN will be bootstrapped by token **IKU**.  The IN will be controlled by its users with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful clinical trial development.  Token value on the IN can be derived from the following:
+The IN will be controlled by its users, **IKU** token holders, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful clinical trial development.  Token value on the IN can be derived from the following:
 
 - Power to perform work for IN, including peer review R&D for capitalization
 - IKU fee structure (defined below)
