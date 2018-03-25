@@ -94,7 +94,7 @@ Ethereum is the internet's government, and smart contracts are its laws.[FN] Sma
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to make sure agreements are executed. Efficiency increases, especially in markets that are fraught with litigation, allowing for new markets where too much overhead is required for trade and/or little exchange of information. No third party is needed for escrow. Money is guaranteed to flow on contract resolution without the need to sue. Smart contracts provide justice without judges.
 
-IKU is built on Ethereum, leveraging smart contracts to transact in clinical trial assets without the necessity of a middle man (VC, investment banks, Big Pharma, etc). This dramatically decreases barrier to entry, and allows (i) scientists and other learned persons to directly engage p2p capital for the creation and trade of peer reviewed clinical research proposals (see below) as Research Specific Tokens `RST` on the IN, (ii) anyone to participate in the market and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively review and direct liquid research data, incentivizing one record of scientific truth.
+IKU is built on Ethereum, leveraging smart contracts to transact in clinical trial assets without the necessity of a middle man (VC, investment banks, Big Pharma, etc). This dramatically decreases barrier to entry, and allows (i) scientists and other learned persons to maximize scientific objectives by directly engaging p2p capital for the creation and trade of peer reviewed clinical research proposals (see below) as Research Specific Tokens `RST` on the IN, (ii) anyone to participate in the market and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively review and direct liquid research data, incentivizing one record of scientific truth.
 
 ### Why IKU?
 
@@ -190,7 +190,7 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 
 - **IKU Holder**: IKU token holder; can be an individual, institution, private company, etc. (described further below)
 - **`RST[x]` Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. (described further below)  
-- **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU Peer Review process.  
+- **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU peer review process.  
 - **ADV** Anonymous data viewer - the public, who freely contributes a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition all `RST[x]DC` initiatives will post a gnatt chart for how advanced their research initiative is as well as the top line de-identified research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
@@ -210,7 +210,7 @@ An `RFP` is required to consist of (i) a principal investigator PI that leads th
 
 Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.[FN]  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.[FN] Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable proper clinical trials.[FN]
 
-The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU Peer Review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - incentivizing the the most promising redevelopment initiatives to be capitalized. 
+The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU reer review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - incentivizing the the most promising redevelopment initiatives to be capitalized. 
 
 IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving the longevity escape velocity for as many humans as possible. Participants will use the `devTools` to peer review, allowing for a community R&D demand oracle and prediction index, encouraging capitalization of highly rated proposals.  
 
@@ -362,21 +362,15 @@ The following sequence of events illustrate Network utility and ability to facil
 
 **Figure E: The Network Utility**
 
-get rid of bubbles - lets do this in two colums @Mike
-
-1. Submit a `researchTarget` for consideration. The `researchTarget` is public, accessible,  and can be upvoted captcha.  
-2. Login to EN to use the `devTools A`. If participant possess IKU, he/she can login and access `devTools B`. A VR is guaranteed access to ‘devTools B’, as funded by the elixrONE reserve. An non-VR must purchase IKU and must post bond of to make submit RFP, protecting against spam. 
-3. RFP:
-- RFP submissions must include their scientific, economic and strategic approach to their R&D initiative.
-- RFP submissions must utilize IKU smart contract templates.
-4. Peer review commences.  Upon `β` > λ, an `RST[x]` contract is created, `RST[x]`, responsible for minting `RST[x]` to fund proposal.  Upon `RST[x]` achieving its softcap :
-(i) funds will be released to the R&D team,
-(ii) all `RST[x]` Holders can participate in the `RST[x]DC`,
-(iii) IKU Holders that have a Network Digital Wallet (and VR) earn fees in `RST[x]`.
-5. R&D team commences and stores all data on IPFS only available for `RST[x]DC` team protected thru proxy re-encryption.
-6. `RST[x]` available for `permissionlessLicense` and `RST[i]`, globally liquid.
-
-**NOTE: SHOULD WE DELETE THE LIST AND JUST KEEP THE FLOW CHART?  THE FLOW CHART SHOULD BE CONDENSED TO MAXIMUM 5 BUBBLES**
+`researchTarget`
+`RFP`
+Peer Review
+`β` > `λ`
+Smart Contract Spawned
+Soft Cap Reached
+`RST[x]` minted
+`RST[x]DC` liquid R&D ongoing
+`permissionlessLicense` 
 
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.  [FN: The funds will be stored in an Ethereum MultiSigWallet (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
