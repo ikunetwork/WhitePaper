@@ -136,13 +136,9 @@ The current legacy model is costly as we explained above. IKU on the other hand 
 **Figure E: IKU Scales at Low Cost**
 
 <img width="900" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales%20at%20Low%20Cost.png">
-30 medicines are annually approved by the FDA at a ~$173M Average Market Spend per Project. IF IKU were to address 30 FDA approved medicines per year at a an Average Market Spend per Project per Year at ~$20M, simple math can show you much less IKU costs at an accelerated Average Entry Point of 5 years. Hence, scale at low cost.
+30 medicines are  approved by the FDA annually at a ~$5.2B Average R&D Spend per Year. The expectation is for IKU to scale at low cost as the same number of approved medicines addressed by IKU will be 12% of traditional spend.
 
-If IKU addresses one or more medicines with FDA approved project per year at a $20M Average Market Spend Per Project per Year,
-
-project per year at a $20M Average Market Spend per
-
-IKU estimates to potentially address a market of 200 projects on average per year with a 30% chance of FDA approval per project. Thus ~ 60 approved redeveloped medicines on average per year at a 12% conservative cost of a patented NME. In fact, IKU can scale 10x higher with non-patent projects costing as little as $10 million. 
+IF IKU were to address 30 FDA approved medicines per year at a an Average Market Spend per Project per Year at ~$20M, simple math can show you much less IKU costs at an accelerated Average Entry Point of 5 years. Hence, scale at low cost.
 
 ### Token and License
 
