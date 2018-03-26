@@ -131,7 +131,7 @@ Figure D further contextualizes the benefits of the IKU data approach:
 
 ### IKU Scales at Low Cost 
  
-The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $5 - $100 [FN] million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure E compares this for better context:
+The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100 [FN] million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure E compares this for better context:
 
 **Figure E: IKU Scales at Low Cost**
 
