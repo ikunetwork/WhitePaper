@@ -32,8 +32,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    2. [RST Value](#rst-value)
    3. [The RST permissionlessLicense](#the-rst-permissionlessLicense)
    4. [SMART K for permissionlessLicense](#smart-k-for-permissionlessLicense)
-   5. [Royalties](#royalties) [CONSIDER DELETING THIS]------------------------------------------ OR SAVING FOR LATER
-   6. [Fees and the Network Digital Wallet](#fees-and-the-network-digital-wallet)
+   5. [Fees and the Network Digital Wallet](#fees-and-the-network-digital-wallet)
    7. [Network Utility for R&D](#network-utility-for-rd)
    8. [The IKU Reserve](#the-elixr-reserve)
    9. [Phased Rollout + The RST Bundle](#phased-rollout-the-rst-bundle)
@@ -136,7 +135,7 @@ The current legacy model is costly as we explained above. IKU on the other hand 
 
 **Figure E: IKU Scales at Low Cost**
 
-<img width="900" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales%20Cost.png">
+<img width="900" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales%20at%20Low%20Cost.png">
 30 medicines are annually approved by the FDA at a ~$173M Average Market Spend per Project. IF IKU were to address 30 FDA approved medicines per year at a an Average Market Spend per Project per Year at ~$20M, simple math can show you much less IKU costs at an accelerated Average Entry Point of 5 years. Hence, scale at low cost.
 
 If IKU addresses one or more medicines with FDA approved project per year at a $20M Average Market Spend Per Project per Year,
