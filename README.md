@@ -75,7 +75,7 @@ The outcome is a ~20 year backlog of potential medicines waiting for funds to en
 
 ### IKU Approach
 
-A liquid clinical trial acceleration network, serving to efficiently achieve longevity escape velocity while providing entry and exit opportunities through a fungible licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for clinical research efficiency. See Figure C:
+A liquid clinical trial acceleration network focused on redeveloping medicines serving to efficiently achieve longevity escape velocity while providing entry and exit opportunities through a fungible licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for clinical research efficiency. See Figure C:
 
 **Figure C: Existing Medical Funding Models** 
 
@@ -95,7 +95,7 @@ IKU is built on Ethereum, leveraging smart contracts to transact in clinical tri
 
 ### Why IKU?
 
-IKU allows for multilateral transparency and contractual settlement for R&D, currently not possible within the legacy bio R&D system vulnerable to monopoly. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in efficient R&D assets through decentralized resource allocation and increased market transparency. The successful creation of this system should create a positive feedback loop both economically and scientifically. 
+IKU allows for multilateral transparency and contractual settlement for R&D, currently not possible within the legacy bio R&D system vulnerable to monopoly. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in efficient R&D assets through decentralized resource allocation and increased market transparency. The successful creation of this system will create a positive feedback loop both economically and scientifically. 
 
 In addition, the IN will serve to attract R&D ideation through crowdsourced input from thought leaders and patients. Realistically, physicians and patients do not have the time, expertise or resources to commence clinical trials, resulting in drop off. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives. 
 
