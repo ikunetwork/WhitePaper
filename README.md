@@ -75,7 +75,7 @@ The outcome is a ~20 year backlog of potential medicines waiting for funds to en
 
 ### IKU Approach
 
-A liquid clinical trial acceleration network focused on redeveloping medicines serving to efficiently achieve longevity escape velocity while providing entry and exit opportunities through a fungible licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for clinical research efficiency. See Figure C:
+A liquid clinical trial acceleration network focused on redeveloping medicines serving to efficiently achieve longer life expectancies while providing entry and exit opportunities through a fungible licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for clinical research efficiency. See Figure C:
 
 **Figure C: Existing Medical Funding Models** 
 
@@ -208,7 +208,7 @@ Network-based computational biology analysis has become a widely used strategy f
 
 The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU peer review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the the most promising redevelopment initiatives to be capitalized. 
 
-IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving the longevity escape velocity for as many humans as possible. 
+IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving the longer lifespans for as many humans as possible. 
 
 Participants will use the `devTools` to peer review.  The IN peer review process to score an `RFP` can be defined as a function:
 
