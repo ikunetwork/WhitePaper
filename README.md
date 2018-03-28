@@ -157,6 +157,7 @@ The mission is to establish the IN as a public utility for medical research, dri
 The following sequence of events illustrate the IKU Network utility and ability to facilitate global capital formation for medical R&D initiatives:
 
 **Figure E: IKU Network Utility**
+
 <img width="600" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
 
 IKU strives to achieve  for the `permissionlessLicense` to be created and traded in liquid fashion, ultimately accelerating the path to medicine and drug discovery. The following Network Economy and Tokenization sections explain how achieve such a license.
