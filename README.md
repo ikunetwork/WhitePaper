@@ -1,6 +1,8 @@
 #  IKU - The New Digital License
 
-## Trading Clinical Trial Data Rights as a Method of Advancing Drug Discovery
+**Trading Clinical Trial Data Rights as a Method of Advancing Drug Discovery**
+
+by Gregory Rigano & Michael Kisselgof
 
 Working Draft, Version 0.99 March 25, 2018
 
