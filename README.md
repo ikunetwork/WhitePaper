@@ -29,13 +29,15 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    4. [Request for Proposals](#request-for-proposals)
    5. [The Proposal Library](#the-proposal-library)
 3. [Tokenization](#tokenization)
-   1. [IKU Value](#iku-value)
-   2. [RST Value](#rst-value)
-   3. [The RST permissionlessLicense](#the-rst-permissionlessLicense)
-   4. [SMART K for permissionlessLicense](#smart-k-for-permissionlessLicense)
-   5. [Fees and the Network Digital Wallet](#fees-and-the-network-digital-wallet)
+   1. [IKU](#iku)
+   2. [RST](#rst)
+   3. [IKU Value](#iku-value)
+   4. [`RST[x]` Value](#`RST[x]`-value)
+   5. [Burning](#burning)
+   5. [The RST[x]permissionlessLicense](#the-rst[x]-permissionlessLicense)
+   6. [Decentralized Key Management System](#decentralized-key-management-system)
    6. [The IKU Reserve](#the-elixr-reserve)
-   7. [Phased Rollout + The RST Bundle](#phased-rollout-the-rst-bundle)
+   7. [Future Development](#future-development)
 5. [Conclusion](#conclusion)
 
 ## Introduction
@@ -155,14 +157,14 @@ The mission is to establish the IN as a public utility for medical research, dri
 The following sequence of events illustrate the IKU Network utility and ability to facilitate global capital formation for medical R&D initiatives:
 
 **Figure E: IKU Network Utility**
-<img width="900" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
+<img width="600" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
 
 IKU strives to achieve  for the `permissionlessLicense` to be created and traded in liquid fashion, ultimately accelerating the path to medicine and drug discovery. The following Network Economy and Tokenization sections explain how achieve such a license.
 
 ## The Network Economy
 The IN combines the wisdom of crowds with the wisdom of science thru participant communication, capital and data exchange. The following tools will give life to the IN: `researchTarget`, `devTools`, Request for Proposals `RFP`, and the `permissionlessLicense`. 
 
-### `researchTarget`
+### Research Target
 
 Any person with internet access may frictionlessly submit a `researchTarget` which may be a concrete, verifiable objective or broad target. For example:
 - Verifiable Object: Repurposing generic X in a slow release formulation to treat pancreatic cancer
@@ -170,7 +172,7 @@ Any person with internet access may frictionlessly submit a `researchTarget` whi
 
 Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e therapy, device, vaccine, etc., mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
 
-### `devTools`
+### Dev Tools
 
 Participants will access the IN through a `devTools` integrated interface. The `devTools` consist of the following:
 - `RFP` submission forms
@@ -239,7 +241,7 @@ Upon `RSTCrowdsale[x]` achieving its softcap - minimum `RST[x]` required to achi
 
 Funds released to the R&D team in BTC, ETH and IKU can be converted to fiat, through a trusted third party crypto to fiat provider such as Coinbase. In addition, prior to initiating a clinical trial, an `RST[x]DC` will be responsible for ensuring ethical compliance through an institutional review board.
 
-### Smart contract code for `RSTCrowdsale` 
+**Smart contract code for `RSTCrowdsale`**
 
 ```solidity
 pragma solidity ^0.4.18;
@@ -282,7 +284,7 @@ contract RSTCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 
 The IN creates two classes of native tokens:
 
-- **IKU**: The IN token IKU serves to secure the IN with consensus on R&D, allow for IN decision making and fee 	derivation as further explained under IKU Value. The supply of IKU is finite. 
+- **`IKU`**: The IN token `IKU` serves to secure the IN with consensus on R&D, allow for IN decision making and fee 	derivation as further explained under IKU Value. The supply of IKU is finite. 
 	
 - **`RST`**: The Research Specific Token `RST` is representative of the R&D `[x]` it was specifically created to fund. `RST[x]` supply is determined by proposers and is dependent on the project economics it is used to fund and facilitate. `RST[x]` bundles, `RST[i]` may  be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RST[x]` bundled. 
 
@@ -308,7 +310,7 @@ An `RST[x]` carries pro-rata rights to its specific R&D `[x]` initiative and suc
 
 R&D data will be made available to `RST[x]` holders and updated by the `RST[x]DC` team through the IN infrastructure on an ongoing basis. `RST[x]DC` R&D data will be de-identified and stored on IPFS. Access to the data and specific `RST[x]DC` will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
 
-### `RST[x]` Smart Contract
+**`RST[x]` Smart Contract**
 
 ```solidity
 
@@ -342,6 +344,14 @@ IPFS will serve to provide infrastructure for the `RST[x]DC`. The R&D team will 
 (iv) remove/replace R&D operations personnel (e.g. PI) upon achieving `RST[x]DC` majority consensus.
 
 The `RST[x]DC` is incentivized to provide timely and relevant information to both its own DC and the public as the `RST[x]` and also IKU will be at the mercy of market sentiment. IKU and `RST[x]` tokens are expected to trade in real time, globally in the cryptourrency market place. If an `RST[x]DC` does not operate in efficient scientific fashion, this is expected to be reflected accordingly. 
+
+### Burning
+
+IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same percentage of the specific `RST[x]` pool are also offered to IKU Token holders. Burning may occur as follows:
+
+- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the `researchTarget` of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
+
+- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for FIAT. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
 
 ### The `RST[x]` `permissionlessLicense`
 
@@ -381,15 +391,6 @@ This would be especially important for clinical trials in the same research vert
 Pricing a bundle can be defined by the expected value:
 
 <img width="200" alt="Expected Value" src="https://github.com/marcgug/White-Paper/raw/master/Expected%20Value.PNG">
-
-### Burning
-
-IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same percentage of the specific `RST[x]` pool are also offered to IKU Token holders. Burning may occur as follows:
-
-- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the `researchTarget` of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
-
-- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for FIAT. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
-
 
 ## Conclusion
 IKU will serve to enable unprecedented global organization and deployment of resources for safe and impactful clinical trial research. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant medical innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient medical R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire patent agnostic digital medical R&D system.  This is the fundamental intention and the essence of the IN.
