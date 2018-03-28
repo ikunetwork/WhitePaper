@@ -21,6 +21,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
    8. [Token and License](#token-and-license)
    9. [The IKU Foundation](#the-IKU-foundation)
+   10.[IKU Network Utility for R&D](#iku-network-utility)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
    2. [Dev Tools](#deve-tools)
@@ -33,10 +34,8 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    3. [The RST permissionlessLicense](#the-rst-permissionlessLicense)
    4. [SMART K for permissionlessLicense](#smart-k-for-permissionlessLicense)
    5. [Fees and the Network Digital Wallet](#fees-and-the-network-digital-wallet)
-   7. [Network Utility for R&D](#network-utility-for-rd)
-   8. [The IKU Reserve](#the-elixr-reserve)
-   9. [Phased Rollout + The RST Bundle](#phased-rollout-the-rst-bundle)
-4. [Token Distribution](#token-distribution) (TODO)
+   6. [The IKU Reserve](#the-elixr-reserve)
+   7. [Phased Rollout + The RST Bundle](#phased-rollout-the-rst-bundle)
 5. [Conclusion](#conclusion)
 
 ## Introduction
@@ -151,9 +150,17 @@ Licensees will either be in the form of a third party that acquires a certain th
 
 The mission is to establish the IN as a public utility for medical research, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate as the IKU Foundation, a Singapore [nonprofit] organization whose core objective is to establish and facilitate the IN, create IKU, maintain the IKU reserve and evangelize R&D efficiencies.  In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IKU code and (ii) accomplishing specific medical innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN. To be clear, after the IN is live as described below, there will be no difference between the IN and the IKU Foundation.  
 
+### IKU Network Utility
+
+The following sequence of events illustrate the IKU Network utility and ability to facilitate global capital formation for medical R&D initiatives:
+
+**Figure E: IKU Network Utility**
+<img width="900" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
+
+IKU strives to achieve  for the `permissionlessLicense` to be created and traded in liquid fashion, ultimately accelerating the path to medicine and drug discovery. The following Network Economy and Tokenization sections explain how achieve such a license.
+
 ## The Network Economy
 The IN combines the wisdom of crowds with the wisdom of science thru participant communication, capital and data exchange. The following tools will give life to the IN: `researchTarget`, `devTools`, Request for Proposals `RFP`, and the `permissionlessLicense`. 
-
 
 ### `researchTarget`
 
@@ -350,27 +357,8 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 
 As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.  
 
-**BRUNO - SHOULD WE INLCUDE PROXY REENCRYPTION DIAGRAM (BORROW FROM THEIR WHITE PAPER?)
-
-### Network Utility for R&D 
-
-The following sequence of events illustrate Network utility and ability to facilitate global capital formation for medical R&D initiatives:
-
-**Figure E: The Network Utility**
-
-`researchTarget`
-`RFP`
-Peer Review
-`β` > `λ`
-Smart Contract Spawned
-Soft Cap Reached
-`RST[x]` minted
-`RST[x]DC` liquid R&D ongoing
-`permissionlessLicense` 
-
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.  [FN: The funds will be stored in an Ethereum MultiSigWallet (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
-
    
 ### Future Development
 
@@ -387,8 +375,6 @@ How to bundle:
 - Declare `RST[x]` seeking bundle
 
 All IN R&D initiatives would have the option to actively bundle `RST[x]` into `RST[i]`, or allow for `RST[i]` to choose to bundle with an `RST[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`RST[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
-
-**BRUNO - ANYTHING WE CAN SHOW HERE? IF NOT, NO WORRIES**. 
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk. Capital resources would be allocated purely towards R&D with the ability to algorithmically bond with each other thru smart contract. 
 
