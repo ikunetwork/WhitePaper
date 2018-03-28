@@ -403,6 +403,6 @@ IKU will serve to enable unprecedented global organization and deployment of res
 - ~80% of the litigation comes from patent trolls 
 - 50%+ of U.S. patents are being invalidated in post-grant proceedings,
 
-All of which lead to significant issues in transaction finality, exacerbating an already illiquid market.[↩](#a3)
+All of which lead to significant issues in transaction finality, exacerbating an already illiquid market.
 
 <b id="f4">4</b> [Footnote content here]
