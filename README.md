@@ -1,6 +1,6 @@
 #  IKU - The New Digital License
 
-**Trading Clinical Trial Data Rights as a Method of Advancing Drug Discovery**
+**Trade Clinical Trial Data Rights as a Method of Advancing Drug Discovery**
 
 
 by Gregory Rigano & Michael Kisselgof
@@ -132,8 +132,8 @@ The current legacy model is costly as we explained above. IKU on the other hand 
 
 **Figure E: IKU Scales at Low Cost**
 
-<img width="900" alt="IKU Scales at Low Cost" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales.png">
-The expectation is for IKU to scale at low cost as the same number of approved medicines addressed by IKU will be at least 88% more efficient. As ~30 medicines are approved by the FDA annually at a ~$5.2B Total Average R&D Spend per Year, IKU is epected to address the same number at a fraction of the cost (~10x - 100x more cost efficient). 
+<img width="900" alt="IKU Scales at Low Cost" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales%20Cost.png">
+The expectation is for IKU to scale at low cost as the same number of approved medicines addressed by IKU will be at least 88% more efficient. As ~30 medicines (~5% of all ongoing R&D at all times) are approved by the FDA annually at a ~$5.2B Total Average R&D Spend per Year, IKU is epected to address ~180 at a fraction of the cost, as the FDA approval for non-patents is ~30%. Hence, scale.
 
 ### Token and License
 
