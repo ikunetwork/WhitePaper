@@ -9,7 +9,7 @@ by Gregory Rigano & Michael Kisselgof
 ## Abstract 
 IKU is building the first decentralized cooperative DC to accelerate clinical trials at scale by offering a new form of liquidity and risk mitigation. The DC establishes clinical trial data rights as cryptoassets to be issued and traded in an open, global market. This architecture will be supported by a distributed network of researchers and interested parties enforcing behavior, specifically efficient clinical development of medicines, amongst each other.  It uses a two token model to provide for decision making and fee derivation, maximizing global liquidity pools.
 
-Currently, the marginial increase in lifespan is severely disproportionate to duration of research advancement. Drug development and clinical trials traditionally focus on brand new molecules that have never previously touched humans, resulting in over $1 billion spend and a ~15 year market entry point per drug - a very faulty, non-scalable process. In parallel, ~50% of existing medicines can be redeveloped to reach the market at a fraction of the cost and time [FN: and time to treat a disease or condition for which there is currently not a quality treatment option] (cite: According to U.S. National Institute of Health researchers and supported by various computational frameworks). Unfortunately, redevelopment initiatives fail to be capitalized due to a lack of incentivization, bounded by analogue patent policy.
+Currently, the marginial increase in lifespan is severely disproportionate to duration of research advancement. Drug development and clinical trials traditionally focus on brand new molecules that have never previously touched humans, resulting in over $1 billion spend and a ~15 year market entry point per drug - a very faulty, non-scalable process. In parallel, ~50% of existing medicines can be redeveloped to reach the market at a fraction of the cost and time<sup>[1](#f1)</sup>. Unfortunately, redevelopment initiatives fail to be capitalized due to a lack of incentivization, bounded by analogue patent policy.
 
 Blockchain-based fintech enables incentive efficiencies where they were not previously possible. Specifically, smart contracts collapse capital, data and execution into one, providing a new digital incentive mechanism. By enabling global markets to facilitate smart contracts through a DC for redevelopment clinical trials, we can significantly increase the return in lifespan per unit of time conducted in research. No Big Pharma necessary. A digital, liquid clinical trial economy is a new paradigm, serving to improve capital formation and realization of pent up demand for new medical technology. This paper explains how to push science and medicine to boundaries yet unseen through (i) the deficiencies of the current legacy R&D model resulting in a low velocity of value, (ii) the mission of creating a digitally, liquid global market to scale clinical research and (iii) ultimately compounding value to achieve longer lifespans for as many humans as possible. 
 
@@ -47,21 +47,13 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
 ## Introduction
 ### Problem Statement 
 
-Medical research operates in analog fashion. And rightfully so as patents and capital formation operate under the same analog hood. Unfortunately, the patent system makes it close to impossible for the public to realize new medicines at scale.[FN]  Why? Patents are supported by outdated analog infrastructure that come with significant costs in trust and liquidity as there is no enforceable global record of data ownership without litigation. [FN - bracket below] This causes significant inefficiencies in clinical development that only large, well-capitalized corporations can sustain. These coprorations then  then seek rent from patients, insurance and the general public through high retail cost. Amazingly, the most expensive drugs in the world are for rare diseases, the smallest and most desperate patient populations, costing as much as $1 million+ per unit.[FN]  Because of such inefficiency, scientists are incentivized to keep their data secret in hopes of a large corporation licensing their research data, as opposed to collaborating with their peers in an open environment.  The result is very limited investment, on a per capita basis, in clinical research and significant illiquidity as the necessary resources are firmly controlled by centralized institutions. 
-
- [FN: Such inefficiencies have caused significant  IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
-
-- patent litigation costs ~ $30 billion per year
-- ~80% of the litigation comes from patent trolls 
-- 50%+ of U.S. patents are being invalidated in post-grant proceedings,
-
-All of which lead to significant issues in transaction finality, exacerbating an already illiquid market.]
+Medical research operates in analog fashion. And rightfully so as patents and capital formation operate under the same analog hood. Unfortunately, the patent system makes it close to impossible for the public to realize new medicines at scale.<sup>[2](#f2)</sup> Why? Patents are supported by outdated analog infrastructure that come with significant costs in trust and liquidity as there is no enforceable global record of data ownership without litigation. <sup>[3](#f3)</sup> This causes significant inefficiencies in clinical development that only large, well-capitalized corporations can sustain. These coprorations then  then seek rent from patients, insurance and the general public through high retail cost. Amazingly, the most expensive drugs in the world are for rare diseases, the smallest and most desperate patient populations, costing as much as $1 million+ per unit.<sup>[4](#f4)</sup>  Because of such inefficiency, scientists are incentivized to keep their data secret in hopes of a large corporation licensing their research data, as opposed to collaborating with their peers in an open environment.  The result is very limited investment, on a per capita basis, in clinical research and significant illiquidity as the necessary resources are firmly controlled by centralized institutions. 
 
 Specifically, capital is nearly exclusively allocated to new molecular entities NME - molecules that have never been conceived nor had human exposure, as NME patents are most difficult to invalidate. Unfortunately, NME's as are rather logistically difficult to achieve, requiring:
 
 - ~$2.6 billion in R&D spend
 - ~15 years to complete clinical trials for market access
-- ~0.02% chance of obtaining FDA approval upon being discovered in the lab [FN]
+- ~0.02% chance of obtaining FDA approval upon being discovered in the lab <sup>[5](#f5)</sup>
 
 This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a solid linear fashion, with IRR already below the cost of capital in 2017. [FN] See Figure A:
 
@@ -401,38 +393,16 @@ Pricing a bundle can be defined by the expected value:
 IKU will serve to enable unprecedented global organization and deployment of resources for safe and impactful clinical trial research. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant medical innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient medical R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire patent agnostic digital medical R&D system.  This is the fundamental intention and the essence of the IN.
 
 ## Footnotes
-<b id="f1">1</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, Deli very, https://energycommerce.house.gov/cures/ (2016).[↩](#a1)
+<b id="f1">1</b> According to U.S. National Institute of Health researchers and supported by various computational frameworks.
 
-<b id="f2">2</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk (2013).[↩](#a2)
+<b id="f2">2</b> [footnote content here.]
 
-<b id="f3">3</b> NIH Budgets Office, NIH Funding FYs 2000 – 2016, Association of American Medical Colleges, (2016).[↩](#a3)
+<b id="f3">3</b> FN: Such inefficiencies have caused significant  IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
 
-<b id="f4">4</b> Andrew Lo, Jose Maria Fernandez, et. al., Can Financial Engineering Cure Cancer, MIT, American Economic Review (2013).[↩](#a4)
+- patent litigation costs ~ $30 billion per year
+- ~80% of the litigation comes from patent trolls 
+- 50%+ of U.S. patents are being invalidated in post-grant proceedings,
 
-<b id="f5">5</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review (2014). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog (2017).  Robert Sachs, Fenwick & West LLP, Patent Invalidity Rates: The Summertime Blues Continue, Law 360 (2015).[↩](#a5)
+All of which lead to significant issues in transaction finality, exacerbating an already illiquid market.[↩](#a3)
 
-<b id="f6">6</b> Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion (2014).  James W. Henderson, Health and Economics Policy (2017).[↩](#a6)
-
-<b id="f7">7</b> J. Hudson et. al., Into the valley of death: from research to innovation, https://www.ncbi.nlm.nih.gov/pubmed/23402848 (2013).[↩](#a7)
-
-<b id="f8">8</b> Vitalik Buterin, A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM, ethereum/Wiki.[↩](#a8)
-
-<b id="f9">9</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks (1997), http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction. [↩](#a9)
-
-<b id="f10">10</b> Bruce Bloom, Cures Within Reach, http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/ (2017).  Bernard Munos, Faster Cures, https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091 (2016).[↩](#a10)
-
-<b id="f11">11</b> Vikas P. Sukhatme, MD, Global Cures, Repurposing Existing Drugs for New Indications (2017).  Bernard Munos, Faster Cures, https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091 (2016).[↩](#a11)
-
-<b id="f12">12</b> DCAT, Drug Repurposing and Repositioning: Making New Out of Old (2016), http://connect.dcat.org/blogs/patricia-van-arnum/2016/07/05/drug-repurposing-and-repositioning-making-new-out-of-old#.WdYwShNSwU0. [↩](#a12)
-
-<b id="f13">13</b> Grandview Research, Medical Marijuana Market Size To Reach USD 55.8 Billion By 2025 (2017).[↩](#a13)
-
-<b id="f14">14</b> NIH Medical Marijuana, https://nccih.nih.gov/health/marijuana .[↩](#a14)
-
-<b id="f15">15</b> Irena Melnikova, Orphan drug approvals by therapeutic area, Nature (2012). Global Genes, RARE Diseases: Facts and Statistics (2017).[↩](#a15)
-
-<b id="f16">16</b> Vitalik Buterin, Keynote, Ethereum Singapore Meetup (Aug. 16, 2017).[↩](#a16)
-
-<b id="f17">17</b> Joseph Poon, et. al., OmiseGo Decentralized Exchange and Payments Platform (2017).[↩](#a17)
-
-<b id="f18">18</b> Dominic Williams, A recipe for creating fully decentralized cryptocurrency exchanges today, DFINITY network (2017).[↩](#a18)
+<b id="f4">4</b> [Footnote content here]
