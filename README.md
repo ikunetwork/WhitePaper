@@ -49,25 +49,25 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
 
 Medical research operates in analog fashion. And rightfully so as patents and capital formation operate under the same analog hood. Unfortunately, the patent system makes it close to impossible for the public to realize new medicines at scale.<sup>[2](#f2)</sup> Why? Patents are supported by outdated analog infrastructure that come with significant costs in trust and liquidity as there is no enforceable global record of data ownership without litigation. <sup>[3](#f3)</sup> This causes significant inefficiencies in clinical development that only large, well-capitalized corporations can sustain. These coprorations then  then seek rent from patients, insurance and the general public through high retail cost. Amazingly, the most expensive drugs in the world are for rare diseases, the smallest and most desperate patient populations, costing as much as $1 million+ per unit.<sup>[4](#f4)</sup>  Because of such inefficiency, scientists are incentivized to keep their data secret in hopes of a large corporation licensing their research data, as opposed to collaborating with their peers in an open environment.  The result is very limited investment, on a per capita basis, in clinical research and significant illiquidity as the necessary resources are firmly controlled by centralized institutions. 
 
-Specifically, capital is nearly exclusively allocated to new molecular entities NME - molecules that have never been conceived nor had human exposure, as NME patents are most difficult to invalidate. Unfortunately, NME's as are rather logistically difficult to achieve, requiring:
+Specifically, capital is nearly exclusively allocated to new molecular entities NME - molecules that have never been conceived nor had human exposure, as NME patents are most difficult to invalidate.<sup>[5](#f5)</sup> Unfortunately, NME's as are rather logistically difficult to achieve, requiring:
 
 - ~$2.6 billion in R&D spend
 - ~15 years to complete clinical trials for market access
-- ~0.02% chance of obtaining FDA approval upon being discovered in the lab <sup>[5](#f5)</sup>
+- ~0.02% chance of obtaining FDA approval upon being discovered in the lab <sup>[6](#f6)</sup>
 
-This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a solid linear fashion, with IRR already below the cost of capital in 2017. [FN] See Figure A:
+This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a solid linear fashion, with IRR already below the cost of capital in 2017. <sup>[7](#f7)</sup> See Figure A:
 
 **Figure A: Return on Investment in Pharma R&D**
 
 <img width="900" alt="Return on Investment in Pharma R&D" src="https://github.com/marcgug/White-Paper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png"></p>
 
-Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since 1990.[FN] We aslo see a decrease in medical research funding from the U.S. National Institute of Health.[FN] See Figure B:
+Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since 1990.<sup>[8](#f8)</sup> We aslo see a decrease in medical research funding from the U.S. National Institute of Health.<sup>[9](#f9)</sup> See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
 <img width="900" alt="NIH Funding 2003-2015" src="https://github.com/marcgug/White-Paper/raw/master/NIH%20Annual%20SPend.png">
  
-The outcome is a ~20 year backlog of potential medicines waiting for funds to enter clinical trials - posing serious threats to life extension.[FN] There are over 10,000 diseases afflicting humans of which less than 600 have known treatments.[FN]  All the while generic medicines have proven to be safe and inexpensive, and can be redeveloped to treat many more diseases or conditions, for which there is currently no quality treatment.[FN] Redeveloped medicines can be fully realized (e.g. FDA approved) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[FN]  The industry model as it currently stands is clearly a failure and does not account for redevelopment of medicines.[FN]  The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.  Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
+The outcome is a ~20 year backlog of potential medicines waiting for funds to enter clinical trials - posing serious threats to life extension.<sup>[10](#f10)</sup> There are over 10,000 diseases afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>  All the while generic medicines have proven to be safe and inexpensive, and can be redeveloped to treat many more diseases or conditions, for which there is currently no quality treatment.<sup>[12](#f12)</sup> Redeveloped medicines can be fully realized (e.g. FDA approved) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup>  The industry model as it currently stands is clearly a failure and does not account for redevelopment of medicines.<sup>[14](#f14)</sup>  The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.  Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
 
 ### IKU Approach
@@ -84,9 +84,9 @@ By providing a global liquid architecture for redevelopment of medicines based i
 
 ### What are Smart Contracts?
 
-Smart contracts are agreements with super powers, as they provide a deterministic environment that guarantee information fidelity and facilitates trusted value exchanges. Specifically, a smart contract is: (i) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction (IKU will strive to obey by all applicable laws and regulations); (ii) an automatism that is guaranteed to execute as it uses algorithms (blockchain) for enforcement, not a legal system; and (iii) binding.[FN]
+Smart contracts are agreements with super powers, as they provide a deterministic environment that guarantee information fidelity and facilitates trusted value exchanges. Specifically, a smart contract is: (i) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction (IKU will strive to obey by all applicable laws and regulations); (ii) an automatism that is guaranteed to execute as it uses algorithms (blockchain) for enforcement, not a legal system; and (iii) binding.<sup>[15](#f15)</sup>
 
-Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to make sure agreements are executed.[FN] Efficiency increases, especially in markets that are fraught with litigation, allowing for new markets where too much overhead is required for trade and/or little exchange of information.[FN] No third party is needed for escrow. Money is guaranteed to flow on contract resolution without the need to sue. Smart contracts provide justice without judges.
+Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to make sure agreements are executed.<sup>[16](#f16)</sup> Efficiency increases, especially in markets that are fraught with litigation, allowing for new markets where too much overhead is required for trade and/or little exchange of information.<sup>[17](#f17)</sup> No third party is needed for escrow. Money is guaranteed to flow on contract resolution without the need to sue. Smart contracts provide justice without judges.
 
 IKU is built on Ethereum, leveraging smart contracts to transact in clinical trial assets without the necessity of a middle man (VC, investment banks, Big Pharma, etc). This dramatically decreases barrier to entry, and allows (i) scientists and other learned persons to maximize scientific objectives by directly engaging p2p capital for the creation and trade of peer reviewed clinical research proposals (see below) as Research Specific Tokens `RST` on the IN, (ii) anyone to participate in the market and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively review and direct liquid research data, incentivizing one record of scientific truth.
 
@@ -98,25 +98,25 @@ In addition, the IN will serve to attract R&D ideation through crowdsourced inpu
 
 ### What about Patents?
 
-Typically, by the time a NME is ready to enter clinical trial, there is < 10 years left of patent life, often times only 5-6 years.[FN] Jurisdictions throughout the world, including U.S., EU and Asia provide market/data exclusivity periods (independent of patents) for clinical trial data, regardless if NME or not, for up to ~10 years.[FN] Generic medicines are built on the same active ingredients (as the patented drugs) once their patents or marketing exclusivities have expired.[FN] They have the same dosage, effectiveness and - safety - profile as the original drug [1]. By definition, once the generic forms can be sold, the ingredient is on the market for many years and as such, generics themeselves are considered safe for patients.[FN] Because their patents have expired, there is significantly less risk of infringement and significant freedom to operate. 
+Typically, by the time a NME is ready to enter clinical trial, there is < 10 years left of patent life, often times only 5-6 years.<sup>[18](#f18)</sup> Jurisdictions throughout the world, including U.S., EU and Asia provide market/data exclusivity periods (independent of patents) for clinical trial data, regardless if NME or not, for up to ~10 years.<sup>[19](#f19)</sup> Generic medicines are built on the same active ingredients (as the patented drugs) once their patents or marketing exclusivities have expired.<sup>[20](#f20)</sup> They have the same dosage, effectiveness and - safety - profile as the original drug.<sup>[21](#f21)</sup> By definition, once the generic forms can be sold, the ingredient is on the market for many years and as such, generics themeselves are considered safe for patients.<sup>[22](#f22)</sup> Because their patents have expired, there is significantly less risk of infringement and significant freedom to operate. 
 
 IKU `RSTx` holders have rights over the data they help generate and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. The `RST` Holder has pro-rata rights in the R&D data if they hold the respective `RST[x]`. While `RSTx` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used on the IN. IN is designed to provide global liquidity for R&D regardless of patent policy.
 
 This will serve to provide more equitable foundations in the following:
 
-- **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options.[FN] Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy).[FN] Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to ~15 years for NME.[FN] Compound this with (i) 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) [FN: The large scale, and very expensive multicenter Phase III trials (assessing safety and efficacy in comparison to standard treatment) are generally acknowledged to be very difficult to set up for rare diseases (< 200,000 patients/year [2]), for which also often no therapy exists (~7000 rare diseases, affecting 25-30 million Americans alone, for which there are 400+ drugs and biologics [2]); drugs targeting rare diseases are therefore commonly approved with Phase II data only such as in the case of 20+ different FDA approvals in 2016 - 2017 - END FN]. and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success, eliminating years of uncertainty and dramatically reducing the cost.[FN] Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficienctly - accelerating market entry of inexpensive, safe medicines. 
+- **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options.<sup>[23](#f23)</sup> Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy).<sup>[24](#f24)</sup> Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> Compound this with (i) 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) [FN: The large scale, and very expensive multicenter Phase III trials (assessing safety and efficacy in comparison to standard treatment) are generally acknowledged to be very difficult to set up for rare diseases (< 200,000 patients/year [2]), for which also often no therapy exists (~7000 rare diseases, affecting 25-30 million Americans alone, for which there are 400+ drugs and biologics [2]); drugs targeting rare diseases are therefore commonly approved with Phase II data only such as in the case of 20+ different FDA approvals in 2016 - 2017 - END FN]. and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success, eliminating years of uncertainty and dramatically reducing the cost.<sup>[26](#f26)</sup> Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficienctly - accelerating market entry of inexpensive, safe medicines. 
 
-- **IP**: A license is required by regulatory bodies (i.e. FDA, EMA, CFDA) globally proving copyright title provenance to medical R&D data.[FN] Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew (raising capital and performing an independent clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.[FN] IKU data will be hashed and stored on Inter Planetary File System IPFS through a NuCypher proxy-reecncryption scheme where the hash is proof of the data's existence, therefore proving genesis of the data and copyright title provenance. This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access.  Parties may capitalize on data/market exclusivity periods (independent of patents) in many jurisdictions, including but not limited to:
+- **IP**: A license is required by regulatory bodies (i.e. FDA, EMA, CFDA) globally proving copyright title provenance to medical R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew (raising capital and performing an independent clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> IKU data will be hashed and stored on Inter Planetary File System IPFS through a NuCypher proxy-reecncryption scheme where the hash is proof of the data's existence, therefore proving genesis of the data and copyright title provenance.<sup>[29](#f29)</sup> This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access.  Parties may capitalize on data/market exclusivity periods (independent of patents) in many jurisdictions, including but not limited to:
 
 	- Europe: up to ~10 years
 	- Asia: up to ~10 years 
-	- U.S.: up to ~7 years [FN]
+	- U.S.: up to ~7 years <sup>[30](#f30)</sup>
 	
 Data and/or market exclusivity can be built on top of an `RST[x]DC` and/or `permissionlessLicense` (which confers timed data exclusivity) as it is collectively owned by the DC as a competitive advantage.  
 
-- **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs [4] - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.[FN] In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of patient effect.[FN] By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RST`. The `RST` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
+- **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.<sup>[31](#f31)</sup> In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of patient effect.<sup>[32](#f32)</sup> By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RST`. The `RST` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
 
-Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control. IKU is providing the former for medical R&D allowing R&D to trade globally.  Through this architecture, we can realize global supply and demand of safe and impactful medical science, at scale. 
+Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control.<sup>[33](#f33)</sup> IKU is providing the former for medical R&D allowing R&D to trade globally.  Through this architecture, we can realize global supply and demand of safe and impactful medical science, at scale. 
  
 Figure D further contextualizes the benefits of the IKU data approach:
 
@@ -210,7 +210,7 @@ An `RFP` is required to consist of (i) a principal investigator PI that leads th
 
 ### The Proposal Library
 
-Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.[FN]  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.[FN] Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.[FN]
+Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup>  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.<sup>[34](#f34)</sup> Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.
 
 The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU peer review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the the most promising redevelopment initiatives to be capitalized. 
 
@@ -362,7 +362,7 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 
 ### Decentralized Key Management System 
 
-As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.  
+As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup>  
 
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.  [FN: The funds will be stored in an Ethereum MultiSigWallet (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
@@ -406,3 +406,63 @@ IKU will serve to enable unprecedented global organization and deployment of res
 All of which lead to significant issues in transaction finality, exacerbating an already illiquid market.
 
 <b id="f4">4</b> [Footnote content here]
+
+<b id="f5">5</b>
+
+<b id="f6">6</b>
+
+<b id="f7">7</b>
+
+<b id="f8">8</b>
+
+<b id="f9">9</b>
+
+<b id="f10">10</b>
+
+<b id="f12">11</b>
+
+<b id="f13">13</b>
+
+<b id="f14">14</b>
+
+<b id="f15">15</b>
+
+<b id="f16">16</b>
+
+<b id="f17">17</b>
+
+<b id="f18">18</b>
+
+<b id="f19">19</b>
+
+<b id="f20">20</b>
+
+<b id="f21">21</b>
+
+<b id="f22">22</b>
+
+<b id="f23">23</b>
+
+<b id="f24">24</b>
+
+<b id="f25">25</b>
+
+<b id="f26">26</b>
+
+<b id="f27">27</b>
+
+<b id="f28">28</b>
+
+<b id="f29">29</b>
+
+<b id="f30">30</b>
+
+<b id="f31">31</b>
+
+<b id="f32">32</b>
+
+<b id="f33">33</b>
+
+<b id="f34">34</b>
+
+<b id="f35">35</b>
