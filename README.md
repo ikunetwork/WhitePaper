@@ -1,4 +1,6 @@
-#  IKU - Better Drugs. Better Tricks.
+#  IKU - The New Digital License
+
+## Trading Clinical Trial Data Rights as a Method of Advancing Drug Discovery
 
 Working Draft, Version 0.99 March 25, 2018
 
