@@ -223,7 +223,7 @@ Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain:
 1) `RST[x]` - An ERC20 token representing the specific research
 2) `RSTCrowdsale[x]` (based on https://github.com/OpenZeppelin/zeppelin-solidity), which responsible for minting `RST[x]` and in exchange send tokens to contributors
   
-Upon `RSTCrowdsale[x]` achieving its softcap - minimum `RST[x]` required to achieve milestone:
+Upon `RSTCrowdsale[x]` achieving its softcap - minimum BTC/ETH required to achieve milestone:
 
 1. [y%] of the funds will be released to the R&D team,
 2. All `RST[x]` Holders will be able to participate in an `RST[x]DC` on a per project basis, and
