@@ -130,9 +130,9 @@ Figure E further contextualizes the benefits of the IKU data approach:
 
 ### IKU Scales at Low Cost 
  
-The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100  million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure E compares this for better context:
+The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100  million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure F compares this for better context:
 
-**Figure E: IKU Scales at Low Cost**
+**Figure F: IKU Scales at Low Cost**
 
 <img width="900" alt="IKU Scales at Low Cost" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales.png">
 ~30 medicines (~5% of all ongoing R&D at all times) are approved by the FDA annually at a ~$5.2B Total Average R&D Spend per Year, but IKU is epected to address ~180 at a fraction of the cost, as the FDA approval for non-patents is ~30%. 
@@ -155,10 +155,9 @@ The mission is to establish the IN as a public utility for medical research, dri
 
 The following sequence of events illustrate the IKU Network utility and ability to facilitate global capital formation for medical R&D initiatives:
 
-**Figure E: IKU Network Utility**
+**Figure : IKU Network Utility**
 
-<img width="600" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
-
+<img width="900" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
 
 IKU strives to achieve  for the `permissionlessLicense` to be created and traded in liquid fashion, ultimately accelerating the path to medicine and drug discovery. The following Network Economy and Tokenization sections explain how to achieve such a license.
 
