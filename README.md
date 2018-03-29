@@ -155,7 +155,7 @@ The mission is to establish the IN as a public utility for medical research, dri
 
 The following sequence of events illustrate the IKU Network utility and ability to facilitate global capital formation for medical R&D initiatives:
 
-**Figure : IKU Network Utility**
+**Figure G : IKU Network Utility**
 
 <img width="900" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
 
