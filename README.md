@@ -393,19 +393,19 @@ Pricing a bundle can be defined by the expected value:
 IKU will serve to enable unprecedented global organization and deployment of resources for safe and impactful clinical trial research. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant medical innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient medical R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire patent agnostic digital medical R&D system.  This is the fundamental intention and the essence of the IN.
 
 ## Footnotes
-<b id="f1">1</b> According to U.S. National Institute of Health researchers and supported by various computational frameworks.
+<b id="f1">1</b> Bernard Munos, Faster Cures, https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091 (2016).
 
-<b id="f2">2</b> [footnote content here.]
+<b id="f2">2</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review (2014). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog (2017). J. Hudson et. al., Into the valley of death: from research to innovation, https://www.ncbi.nlm.nih.gov/pubmed/23402848 (2013).Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion (2014).
 
-<b id="f3">3</b> FN: Such inefficiencies have caused significant  IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
+<b id="f3">3</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review (2014). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog (2017). Robert Sachs, Fenwick & West LLP, Patent Invalidity Rates: The Summertime Blues Continue, Law 360 (2015). Such inefficiencies have caused significant IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
 
 - patent litigation costs ~ $30 billion per year
 - ~80% of the litigation comes from patent trolls 
-- 50%+ of U.S. patents are being invalidated in post-grant proceedings,
+- 50%+ of U.S. patents are being invalidated in post-grant proceedings.
 
-All of which lead to significant issues in transaction finality, exacerbating an already illiquid market.
+All of which lead to significant issues in transaction finality, exacerbating an already illiquid market. Id.
 
-<b id="f4">4</b> [Footnote content here]
+<b id="f4">4</b> FiercePharma, The world's most pricey drugs, from a $1.2M gene therapy to a $450K lymphoma med, https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med (2017).
 
 <b id="f5">5</b>
 
