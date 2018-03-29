@@ -221,15 +221,15 @@ IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goa
 
 Participants will use the `devTools` to peer review.  The IN peer review process to score an `RFP` can be defined as a function:
 
-	`β` = `f(α,φ,θ)` = `RFP` score - PUBLIC
-	`α` =  pariticipant`reputationScore` (a VR's `α` is weighted 2x)
-	`φ`: Sum of `RFP` upvotes  
-	`θ`: IKU balance weight 
-	`λ`: A random threshold value
+	`s` = `f(α,φ,θ)` = `RFP` score - PUBLIC
+	`a` =  pariticipant`reputationScore` (a VR's `α` is weighted 2x)
+	`b`: Sum of `RFP` upvotes  
+	`c`: IKU balance weight 
+	`r`: A random threshold value
 	
-`β` is expected to be optimized overtime with IN demand.  As this process generates data and continues to grow, it will serve to provide open source algorithims for potential new uses of existing medicines.  
+`S` is expected to be optimized overtime with IN demand.  As this process generates data and continues to grow, it will serve to provide open source algorithims for potential new uses of existing medicines.  
 
-Upon `β` > `λ`, 2 smart contracts will be deployed to the Ethereum Blockchain:
+Upon `S` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain:
 1) `RST[x]` - An ERC20 token representing the specific research
 2) `RSTCrowdsale[x]` (based on https://github.com/OpenZeppelin/zeppelin-solidity), which responsible for minting `RST[x]` and in exchange send tokens to contributors
   
