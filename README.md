@@ -115,7 +115,7 @@ This will serve to provide more equitable foundations in the following:
 	- Europe: up to ~10 years
 	- Asia: up to ~10 years 
 	- U.S.: up to ~7 years <sup>[30](#f30)</sup>
-	Data and/or market exclusivity can be built on top of an `RST[x]DC` and/or `permissionlessLicense` (which confers timed data exclusivity) as it is collectively owned by the DC as a competitive advantage.  
+	<br />Data and/or market exclusivity can be built on top of an `RST[x]DC` and/or `permissionlessLicense` (which confers timed data exclusivity) as it is collectively owned by the DC as a competitive advantage.  
 
 - **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.<sup>[31](#f31)</sup> In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of patient effect.<sup>[32](#f32)</sup> By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RST`. The `RST` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
 
