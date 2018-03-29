@@ -294,7 +294,7 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 - power to make decisions and perform work for IN
 - 2nd priority to upgrade to clinical trial subject
 - Fees
-	Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in `RST[x]` as [x%] of all of the R`STCrowdsale`, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
+	Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in `RST[x]` as [x%] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
 
 ### `RST[x]` Value
 
