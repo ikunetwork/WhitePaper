@@ -221,15 +221,15 @@ IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goa
 
 Participants will use the `devTools` to peer review.  The IN peer review process to score an `RFP` can be defined as a function:
 
-	`s` = `f(α,φ,θ)` = `RFP` score - PUBLIC
-	`a` =  pariticipant`reputationScore` (a VR's `α` is weighted 2x)
+	`s` = `f(a,b,c)` = `RFP` score - PUBLIC
+	`a` =  pariticipant`reputationScore` (a VR's `a` is weighted 2x)
 	`b`: Sum of `RFP` upvotes  
 	`c`: IKU balance weight 
 	`r`: A random threshold value
 	
 `S` is expected to be optimized overtime with IN demand.  As this process generates data and continues to grow, it will serve to provide open source algorithims for potential new uses of existing medicines.  
 
-Upon `S` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain:
+Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain:
 1) `RST[x]` - An ERC20 token representing the specific research
 2) `RSTCrowdsale[x]` (based on https://github.com/OpenZeppelin/zeppelin-solidity), which responsible for minting `RST[x]` and in exchange send tokens to contributors
   
@@ -365,7 +365,7 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 
 ### Decentralized Key Management System 
 
-As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup>  
+As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup>
 
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.The funds will be stored in an Ethereum MultiSigWallet: (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
