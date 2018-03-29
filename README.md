@@ -104,7 +104,11 @@ IKU `RSTx` holders have rights over the data they help generate and may agree to
 
 This will serve to provide more equitable foundations in the following:
 
-- **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options.<sup>[23](#f23)</sup> Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy).<sup>[24](#f24)</sup> Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> Compound this with (i) 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success, eliminating years of uncertainty and dramatically reducing the cost.<sup>[26](#f26)</sup> Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficienctly - accelerating market entry of inexpensive, safe medicines. 
+- **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options.<sup>[23](#f23)</sup> Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy).<sup>[24](#f24)</sup> Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> Compound this with (i) 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success, eliminating years of uncertainty and dramatically reducing the cost.<sup>[26](#f26)</sup> Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficienctly - accelerating market entry of inexpensive, safe medicines. Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline:
+
+**Figure D: IKU vs. Traditional R&D Pipeline
+
+- <img width="900" alt="R&D Pipeline" src="https://github.com/ikunetwork/WhitePaper/raw/master/R%26D%20Pipeline.png"> 
 
 - **IP**: A license is required by regulatory bodies (i.e. FDA, EMA, CFDA) globally proving copyright title provenance to medical R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew (raising capital and performing an independent clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> IKU data will be hashed and stored on Inter Planetary File System IPFS through a NuCypher proxy-reecncryption scheme where the hash is proof of the data's existence, therefore proving genesis of the data and copyright title provenance.<sup>[29](#f29)</sup> This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access.  Parties may capitalize on data/market exclusivity periods (independent of patents) in many jurisdictions, including but not limited to:
 
@@ -118,13 +122,11 @@ Data and/or market exclusivity can be built on top of an `RST[x]DC` and/or `perm
 
 Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control.<sup>[31](#f31)</sup> IKU is providing the former for medical R&D allowing R&D to trade globally.  Through this architecture, we can realize global supply and demand of safe and impactful medical science, at scale. 
  
-Figure D further contextualizes the benefits of the IKU data approach:
+Figure E further contextualizes the benefits of the IKU data approach:
 
-**Figure D: IKU Data Approach**
+**Figure E: IKU Data Approach**
 
 <img width="900" alt="IKU Data Approach" src="https://github.com/marcgug/White-Paper/raw/master/IKU%20Data%20Approach.png">
-
-[Show visual of compressing the pipline - stripping the pipline of preclinical and at least half of Phase I - keep Phase II - and strip Phase III.  - use this from th francis collins NIH director talk] @MIKE
 
 ### IKU Scales at Low Cost 
  
