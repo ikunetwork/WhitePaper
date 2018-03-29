@@ -24,7 +24,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    6. [What about Patents?](#what-about-patents?)
    7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
    8. [Token and License](#token-and-license)
-   9. [The IKU Foundation](#the-IKU-foundation)
+   9. [The IKU Network](#the-IKU-foundation)
    10.[IKU Network Utility for R&D](#iku-network-utility)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
@@ -130,13 +130,12 @@ Figure E further contextualizes the benefits of the IKU data approach:
 
 ### IKU Scales at Low Cost 
  
-The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100  million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure F compares this for better context:
+The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100  million requirement per redeveloped medicine approval vs. ~ $2.6B requirement per NME medicine approval . Figure F compares this for better context:
 
 **Figure F: IKU Scales at Low Cost**
 
 <img width="900" alt="IKU Scales at Low Cost" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales.png">
-~30 medicines (~5% of all ongoing R&D at all times) are approved by the FDA annually at a ~$5.2B Total Average R&D Spend per Year, but IKU is epected to address ~180 at a fraction of the cost, as the FDA approval for non-patents is ~30%. 
-The expectation is for IKU to be up to 14x more efficient in addressing and funding redevelopment of generics.
+~30 medicines (~5% of all ongoing R&D at all times) are approved by the FDA annually at a ~$5.2B Total Average R&D Spend per Year, but IKU is epected to address ~180 approved medicines at a fraction of the cost, as the FDA approval for redeveloping is ~30%. The expectation is for IKU to be up to 84x more efficient in addressing and funding redevelopment of generics (up to 14x less expensive * 6x more medicines).
 
 ### Token and License
 
@@ -147,9 +146,9 @@ The IN will be controlled by its users, **IKU** token holders, with no asset exc
 
 Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contract, open to the world at large. An `RST[x]DC` will be expected, through their project leads, to engage clinical research organizations CRO, certified manufacturing organizations CMO and distribution, all of which are established channels available for contract on a worldwide basis. 
 
-### The IKU Foundation
+### The IKU Network
 
-The mission is to establish the IN as a public utility for medical research, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate as the IKU Foundation, a Singapore [nonprofit] organization whose core objective is to establish and facilitate the IN, create IKU, maintain the IKU reserve and evangelize R&D efficiencies.  In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IKU code and (ii) accomplishing specific medical innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN. To be clear, after the IN is live as described below, there will be no difference between the IN and the IKU Foundation.  
+The mission is to establish the IN as a public utility for medical research, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize life extension R&D efficiencies.  In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific medical innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN. 
 
 ### IKU Network Utility
 
@@ -159,7 +158,7 @@ The following sequence of events illustrate the IKU Network utility and ability 
 
 <img width="900" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
 
-IKU strives to achieve  for the `permissionlessLicense` to be created and traded in liquid fashion, ultimately accelerating the path to medicine and drug discovery. The following Network Economy and Tokenization sections explain how to achieve such a license.
+IKU strives to achieve  for the `permissionlessLicense` to be created and traded in a fungible, liquid fashion, ultimately increasing the return in lifespan per unit of time conducted in research. The following Network Economy and Tokenization sections explain how to achieve such a license.
 
 ## The Network Economy
 The IN combines the wisdom of crowds with the wisdom of science thru participant communication, capital and data exchange. The following tools will give life to the IN: `researchTarget`, `devTools`, Request for Proposals `RFP`, and the `permissionlessLicense`. 
@@ -206,18 +205,9 @@ Participants will be subject to a `reputationScore`:
 
 The IN will serve to produce requests for peer reviewed proposals `RFP` in response to the `researchTarget`. A VR will be able to submit proposals at any time as paid for by the IN reserve, whereas non-VR will be required to post a bond to submit a proposal, in response to a `RFP`.  
 
-RFP Template: https://docs.google.com/document/d/1vIZyS90e-aiWynNalBplVmUAJPtMZajXw7gdfjjBozk/edit
-RFP Score: https://docs.google.com/document/d/1gnY8KdrvTtcWzok7rYUPKsL7mh-nCyyaMEdcEd5yosU/edit
-
 An `RFP` is required to consist of (i) a principal investigator PI that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to (see below `RST[x]` value), (ii) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and (iii) the scientific justification, etc (see google doc above). A standard `RST[x]` Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`. This leaves significant room for `RST[x]` value creativity.
 
-### The Proposal Library
-
-Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup>  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.<sup>[34](#f34)</sup> Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.
-
-The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU peer review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the the most promising redevelopment initiatives to be capitalized. 
-
-IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving the longer lifespans for as many humans as possible. 
+IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving longer lifespans for as many humans as possible. 
 
 Participants will use the `devTools` to peer review.  The IN peer review process to score an `RFP` can be defined as a function:
 
@@ -225,9 +215,9 @@ Participants will use the `devTools` to peer review.  The IN peer review process
 	`a` =  pariticipant`reputationScore` (a VR's `a` is weighted 2x)
 	`b`: Sum of `RFP` upvotes  
 	`c`: IKU balance weight 
-	`r`: A random threshold value
+	`r`: A specified threshold value
 	
-`S` is expected to be optimized overtime with IN demand.  As this process generates data and continues to grow, it will serve to provide open source algorithims for potential new uses of existing medicines.  
+`s` is expected to be optimized overtime with IN demand.  As this process generates data and continues to grow, it will serve to provide open source algorithims for potential new uses of existing medicines.  
 
 Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain:
 1) `RST[x]` - An ERC20 token representing the specific research
@@ -279,6 +269,11 @@ contract RSTCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 }
 
 ```
+### The Proposal Library
+
+Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup>  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.<sup>[34](#f34)</sup> Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.
+
+The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU peer review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the the most promising redevelopment initiatives to be capitalized. 
 
 ## Tokenization 
 
@@ -297,7 +292,7 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 - power to make decisions and perform work for IN
 - 2nd priority to upgrade to clinical trial subject
 - Fees
-	Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in `RST[x]` as [x%] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for preforming a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
+	Establishing a profile on the EN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and communication. In addition the NDW enables IKU holders to earn fees in `RST[x]` as [z%] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for performing a certain threshold of work on the IN, e.g. participating in the peer review process. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
 
 ### `RST[x]` Value
 
@@ -306,7 +301,7 @@ An `RST[x]` carries pro-rata rights to its specific R&D `[x]` initiative and suc
 - `permissionlessLicense` threshold
 - 1st priority to upgrade to clinical trial subject
 - Access to medicine upon regulatory approval at a discounted (or free) rate
-- power to make decisions and perform work for`RST[x]DC` including voting rights to release funds for the next stage of the roadmap, remove/replace PI, etc.
+- power to make decisions and perform work for the `RST[x]DC` including voting rights to release funds for the next stage of the roadmap, remove/replace PI, etc.
 
 R&D data will be made available to `RST[x]` holders and updated by the `RST[x]DC` team through the IN infrastructure on an ongoing basis. `RST[x]DC` R&D data will be de-identified and stored on IPFS. Access to the data and specific `RST[x]DC` will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
 
@@ -338,10 +333,10 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 ```
 IPFS will serve to provide infrastructure for the `RST[x]DC`. The R&D team will provide updates to the `RST[x]` Holders in their DC on a regular basis, in which `RST[x]` holders will have ability to:
 
-(i) Determine whether R&D team should have access to remainder of funds for continuing research (upon reaching or not reaching R&D milestone x - oracle),
+(i) Determine whether R&D team should have access to remainder of funds for continuing research (upon reaching or not reaching R&D a milestone),
 (ii) Upgrade to clinical trial subject,
 (iii) Provide reputation scores to fellow `RST[x]` holders and the R&D team
-(iv) remove/replace R&D operations personnel (e.g. PI) upon achieving `RST[x]DC` majority consensus.
+(iv) Remove/replace R&D operations personnel (e.g. PI) upon achieving `RST[x]DC` majority consensus.
 
 The `RST[x]DC` is incentivized to provide timely and relevant information to both its own DC and the public as the `RST[x]` and also IKU will be at the mercy of market sentiment. IKU and `RST[x]` tokens are expected to trade in real time, globally in the cryptourrency market place. If an `RST[x]DC` does not operate in efficient scientific fashion, this is expected to be reflected accordingly. 
 
@@ -349,9 +344,9 @@ The `RST[x]DC` is incentivized to provide timely and relevant information to bot
 
 IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same percentage of the specific `RST[x]` pool are also offered to IKU Token holders. Burning may occur as follows:
 
-- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the `researchTarget` of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders, pro-rata based on IKU holdings.
+- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the `researchTarget` of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders that achieved a certain threshold of work on the IN, pro-rata based on IKU holdings.
 
-- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for FIAT. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
+- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for fiat. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
 
 ### The `RST[x]` `permissionlessLicense`
 
