@@ -128,7 +128,7 @@ Figure D further contextualizes the benefits of the IKU data approach:
 
 ### IKU Scales at Low Cost 
  
-The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100 [FN] million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure E compares this for better context:
+The current legacy model is costly as we explained above. IKU on the other hand can scale cost as IKU addresses a ~ $10 - $100  million requirement per medicine approval (redeveloping generic) vs. ~ $2.6B patent NME market per medicine approval (NME). Figure E compares this for better context:
 
 **Figure E: IKU Scales at Low Cost**
 
@@ -303,7 +303,7 @@ An `RST[x]` carries pro-rata rights to its specific R&D `[x]` initiative and suc
 
 - `permissionlessLicense` threshold
 - 1st priority to upgrade to clinical trial subject
-- Access to medicine upon regulatory approval at a discounted (or free) rate [FN: compliant to jurisdiction]
+- Access to medicine upon regulatory approval at a discounted (or free) rate
 - power to make decisions and perform work for`RST[x]DC` including voting rights to release funds for the next stage of the roadmap, remove/replace PI, etc.
 
 R&D data will be made available to `RST[x]` holders and updated by the `RST[x]DC` team through the IN infrastructure on an ongoing basis. `RST[x]DC` R&D data will be de-identified and stored on IPFS. Access to the data and specific `RST[x]DC` will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
@@ -366,7 +366,7 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup>  
 
 ### The IKU Reserve
-The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.  [FN: The funds will be stored in an Ethereum MultiSigWallet (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
+The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.The funds will be stored in an Ethereum MultiSigWallet: (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
    
 ### Future Development
 
