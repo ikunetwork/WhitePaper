@@ -104,7 +104,7 @@ IKU `RSTx` holders have rights over the data they help generate and may agree to
 
 This will serve to provide more equitable foundations in the following:
 
-- **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options.<sup>[23](#f23)</sup> Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy).<sup>[24](#f24)</sup> Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> Compound this with (i) 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) [FN: The large scale, and very expensive multicenter Phase III trials (assessing safety and efficacy in comparison to standard treatment) are generally acknowledged to be very difficult to set up for rare diseases (< 200,000 patients/year [2]), for which also often no therapy exists (~7000 rare diseases, affecting 25-30 million Americans alone, for which there are 400+ drugs and biologics [2]); drugs targeting rare diseases are therefore commonly approved with Phase II data only such as in the case of 20+ different FDA approvals in 2016 - 2017 - END FN]. and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success, eliminating years of uncertainty and dramatically reducing the cost.<sup>[26](#f26)</sup> Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficienctly - accelerating market entry of inexpensive, safe medicines. 
+- **Science**: As per U.S. NIH researchers, ~ 50% of generic medicines can be redeveloped to treat disease or a condition lacking viable treatment options.<sup>[23](#f23)</sup> Because existing medicines have already proven to be safe, the majority of redeveloping clinical trial intitiatives can skip Phase I (safety), move directly into Phase II (efficacy).<sup>[24](#f24)</sup> Costs to redevelop a drug for a phase II clinical trial is estimated to be as low as $5 million and takes as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> Compound this with (i) 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one clinical trial (efficacy) and (ii) ~30% FDA approval rate for redevelopment medicines vs. ~ 5% FDA approval rate for NME upon entering clinical trial, the result is a higher probability of scientific success, eliminating years of uncertainty and dramatically reducing the cost.<sup>[26](#f26)</sup> Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficienctly - accelerating market entry of inexpensive, safe medicines. 
 
 - **IP**: A license is required by regulatory bodies (i.e. FDA, EMA, CFDA) globally proving copyright title provenance to medical R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew (raising capital and performing an independent clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> IKU data will be hashed and stored on Inter Planetary File System IPFS through a NuCypher proxy-reecncryption scheme where the hash is proof of the data's existence, therefore proving genesis of the data and copyright title provenance.<sup>[29](#f29)</sup> This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access.  Parties may capitalize on data/market exclusivity periods (independent of patents) in many jurisdictions, including but not limited to:
 
@@ -116,7 +116,7 @@ Data and/or market exclusivity can be built on top of an `RST[x]DC` and/or `perm
 
 - **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.<sup>[31](#f31)</sup> In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of patient effect.<sup>[32](#f32)</sup> By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RST`. The `RST` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
 
-Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control.<sup>[33](#f33)</sup> IKU is providing the former for medical R&D allowing R&D to trade globally.  Through this architecture, we can realize global supply and demand of safe and impactful medical science, at scale. 
+Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control.<sup>[31](#f31)</sup> IKU is providing the former for medical R&D allowing R&D to trade globally.  Through this architecture, we can realize global supply and demand of safe and impactful medical science, at scale. 
  
 Figure D further contextualizes the benefits of the IKU data approach:
 
@@ -197,7 +197,7 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 
 Participants will be subject to a `reputationScore`:
 
-- `reputationScore` is part of `devTools`. All participants will be subject to a profile linked `reputationScore` which accounts for utilization of IN resources and behavior, allowing for meritocratic decision-making based in scientific liquidity. All IN participants start with the same `reputationScore`, but will be separated by VR and non-VR. `reputationScore` may increase to `power`, `super_power` and `grand_maester`.  This enables the best ideas to flow freely, producing efficient and rapid evolution based on merits.[FN] Participants will be obligated to provide `reputationScore` to other participants they have digitally engaged.  The `reputationScore` will be publicly available.
+- `reputationScore` is part of `devTools`. All participants will be subject to a profile linked `reputationScore` which accounts for utilization of IN resources and behavior, allowing for meritocratic decision-making based in scientific liquidity. All IN participants start with the same `reputationScore`, but will be separated by VR and non-VR. `reputationScore` may increase to `power`, `super_power` and `grand_maester`.  This enables the best ideas to flow freely, producing efficient and rapid evolution based on merits.<sup>[32](#f32)</sup> Participants will be obligated to provide `reputationScore` to other participants they have digitally engaged.  The `reputationScore` will be publicly available.
 
 ### Request for Proposals
 
@@ -411,7 +411,7 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f6">6</b> Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion (2014).
 
-<b id="f7">7</b> Kelvin Stott, Pharma Executive, Pharma’s broken business model: An industry on the brink of terminal decline, https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/ (2017).
+<b id="f7">7</b> K. Stott, Pharma’s broken business model: An industry on the brink of terminal decline, https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/ (2017).
 
 <b id="f8">8</b> Id.
 
@@ -422,48 +422,51 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f11">11</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, https://energycommerce.house.gov/cures/ (2016).
 
-<b id="f13">13</b>
+<b id="f12">12</b> Bruce Bloom, Cures Within Reach, http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/ (2017).
 
-<b id="f14">14</b>
+<b id="f13">13</b> Id.
 
-<b id="f15">15</b>
+<b id="f14">14</b> Id. 
 
-<b id="f16">16</b>
+<b id="f15">15</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks, http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction (1997).  
 
-<b id="f17">17</b>
+<b id="f16">16</b> Vitalik Buterin, A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM, ethereum/Wiki.
 
-<b id="f18">18</b>
+<b id="f17">17</b> H. Diedrich, IBM Liason to Ethereum, Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations (2016).
 
-<b id="f19">19</b>
+<b id="f18">18</b> The Economist, Patents that kill, https://www.economist.com/blogs/freeexchange/2014/08/innovation (2014).
 
-<b id="f20">20</b>
+<b id="f19">19</b> Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/ (2017). CFDA, Provisions for Drug Registration, http://eng.sfda.gov.cn/WS03/CL0768/61645.html.  International Federation of Pharmaceutical and Manufacturers Association, https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf.
 
-<b id="f21">21</b>
+<b id="f20">20</b> FDA, What are generic drugs?, https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm.
 
-<b id="f22">22</b>
+<b id="f21">21</b> Id.
 
-<b id="f23">23</b>
+<b id="f22">22</b> Id.
 
-<b id="f24">24</b>
+<b id="f23">23</b> See FN 1.
 
-<b id="f25">25</b>
+<b id="f24">24</b> See FN 12.
 
-<b id="f26">26</b>
+<b id="f25">25</b> Id.
 
-<b id="f27">27</b>
+<b id="f26">26</b> FDA Approvals 2016 - 2017, https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm , https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm. JJ Hernandez, et. al., Giving Drugs a Second Chance: Overcoming Regulatory and Financial Hurdles in Repurposing Approved Drugs As Cancer Therapeutics, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/ (2017). Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion (2014).
 
-<b id="f28">28</b>
+<b id="f27">27</b> See FN 19.
 
-<b id="f29">29</b>
+<b id="f28">28</b> Id.
 
-<b id="f30">30</b>
+<b id="f29">29</b> J. Benet, IPFS - Content Addressed, Versioned, P2P File System (DRAFT 3). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system. 
 
-<b id="f31">31</b>
+<b id="f30">30</b> See FN 19.
 
-<b id="f32">32</b>
+<b id="f31">31</b> C. Burniske, Cryptoassets (2017).
 
-<b id="f33">33</b>
+<b id="f32">32</b> R. Dalio, Principles (2017).
 
-<b id="f34">34</b>
+<b id="f33">33</b> E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/ (2017).
 
-<b id="f35">35</b>
+<b id="f34">34</b> Id. R. Hodos, In silico methods for drug repurposing and pharmacology, https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf (2016).
+
+<b id="f35">35</b> SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher (2017).
+
