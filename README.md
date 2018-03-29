@@ -407,19 +407,20 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f4">4</b> FiercePharma, The world's most pricey drugs, from a $1.2M gene therapy to a $450K lymphoma med, https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med (2017).
 
-<b id="f5">5</b>
+<b id="f5">5</b> See FN 2.
 
-<b id="f6">6</b>
+<b id="f6">6</b> Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion (2014).
 
-<b id="f7">7</b>
+<b id="f7">7</b> Kelvin Stott, Pharma Executive, Pharma’s broken business model: An industry on the brink of terminal decline, https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/ (2017).
 
-<b id="f8">8</b>
+<b id="f8">8</b> Id.
 
-<b id="f9">9</b>
+<b id="f9">9</b> Congressional Research Service, NIH Funding: FY1994-FY2016, https://fas.org/sgp/crs/misc/R43341.pdf .
 
-<b id="f10">10</b>
 
-<b id="f12">11</b>
+<b id="f10">10</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk (2013).
+
+<b id="f11">11</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, https://energycommerce.house.gov/cures/ (2016).
 
 <b id="f13">13</b>
 
