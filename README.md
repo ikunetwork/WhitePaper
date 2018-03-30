@@ -144,7 +144,7 @@ The scientific probability of a redeveloped drug achieving approval is ~30%, at 
 
 - **IKU:** ~55 million/<5 years = ~ $10 million per year spend.  
 
-The IKU model is ~17x less expensive with 6x greater scientific probability of approval.
+We calculate the the IKU model to be ~17x less expensive with 6x greater scientific probability of approval.
 
 ### Token and License
 
