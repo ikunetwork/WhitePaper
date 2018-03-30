@@ -165,7 +165,7 @@ The following sequence of events illustrate the IKU Network utility and ability 
 
 **Figure G : IKU Network Utility**
 
-<img width="900" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
+<img width="899" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
 
 IKU strives to achieve  for the `permissionlessLicense` to be created and traded in a fungible, liquid fashion, ultimately increasing the return in lifespan per unit of time conducted in research. The following Network Economy and Tokenization sections explain how to achieve such a license.
 
