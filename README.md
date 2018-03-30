@@ -4,7 +4,7 @@
 
 
 by Gregory Rigano & Michael Kisselgof
-<br /> Working Draft, Version 0.99 March 28, 2018
+<br /> Working Draft, Version 0.99 March 30, 2018
 
 ## Abstract 
 IKU is building the first decentralized cooperative DC to accelerate clinical trials at scale by offering a new form of liquidity and risk mitigation. The DC establishes clinical trial data rights as cryptoassets to be issued and traded in an open, global market. This architecture will be supported by a distributed network of researchers and interested parties enforcing behavior, specifically efficient clinical development of medicines, amongst each other.  It uses a two token model to provide for decision making and fee derivation, maximizing global liquidity pools.
