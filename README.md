@@ -1,6 +1,6 @@
 #  IKU - A New Digital License
 
-**Trade Clinical Trial Data Rights as a Method of Advancing Medicine**
+**A Method of Advancing Medicine at Scale**
 
 
 by Gregory Rigano & Michael Kisselgof
