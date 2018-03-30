@@ -142,7 +142,7 @@ At any given time, the scientific probability of a NME reaching approval is ~5%,
 
 The scientific probability of a redeveloped drug achieving approval is ~30%, at a cost of ~10 - ~100 million (avg. ~$55 million) over < 5 years, the IKU model. 
 
-- **IKU:** ~55 million/<5 years = ~ $10 million per year spend.  
+- **IKU:** ~55 million/<5 years = ~ $11 million per year spend.  
 
 We calculate the the IKU model to be ~17x less expensive with 6x greater scientific probability of approval.
 
@@ -398,9 +398,6 @@ All IN R&D initiatives would have the option to actively bundle `RST[x]` into `R
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk. Capital resources would be allocated purely towards R&D with the ability to algorithmically bond with each other thru smart contract. 
 
-Pricing a bundle can be defined by the expected value:
-
-<img width="200" alt="Expected Value" src="https://github.com/marcgug/White-Paper/raw/master/Expected%20Value.PNG">
 
 ## Conclusion
 IKU will serve to enable unprecedented global organization and deployment of resources for safe and impactful clinical trial research. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant medical innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient medical R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire patent agnostic digital medical R&D system.  This is the fundamental intention and the essence of the IN.
