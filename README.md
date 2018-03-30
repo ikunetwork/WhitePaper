@@ -76,7 +76,7 @@ A liquid clinical trial acceleration network focused on redeveloping medicines s
 
 **Figure C: Existing Medical Funding Models** 
 
-<img width="900" alt="NIH Funding 2003-2015" src="https://github.com/marcgug/White-Paper/raw/master/Existing%20Medical%20Funding%20Models.png">
+<img width="900" alt="NIH Funding 2003-2015" src="https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20Medical%20Funding%20Models.png">
 
 ### HOW?
 
