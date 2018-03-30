@@ -134,9 +134,17 @@ The current legacy model is costly as we explained above. IKU on the other hand 
 
 **Figure F: IKU Scales at Low Cost**
 
-<img width="900" alt="IKU Scales at Low Cost" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales.png">
+<img width="899" alt="IKU Scales at Low Cost" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales.png">
 
-At any given time, the scientific probability of a NME reaching approval is ~5%, at a cost of ~$2.6 billion over ~15 years.  ~ $2.6 billion/~15 years = ~ $173 million per year spend.  The scientific probability of a redeveloped drug achieving approval is ~30%, at a cost of ~10 - ~100 million (avg. ~$55 million) over < 5 years, the IKU model.  ~55 million/<5 years = ~ $10 million per year spend.  The IKU model is ~17x less expensive with 500% greater scientific probability of approval.
+At any given time, the scientific probability of a NME reaching approval is ~5%, at a cost of ~$2.6 billion over ~15 years.  
+
+- **NME:** ~ $2.6 billion/~15 years = ~ $173 million per year spend.  
+
+The scientific probability of a redeveloped drug achieving approval is ~30%, at a cost of ~10 - ~100 million (avg. ~$55 million) over < 5 years, the IKU model. 
+
+- **IKU:** ~55 million/<5 years = ~ $10 million per year spend.  
+
+The IKU model is ~17x less expensive with 6x greater scientific probability of approval.
 
 ### Token and License
 
