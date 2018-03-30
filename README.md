@@ -24,7 +24,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    6. [What about Patents?](#what-about-patents?)
    7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
    8. [Token and License](#token-and-license)
-   9. [The IKU Network](#the-IKU-foundation)
+   9. [The IKU Network](#the-IKU-network)
    10. [IKU Network Utility for R&D](#iku-network-utility)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
@@ -342,11 +342,11 @@ The `RST[x]DC` is incentivized to provide timely and relevant information to bot
 
 ### Burning
 
-IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same percentage of the specific `RST[x]` pool are also offered to IKU Token holders. Burning may occur as follows:
+IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same % of the specific `RST[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
 
-- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an RFP for the `researchTarget` of which the IN accepts and an associated fundraise commences. The fundraise is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Foundation Reserve pool, and the same [x%] in `RST[x]` are evenly distributed to all IKU Token holders that achieved a certain threshold of work on the IN, pro-rata based on IKU holdings.
+- A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an `RFP` for the `researchTarget` of which the IN accepts and an associated `RSTCrowdsale` commences. The `RSTCrowdsale` is successful and the associated `RST[x]DC` Levodopa Trials - Cure Parkinson’s is created. [x%] of the total contributed IKU tokens are burned from the IKU Network Reserve pool are distributed to `IKU` Token holders pro-rata based on IKU holdings.
 
-- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for fiat. Bob’s contributed IKU tokens are not burned.The Alice Foundation’s IKU Tokens received from BOB are not burned as well, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
+- Let’s say Bob contributed 500 IKU tokens to `RST[x]DC` Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 IKU tokens of which they can exchange for fiat. The Alice Foundation’s IKU Tokens received from BOB are not burned, but rather [x%] of the total contributed IKU tokens are burned from the IKU Reserve pool. The same [x%] of the `RST[x]DC` pool is transferred back to all funders who held IKU tokens at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [x%].
 
 ### The `RST[x]` `permissionlessLicense`
 
@@ -366,7 +366,7 @@ As the `RST[x]DC` is incentivized to upload relevant and appropriate research da
 	
 - When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key. It often makes sense for the public key to correspond to an address in the Ethereum network (to prove a payment has been made from that address for a digital content subscription, for example). The sender generates a re-encryption key *res→r* (including an encrypted random ephemeral key when needed) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The case where multiple nodes are selected for redundancy or security will be discussed later. The nodes which have shared data of user *sender* with a user *receiver* register this information in the network.
 	
-- When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream (Fig. 5). He separates out *edek* from the message and sends *edek* to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver (those which have reencryption key(s) *res→r*). The receiver asks the node(s) that has the re-encryption key to transform *edek* to *edek1* and uses his own secret key *skr* to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.`
+- When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream (Fig. 5). He separates out *edek* from the message and sends *edek* to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver (those which have reencryption key(s) *res→r*). The receiver asks the node(s) that has the re-encryption key to transform *edek* to *edek1* and uses his own secret key *skr* to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
 
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.The funds will be stored in an Ethereum MultiSigWallet: (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
