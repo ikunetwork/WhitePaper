@@ -25,7 +25,7 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
    8. [Token and License](#token-and-license)
    9. [The IKU Network](#the-IKU-foundation)
-   10.[IKU Network Utility for R&D](#iku-network-utility)
+   10. [IKU Network Utility for R&D](#iku-network-utility)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
    2. [Dev Tools](#deve-tools)
@@ -38,10 +38,10 @@ Blockchain-based fintech enables incentive efficiencies where they were not prev
    3. [IKU Value](#iku-value)
    4. [`RST[x]` Value](#`RST[x]`-value)
    5. [Burning](#burning)
-   5. [The RST[x]permissionlessLicense](#the-rst[x]-permissionlessLicense)
-   6. [Decentralized Key Management System](#decentralized-key-management-system)
-   6. [The IKU Reserve](#the-elixr-reserve)
-   7. [Future Development](#future-development)
+   6. [The RST[x] permissionlessLicense](#the-rst[x]-permissionlessLicense)
+   7. [Decentralized Key Management System](#decentralized-key-management-system)
+   8. [The IKU Reserve](#the-elixr-reserve)
+   9. [Future Development](#future-development)
 5. [Conclusion](#conclusion)
 
 ## Introduction
@@ -80,7 +80,7 @@ A liquid clinical trial acceleration network focused on redeveloping medicines s
 
 ### HOW?
 
-By providing a global liquid architecture for redevelopment of medicines based in tokenized clinical trial data rights, transacted in a digital market. IKU leveragaes a liquid licensing protocol (see permissionlessLicense section below) in which all transactions are settled programmatically on a blockchain, as clinical trial R&D data rights are proved through existence of smart contract provenance. A certain threshold of tokens is required for a provable license to such rights.  This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages to parties who otherwise would not know nor trust each other. IKU essentially reinvents clinical trial R&D thru tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of clinical trial R&D data sets to accelerate access to therapies. The IKU token provides value through the right to contribute to the IKU Network **IN**, more so to the IKU R&D consensus mechanism, to derive fees from the IN.  
+By providing a global liquid architecture for redevelopment of medicines based in tokenized clinical trial data rights, transacted in a digital market. IKU leveragaes a liquid licensing protocol (see **The RST[x] `permissionlessLicense`** section below) in which all transactions are settled programmatically on a blockchain, as clinical trial R&D data rights are proved through existence of smart contract provenance. A certain threshold of tokens is required for a provable license to such rights.  This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages to parties who otherwise would not know nor trust each other. IKU essentially reinvents clinical trial R&D thru tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of clinical trial R&D data sets to accelerate access to therapies. The IKU token provides value through the right to contribute to the IKU Network **IN**, more so to the IKU R&D consensus mechanism, to derive fees from the IN.  
 
 ### What are Smart Contracts?
 
