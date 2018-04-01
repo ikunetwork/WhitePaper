@@ -1,6 +1,6 @@
 #  IKU - A New Digital License
 
-**A Method of Advancing Medicine at Scale**
+**Advancing Medicine at Scale**
 
 
 by Gregory Rigano & Michael Kisselgof
