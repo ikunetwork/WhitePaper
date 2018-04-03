@@ -382,7 +382,7 @@ The IN will maintain its funds, along with IKU as necessary for incentivizing VR
    
 ### Future Development
 
-While IKU in its initial phase will focus on redeveloping drugs, we anticipate focusing on for adjacent opportunties to achieve longevity escape velocity including rejuvenation tech, biomarker analysis and age-related disease prevention.
+While IKU in its initial phase will focus on redeveloping drugs, we anticipate focusing on for adjacent opportunties to achieve longevity escape velocity including on biomarker analysis, age-related disease prevention and disease detection tech.
 
 As to the platform itself, additional IN features are expected to be developed and/or integrated based on IKU decision making to further enable medical R&D efficiency, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs (e.g., PubMed, IP Databases). This will improve workflow efficiency and thus lead to enhanced platform performance. 
 
