@@ -11,7 +11,7 @@ IKU is building the first public utility, as a decentralized cooperative DC, to 
 
 Currently, the marginial increase in lifespan is severely disproportionate to duration of research advancement. Drug development and clinical trials traditionally focus on brand new molecules that have never previously had human exposure, resulting in over $1 billion spend and a ~15 year market entry point per drug - a very faulty, non-scalable process. In parallel, ~50% of existing medicines can be redeveloped to reach the market at a fraction of the cost and time<sup>[1](#f1)</sup>. Unfortunately, redevelopment initiatives fail to be capitalized due to a lack of incentivization, bounded by analogue patent policy.
 
-Blockchain-based fintech enables incentive efficiencies where they were previously not possible. Specifically, smart contracts collapse capital, data and execution into one, providing a new digital incentive mechanism. By enabling global markets to facilitate smart contracts through a DC for redevelopment clinical trials, we can significantly increase the return in lifespan per unit of time conducted in research. A digital, liquid clinical trial economy is a new paradigm, serving to improve capital formation and realization of pent up demand for new medical technology. This paper explains how to push science and medicine to boundaries yet unseen through (i) the deficiencies of the current legacy R&D model resulting in a low velocity of value, (ii) the mission of creating a digitally, liquid global market to scale clinical research and (iii) ultimately compounding value to achieve longer lifespans for as many humans as possible. 
+Blockchain-based fintech enables incentive efficiencies where they were previously not possible. Specifically, smart contracts collapse capital, data and execution into one, providing a new digital incentive mechanism. By enabling global markets to facilitate smart contracts through a DC for redevelopment clinical trials, we can significantly increase the return in lifespan per unit of time conducted in research. A digital, liquid clinical trial economy is a new paradigm, serving to improve capital formation and realization of pent up demand for new medical technology. This paper explains  (i) the deficiencies of the current legacy R&D model resulting in a low velocity of value, (ii) the mission of creating a digitally, liquid global market to scale clinical research and (iii) how IKU ultimately compounds value to push science and medicine to boundaries yet unseen. 
 
 
 ## Table of Contents  
@@ -67,12 +67,12 @@ Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing
 
 <img width="900" alt="NIH Funding 2003-2015" src="https://github.com/marcgug/White-Paper/raw/master/NIH%20Annual%20SPend.png">
  
-The outcome is a ~20 year backlog of potential medicines waiting for funds to enter clinical trials - posing serious threats to life extension.<sup>[10](#f10)</sup> There are over 10,000 diseases afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>  All the while generic medicines have proven to be safe and inexpensive, and can be redeveloped to treat many more diseases or conditions, for which there is currently no quality treatment.<sup>[12](#f12)</sup> Redeveloped medicines can be fully realized (e.g. FDA approved) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup>  The industry model as it currently stands is clearly a failure and does not account for redevelopment of medicines.<sup>[14](#f14)</sup>  The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.  Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
+The outcome is a ~20 year backlog of potential medicines waiting for funds to enter clinical trials.<sup>[10](#f10)</sup> There are over 10,000 diseases afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>  All the while generic medicines have proven to be safe and inexpensive, and can be redeveloped to treat many more diseases or conditions, for which there is currently no quality treatment.<sup>[12](#f12)</sup> Redeveloped medicines can be fully realized (e.g. FDA approved) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup>  The industry model as it currently stands is clearly a failure and does not account for redevelopment of medicines.<sup>[14](#f14)</sup>  The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.  Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
 
 ### IKU Approach
 
-A liquid clinical trial acceleration network focused on redeveloping medicines serving to efficiently achieve longer life expectancies while providing entry and exit opportunities through a fungible licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for clinical research efficiency. See Figure C:
+A liquid clinical trial acceleration network focused on redeveloping existing medicines serving to efficiently achieve R&D productivity improvement by orders of magnitude,  while providing entry and exit opportunities through a fungible licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for clinical research efficiency. See Figure C:
 
 **Figure C: Existing Medical Funding Models** 
 
@@ -144,7 +144,7 @@ The scientific probability of a redeveloped drug achieving approval is ~30%, at 
 
 - **IKU:** ~55 million/<5 years = ~ $11 million per year spend.  
 
-By design, the IKU model is ~17x less expensive with significantly greater probability of scientific success.  Upon blockchains gaining more adoption, we anticipate further productivity efficienciess.
+By design, the IKU model is much less expensive with significantly greater probability of scientific success.  Upon blockchains gaining more adoption along with IKU achieving scale, we anticipate further productivity efficienciess.
 
 ### Token and License
 
@@ -157,7 +157,7 @@ Licensees will either be in the form of a third party that acquires a certain th
 
 ### The IKU Network
 
-The mission is to establish the IN as a public utility for medical research, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize life extension R&D efficiencies.  In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific medical innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN. 
+The mission is to establish the IN as a public utility for medical research, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize R&D efficiencies.  In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific medical innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN. 
 
 ### IKU Network Utility
 
@@ -216,7 +216,7 @@ The IN will serve to produce requests for peer reviewed proposals `RFP` in respo
 
 An `RFP` is required to consist of (i) a principal investigator PI that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to (see below `RST[x]` value), (ii) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and (iii) the scientific justification, etc (see google doc above). A standard `RST[x]` Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`. This leaves significant room for `RST[x]` value creativity.
 
-IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of achieving longer lifespans for as many humans as possible. 
+IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of compounding R&D information efficiency and capital to realize new medicines at scale. 
 
 Participants will use the `devTools` to peer review.  The IN peer review process to score an `RFP` can be defined as a function:
 
@@ -382,7 +382,7 @@ The IN will maintain its funds, along with IKU as necessary for incentivizing VR
    
 ### Future Development
 
-While IKU in its initial phase will focus on redeveloping drugs, we anticipate focusing on for adjacent opportunties to achieve longevity escape velocity including on biomarker analysis, age-related disease prevention and disease detection tech.
+While IKU in its initial phase will focus on redeveloping drugs, we anticipate focusing on for adjacent opportunties to achieve longevity escape velocity including disease specific biomarker analysis, age-related disease prevention and disease detection tech.
 
 As to the platform itself, additional IN features are expected to be developed and/or integrated based on IKU decision making to further enable medical R&D efficiency, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs (e.g., PubMed, IP Databases). This will improve workflow efficiency and thus lead to enhanced platform performance. 
 
