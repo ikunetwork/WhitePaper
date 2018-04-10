@@ -387,7 +387,7 @@ As the `RST[x]DC` is incentivized to upload relevant and appropriate research da
 
 - **Figure J: Architecture - Decryption**
 
-<img width="450" alt="Decryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Decryption.png"></p>
+- <img width="450" alt="Decryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Decryption.png"></p>
 
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.The funds will be stored in an Ethereum MultiSigWallet: (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
