@@ -369,19 +369,22 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 
 As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a NuCypher proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy in the NuCypher proxy re-encryption node upon `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup> As per the NuCypher White Paper:
 
-- When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s (*sender*) key *pks* (Figure H).. The data itself is encrypted with a random symmetric key *dek*, with one key per file. The *dek*, encrypted with *pks* is attached to the encrypted data. This combination (*edek, c*) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.
+- When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s (*sender*) key *pks* (**Figure H)**. The data itself is encrypted with a random symmetric key *dek*, with one key per file. The *dek*, encrypted with *pks* is attached to the encrypted data. This combination (*edek, c*) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.
 
 **Figure H: Architecture - Encryption**
+
 <img width="400" alt="Encryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Encryption.png"></p>
 	
-- When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key (Figure I). It often makes sense for the public key to correspond to an address in the Ethereum network (to prove a payment has been made from that address for a digital content subscription, for example). The sender generates a re-encryption key *res→r* (including an encrypted random ephemeral key when needed) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The case where multiple nodes are selected for redundancy or security will be discussed later. The nodes which have shared data of user *sender* with a user *receiver* register this information in the network.
+- When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key (**Figure I**). It often makes sense for the public key to correspond to an address in the Ethereum network (to prove a payment has been made from that address for a digital content subscription, for example). The sender generates a re-encryption key *res→r* (including an encrypted random ephemeral key when needed) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The case where multiple nodes are selected for redundancy or security will be discussed later. The nodes which have shared data of user *sender* with a user *receiver* register this information in the network.
 
 **Figure I: Architecture - Access Delegation**
+
 <img width="400" alt="Access Delegation" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Access%20Delegation.png"></p>
 	
-- When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream (Figure J). He separates out *edek* from the message and sends *edek* to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver (those which have reencryption key(s) *res→r*). The receiver asks the node(s) that has the re-encryption key to transform *edek* to *edek1* and uses his own secret key *skr* to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
+- When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream (**Figure J**). He separates out *edek* from the message and sends *edek* to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver (those which have reencryption key(s) *res→r*). The receiver asks the node(s) that has the re-encryption key to transform *edek* to *edek1* and uses his own secret key *skr* to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
 
 **Figure J: Architecture - Decryption**
+
 <img width="400" alt="Decryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Decryption.png"></p>
 
 ### The IKU Reserve
