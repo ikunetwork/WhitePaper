@@ -58,13 +58,11 @@ Specifically, capital is nearly exclusively allocated to new molecular entities 
 This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a solid linear fashion, with IRR already below the cost of capital in 2017. <sup>[7](#f7)</sup> See Figure A:
 
 **Figure A: Return on Investment in Pharma R&D**
-
 <img width="900" alt="Return on Investment in Pharma R&D" src="https://github.com/marcgug/White-Paper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png"></p>
 
 Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since 1990.<sup>[8](#f8)</sup> We aslo see a decrease in medical research funding from the U.S. National Institute of Health.<sup>[9](#f9)</sup> See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
-
 <img width="900" alt="NIH Funding 2003-2015" src="https://github.com/marcgug/White-Paper/raw/master/NIH%20Annual%20SPend.png">
  
 The outcome is a ~20 year backlog of potential medicines waiting for funds to enter clinical trials.<sup>[10](#f10)</sup> There are over 10,000 diseases afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>  All the while generic medicines have proven to be safe and inexpensive, and can be redeveloped to treat many more diseases or conditions, for which there is currently no quality treatment.<sup>[12](#f12)</sup> Redeveloped medicines can be fully realized (e.g. FDA approved) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup>  The industry model as it currently stands is clearly a failure and does not account for redevelopment of medicines.<sup>[14](#f14)</sup>  The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.  Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
