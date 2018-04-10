@@ -373,21 +373,21 @@ As the `RST[x]DC` is incentivized to upload relevant and appropriate research da
 
 - When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s (*sender*) key *pks* (Figure H).. The data itself is encrypted with a random symmetric key *dek*, with one key per file. The *dek*, encrypted with *pks* is attached to the encrypted data. This combination (*edek, c*) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.
 
-- **Figure H: Architecture - Encryption**
+**Figure H: Architecture - Encryption**
 
-- <img width="450" alt="Encryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Encryption.png"></p>
+<img width="450" alt="Encryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Encryption.png"></p>
 	
 - When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key (Figure I). It often makes sense for the public key to correspond to an address in the Ethereum network (to prove a payment has been made from that address for a digital content subscription, for example). The sender generates a re-encryption key *res→r* (including an encrypted random ephemeral key when needed) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The case where multiple nodes are selected for redundancy or security will be discussed later. The nodes which have shared data of user *sender* with a user *receiver* register this information in the network.
 
-- **Figure I: Architecture - Access Delegation**
+**Figure I: Architecture - Access Delegation**
 
-- <img width="450" alt="Access Delegation" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Access%20Delegation.png"></p>
+<img width="450" alt="Access Delegation" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Access%20Delegation.png"></p>
 	
 - When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream (Figure J). He separates out *edek* from the message and sends *edek* to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver (those which have reencryption key(s) *res→r*). The receiver asks the node(s) that has the re-encryption key to transform *edek* to *edek1* and uses his own secret key *skr* to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
 
-- **Figure J: Architecture - Decryption**
+**Figure J: Architecture - Decryption**
 
-- <img width="450" alt="Decryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Decryption.png"></p>
+<img width="450" alt="Decryption" src="https://github.com/ikunetwork/WhitePaper/raw/master/Architecture%20Decryption.png"></p>
 
 ### The IKU Reserve
 The IN will maintain its funds, along with IKU as necessary for incentivizing VR peer review, liquidity and community bounties in both software and medicine.The funds will be stored in an Ethereum MultiSigWallet: (https://github.com/Gnosis/MultiSigWallet) which is built on top of ConsenSys Ethereum MultiSigWallet (https://github.com/ConsenSys/MultiSigWallet).] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time. 
