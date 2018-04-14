@@ -55,7 +55,7 @@ Specifically, capital is nearly exclusively allocated to new molecular entities 
 - ~15 years to complete clinical trials for market access
 - ~0.02% chance of obtaining FDA approval upon being discovered in the lab <sup>[6](#f6)</sup>
 
-This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a solid linear fashion, with IRR already below the cost of capital in 2017. <sup>[7](#f7)</sup> See Figure A:
+This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a linear fashion, with IRR already below the cost of capital in 2017. <sup>[7](#f7)</sup> See Figure A:
 
 **Figure A: Return on Investment in Pharma R&D**
 <img width="900" alt="Return on Investment in Pharma R&D" src="https://github.com/marcgug/White-Paper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png"></p>
