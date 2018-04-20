@@ -5,7 +5,7 @@
 ## Abstract 
 IKU is building the first public utility, as a decentralized cooperative ("DC") to scale biotechnology research and clinical trials.  The DC establishes research and clinical trial data rights as cryptoassets to be issued and traded in an open, global market as a new form of liquidity. This architecture is supported by a two token incentive model to provide for fee derivation from efficient clinical development of medicines.     
 
-Currently, the marginial increase in lifespan is severely disproportionate to duration of research advancement. Drug development and clinical trials traditionally focus on brand new molecules that have never previously had human exposure, resulting in over $1 billion spend and a ~15 year market entry point per drug - a very faulty, non-scalable process. In parallel, ~50% of existing medicines can be redeveloped to reach the market at a fraction of the cost and time<sup>[1](#f1)</sup>. Unfortunately, this efficiency has to date failed to be capitalized due to lacking incentives, bounded by analogue capital incentive structure.
+Currently, the marginial increase in lifespan is severely disproportionate to duration of research advancement. Drug development and clinical trials traditionally focus on brand new molecules that have never previously had human exposure, resulting in over $1 billion spend and a 15 year market entry point per drug - a very faulty, non-scalable process. In parallel, 50% of existing medicines can be redeveloped to reach the market at a fraction of the cost and time<sup>[1](#f1)</sup>. Unfortunately, this efficiency has to date failed to be capitalized due to lacking incentives, bounded by analogue capital incentive structure.
 
 Blockchain-based fintech enables incentive efficiencies where they were previously not possible. Smart contracts collapse capital, data and execution into one, providing a new digital incentive mechanism. By enabling global markets to facilitate smart contracts for clinical trials, we can significantly increase the return in lifespan per unit of time conducted in research. A digital, liquid clinical trial economy is a new paradigm, serving to improve capital formation and realization of pent up demand for new medical technology. This paper explains  (i) the deficiencies of the current legacy R&D model resulting in a low velocity of value, (ii) the mission of creating a digitally, liquid global market to scale clinical research and (iii) how IKU ultimately compounds value to push science and medicine to boundaries yet unseen. 
 
@@ -47,9 +47,9 @@ Bio research operates in analog fashion. And rightfully so as patents and capita
 
 Specifically, capital is nearly exclusively allocated to new molecular entities NME - molecules that have never been conceived nor had human exposure, as NME patents are most difficult to invalidate.<sup>[5](#f5)</sup> Unfortunately, NME's as are rather logistically difficult to achieve, requiring:
 
-- ~$2.6 billion in R&D spend
-- ~15 years to complete clinical trials for market access
-- ~0.02% chance of obtaining FDA approval upon being discovered in the lab <sup>[6](#f6)</sup>
+- $2.6 billion in R&D spend
+- 15 years to complete clinical trials for market access
+- 0.02% chance of obtaining FDA approval upon being discovered in the lab <sup>[6](#f6)</sup>
 
 This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a linear fashion, with IRR already below the cost of capital in 2017. <sup>[7](#f7)</sup> See Figure A:
 
