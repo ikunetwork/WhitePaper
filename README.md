@@ -56,7 +56,7 @@ This model has proven to be very inefficient as pharma’s internal rate of retu
 **Figure A: Return on Investment in Pharma R&D**
 <img width="900" alt="Return on Investment in Pharma R&D" src="https://github.com/marcgug/White-Paper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png"></p>
 
-Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since 1990.<sup>[8](#f8)</sup> We aslo see a decrease in medical research funding from the U.S. National Institute of Health.<sup>[9](#f9)</sup> See Figure B:
+Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since 1990.<sup>[8](#f8)</sup> We also see a decrease in medical research funding from the U.S. National Institute of Health.<sup>[9](#f9)</sup> See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 <img width="900" alt="NIH Funding 2003-2015" src="https://github.com/marcgug/White-Paper/raw/master/NIH%20Annual%20SPend.png">
@@ -72,9 +72,9 @@ A liquid clinical trial acceleration network focused on redeveloping existing me
 
 <img width="900" alt="NIH Funding 2003-2015" src="https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20Medical%20Funding%20Models.png">
 
-### HOW?
+### HOw?
 
-By providing a global liquid architecture for biotech based in tokenized clinical trial data rights, transacted in a digital market. IKU leveragaes a liquid licensing protocol (see **The `RST[x]` `permissionlessLicense`** section below) in which all transactions are settled programmatically on a blockchain, as clinical trial R&D data rights are proved through existence of smart contract provenance. A certain threshold of tokens is required for a provable license to such rights.  IKU essentially reinvents clinical trial R&D thru tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of clinical trial R&D data sets to accelerate access to therapies.  This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages to parties who otherwise would not know or trust each other.  The IKU token provides value through the right to contribute to the IKU Network **IN**, more so to the IKU R&D consensus mechanism, to derive fees from the IN.  
+IKU provides a global liquid architecture for biotech based in tokenized clinical trial data rights, transacted in a digital market. IKU leveragaes a liquid licensing protocol (see **The `RST[x]` `permissionlessLicense`** section below) in which all transactions are settled programmatically on a blockchain, as clinical trial R&D data rights are proved through existence of smart contract provenance. A certain threshold of tokens is required for a provable license to such rights.  IKU essentially reinvents clinical trial R&D through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of clinical trial R&D data sets to accelerate access to therapies.  This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages to parties who otherwise would not know or trust each other.  The IKU token provides value through the right to contribute to the IKU Network **IN**, more so to the IKU R&D consensus mechanism, to derive fees from the IN.  
 
 ### What are Smart Contracts?
 
@@ -86,7 +86,7 @@ IKU is built on Ethereum, leveraging smart contracts to transact in clinical tri
 
 ### Why IKU?
 
-IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system vulnerable to monopoly. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in efficient R&D assets through decentralized resource allocation and increased market transparency. The successful creation of this system will create a positive feedback loop both economically and scientifically. 
+IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system that discouraegs information sharing and is vulnerable to monopoly. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in efficient R&D assets through decentralized resource allocation and increased market transparency. Access to clinical data and licenses are unlocked to the community at large which may result in new discoveries and drug applications.  The successful creation of this system will create positive economic and scientific feedback loops. 
 
 In addition, the IN will serve to attract R&D ideation through crowdsourced input from thought leaders and patients. Realistically, physicians and patients do not have the time, expertise or resources to commence clinical trials, resulting in drop off. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives. 
 
@@ -112,7 +112,7 @@ This will serve to provide more equitable foundations in the following:
 	
 	Data and/or market exclusivity can be used by a `RST[x]DC` as a competitive advantage (further described below).  
 
-- **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining silo’d and permissioned as ROI on the significant R&D costs - in the order of 2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.<sup>[31](#f31)</sup> In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of outcome.<sup>[32](#f32)</sup> By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RSTx`. The `RSTx` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
+- **Liquidity**: Medical research initiatives are generally inaccessible globally, remaining siloed and permissioned as ROI on the significant R&D costs - in the order of $2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.<sup>[31](#f31)</sup> In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing (as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since 1990) as stock price is often dependent on sale volume, independent of outcome.<sup>[32](#f32)</sup> By design, IKU's output yields (preclinical and) clinical data sets, open to any interested party, that build the basis for two related asset classes - (i) the IKU Network Token and (ii), Research Specific Token `RSTx`. The `RSTx` enables the `permissionlessLicense` as described below. Given that IKU focuses on generic drugs that are already on the market, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required (see above) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met. 
 
 Cryptoassets allow for the collapse of money value and information into one, facilitating the liquid exchange of data - as opposed to few centralized entities with their own private interests to control.<sup>[31](#f31)</sup> IKU is providing the former for clinical R&D, allowing it to trade globally.  Through this architecture, we can realize global supply and demand of safe and impactful medical science at scale. 
  
@@ -170,7 +170,7 @@ The IN combines the wisdom of crowds with the wisdom of science thru participant
 
 Any person with internet access may frictionlessly submit a `researchTarget` which may be a concrete, verifiable objective or broad target. For example:
 - Verifiable Object: Repurposing generic X in a slow release formulation to treat pancreatic cancer
-- Broad Target: Advancing research against aging
+- Broad Target: advancing research of aging and age-related diseases
 
 Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e therapy, device, vaccine, etc., mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
 
