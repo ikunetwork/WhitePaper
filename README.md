@@ -3,7 +3,7 @@
 **Advance Medicine at Scale**
 
 ## Abstract 
-IKU is building the first public utility, as a decentralized cooperative ("DC") to scale biotechnology research and clinical trial.  The DC establishes research and clinical trial data rights as cryptoassets to be issued and traded in an open, global market as a new form of liquidity. This architecture is supported by a two token incentive model to provide for fee derivation from efficient clinical development of medicines.     
+IKU is building the first public utility, as a decentralized cooperative ("DC") to scale biotechnology research and clinical trials.  The DC establishes research and clinical trial data rights as cryptoassets to be issued and traded in an open, global market as a new form of liquidity. This architecture is supported by a two token incentive model to provide for fee derivation from efficient clinical development of medicines.     
 
 Currently, the marginial increase in lifespan is severely disproportionate to duration of research advancement. Drug development and clinical trials traditionally focus on brand new molecules that have never previously had human exposure, resulting in over $1 billion spend and a ~15 year market entry point per drug - a very faulty, non-scalable process. In parallel, ~50% of existing medicines can be redeveloped to reach the market at a fraction of the cost and time<sup>[1](#f1)</sup>. Unfortunately, this efficiency has to date failed to be capitalized due to lacking incentives, bounded by analogue capital incentive structure.
 
