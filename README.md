@@ -272,11 +272,13 @@ contract RSTCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 }
 
 ```
-### The Proposal Library
+### The_Library_Exchange
 
-Network-based computational biology analysis has become a widely used strategy for determining drug redevelopment piplines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup>  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug redevelopment leads.<sup>[34](#f34)</sup> Unfortunately, this information is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.
+Network-based computational bio analysis has become a widely used strategy for determining drug rediscovery piplines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup>  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug rediscovery leads.<sup>[34](#f34)</sup> Unfortunately, this data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.  There are challenges in sourcing and obtaining all relevant existing historical data for a medicinal product data package (dosing, effect, etc.) as is required for clinical trial initiation.  The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.  <sup>[34a](#f34a)</sup>
 
-The IN will serve to be a hub for such information allowing for a unified workflow of the most promising redevelopment initiatives along with the economic incentives to bring such initiatives to clinical trial. The IKU peer review will “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust repurposing pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review (described below) to earn fees from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the the most promising redevelopment initiatives to be capitalized. 
+The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising drug rediscovery research and clinical trials.  The IKU architecture facilitates a market around R&D data to use licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study (study) for Rapamycin modified release for longevity (clinical trial drug rediscovery package).  Clinical trial packages are required to submit to governments for ethical clearance to initiate a study. In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`.  The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial (efficacy), eliminating significant time and cost spent replicating studies.  The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advance of discovery, making R&D as a whole more efficient, with more transparent, frictionless access to rich pools of data.  Mining data pool trends of various variables (e.g. mechanism of action, general aging, at risk populations, etc.) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. IKU data mining architecture is desgined “stand on the shoulders” of the computational analysis that has been completed to date to provide a highly predictive, robust drug rediscovery pipeline. VR and non-VR are incentivized to ‘bruteForce’ peer review to earn fees (more on fees below) from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the the most promising redevelopment initiatives to be capitalized. 
+
+exchange data, blockchain token rst - end w tokenization
 
 ## Tokenization 
 
@@ -483,6 +485,8 @@ All of which lead to significant issues in transaction finality, exacerbating an
 <b id="f33">33</b> E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/ (2017).
 
 <b id="f34">34</b> Id. R. Hodos, In silico methods for drug repurposing and pharmacology, https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf (2016).
+
+<b id="f34a">34a</b> EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients ("STAMP") Meeting (2018).
 
 <b id="f35">35</b> SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher (2017).
 
