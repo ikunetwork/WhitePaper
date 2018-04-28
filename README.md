@@ -1,6 +1,6 @@
 #  IKU - A New Digital License
 
-**Advance Medicine at Scale**
+**Scaling Biotechnology Research**
 
 ## Abstract 
 IKU is building the first public utility, as a decentralized cooperative ("DC") to scale biotechnology research and clinical trials.  The DC establishes research and clinical trial data rights as cryptoassets to be issued and traded in an open, global market as a new form of liquidity. This architecture is supported by a two token incentive model to provide for fee derivation from efficient clinical development of medicines.     
