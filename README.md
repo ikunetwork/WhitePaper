@@ -21,13 +21,13 @@ Blockchain-based fintech enables incentive efficiencies where they were previous
    7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
    8. [Token and License](#token-and-license)
    9. [The IKU Network](#the-IKU-network)
-   10. [IKU Network Utility for R&D](#iku-network-utility)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
    2. [Dev Tools](#deve-tools)
    3. [IKU Network Participants](#iku-network-participants)
    4. [Request for Proposals](#request-for-proposals)
-   5. [The Proposal Library](#the-proposal-library)
+   5. [The Library Exchange](#the-library-exchange)
+   6. [IKU Network Utility for R&D](#iku-network-utility)
 3. [Tokenization](#tokenization)
    1. [`IKU`](#iku)
    2. [`RST`](#rst)
@@ -155,16 +155,6 @@ Licensees will either be in the form of a third party that acquires a certain th
 
 The mission is to establish the IN as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize R&D efficiencies.  In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN. 
 
-### IKU Network Utility
-
-The following sequence of events illustrate the IKU Network utility to facilitate global capital formation for R&D:
-
-**Figure G : IKU Network Utility**
-
-<img width="899" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
-
-Through this utility, IKU serves to achieve open markets for digital research rights to be created and traded in a fungible, liquid fashion, ultimately increasing the return in lifespan per unit of time conducted in research. The following Network Economy and Tokenization sections explain how this is achieved.
-
 ## The Network Economy
 The IN combines the wisdom of crowds with the wisdom of science thru participant communication, capital and data exchange. The following tools will give life to the IN: `researchTarget`, `devTools`, Request for Proposals `RFP`, and the `permissionlessLicense`. 
 
@@ -274,6 +264,18 @@ contract RSTCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 }
 
 ```
+
+### IKU Network Utility
+
+The following sequence of events illustrate the IKU Network utility to facilitate global capital formation and trade for R&D:
+
+**Figure G : IKU Network Utility**
+
+<img width="899" alt="IKU Network Utility" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png">
+
+Through this utility, IKU serves to achieve open markets for digital research rights - created and traded in a fungible, liquid fashion, ultimately increasing the return in lifespan per unit of time conducted in research advance. The following Network Economy and Tokenization sections explain how this is achieved.
+
+
 ### The_Library_Exchange
 
 Network-based computational bio analysis has become a widely used strategy for determining drug rediscovery piplines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup>  Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug rediscovery leads.<sup>[34](#f34)</sup> Unfortunately, this data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials.  There are challenges in sourcing and obtaining all relevant existing historical data for a medicinal product data package (dosing, effect, etc.) as is required for clinical trial initiation.  The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.  <sup>[34a](#f34a)</sup>
