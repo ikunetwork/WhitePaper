@@ -124,7 +124,7 @@ Figure E further contextualizes the benefits of the IKU data approach:
 
 **Figure E: IKU Data Approach**
 
-<img width="899" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20vs.%20Patents.png">
+<img width="899" alt="IKU Data Approach" src="https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Data%20Approach.png">
 
 ### IKU Scales  
  
