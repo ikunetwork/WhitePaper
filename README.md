@@ -72,7 +72,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to efficiently ach
 
 **Figure C: Existing R&D Models** 
 
-<img width="900" alt="NIH Funding 2003-2015" src="https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20R%26D%20Models.png">
+<img width="899" alt="NIH Funding 2003-2015" src="https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20R%26D%20Models.png">
 
 ### How?
 
