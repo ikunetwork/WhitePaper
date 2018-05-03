@@ -70,9 +70,9 @@ The outcome is a ~20 year backlog of potential drugs waiting for funds to enter 
 
 IKU provides the infrastructure for a liquid, bio R&D network to efficiently achieve R&D productivity improvement by orders of magnitude.  IKU Network will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on the [Ethereum] blockchain. IKU is the Manhattan Project for R&D efficiency. See Figure C:
 
-**Figure C: Existing Medical Funding Models** 
+**Figure C: Existing R&D Models** 
 
-<img width="900" alt="NIH Funding 2003-2015" src="https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20Medical%20Funding%20Models.png">
+<img width="900" alt="NIH Funding 2003-2015" src="https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20R%26D%20Models.png">
 
 ### How?
 
