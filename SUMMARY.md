@@ -1,24 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md#introduction)
-   * [Problem Statement](README.md#problem-statement)
-   * [How](README.md#how)
-   * [Why elixirONE?](README.md#why-elixirone)
-   * [The elixirONE Foundation](README.md#the-elixirone-foundation)
-* [The Network Economy](README.md#the-network-economy)
-   * [Research Targets](README.md#research-targets)
-   * [Network Tools](README.md#network-tools)
-   * [Participants](README.md#participants)
-   * [Request for Proposals](README.md#request-for-proposals)
-* [Tokenization](README.md#tokenization)
-   * [ELX Utility](README.md#elx-utility)
-   * [RST Utility](README.md#rst-utility)
-   * [The RST permissionlessLicense](README.md#the-rst-permissionlesslicense)
-   * [SMART K for permissionlessLicense](README.md#smart-k-for-permissionlesslicense)
-   * [The RST Bundle](README.md#the-rst-bundle)
-   * [Fees and the Network Digital Wallet](README.md#fees-and-the-network-digital-wallet)
-   * [Network Utility for R&D](README.md#network-utility-for-rd)
-   * [The Elixr Reserve](README.md#the-elixr-reserve)
-   * [Phased Rollout](README.md#phased-rollout)
-* [Token Distribution](README.md#token-distribution) (TODO)
-* [Conclusion](README.md#conclusion)
+* [Introduction](README.md)
+
