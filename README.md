@@ -40,9 +40,9 @@ IKU employs the blockchain and smart contracts to construct an incentive framewo
 
 ### Problem Statement
 
-Bio R&D operates in analog fashion. And rightfully so as patents and capital formation operate under the same analog hood, which makes it impossible for the public to realize new bio-technologies at scale.[2](./#f2) Why? Because of analog infrastructure that comes with significant costs in trust and liquidity. There is no enforceable global record of R&D data rights without fault \(litigation\). [3](./#f3) This causes significant inefficiencies in clinical development that only large, well-capitalized corporations can sustain. These coprorations then then seek rent from patients, insurance and the general public through high retail cost - the most expensive drugs in the world are for rare diseases, the smallest and most resource-limited patient populations, costing as much as $1 million+ per unit.[4](./#f4) Because of such inefficiency, scientists are incentivized to keep their data secret in hopes of a large corporation licensing their research, as opposed to collaborating with their peers in an open environment. The result is \(i\) very limited R&D investment per capita and \(ii\) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
+Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new bio-technologies at scale.[2](./#f2) Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D data rights without fault \(litigation\), resulting in significant inefficiencies in clinical development. [3](./#f3) Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost. Rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million.[4](./#f4) Scientists are then incentivized to conceal their data in hopes of a large corporation to pursue a license to research, as opposed to to peer collaboration within the scientific communtiy. The result is \(i\) very limited R&D investment per capita and \(ii\) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
 
-Specifically, capital is nearly exclusively allocated to new molecular entities NME - molecules that have never been conceived nor had human exposure, as NME's hae a more enforceable record of data \(because they never existed before\).[5](./#f5) Unfortunately, NME's as are rather logistically difficult to achieve, requiring:
+Capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data \(because they never existed before\).[5](./#f5) Unfortunately, NME's are logistically difficult to achieve, requiring:
 
 * $2.6 billion in R&D spend
 * 15 years to complete clinical trials for market access
@@ -53,7 +53,7 @@ This model has proven to be very inefficient as pharma’s internal rate of retu
 **Figure A: Return on Investment in Pharma R&D** 
 ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/ReturnOnInvestmentOnPharmaRD.png)
 
-Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We also see a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
+Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We also see a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
 
 **Figure B: NIH Funding 2003-2015** ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH%20Annual%20SPend.png)
 
