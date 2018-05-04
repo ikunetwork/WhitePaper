@@ -1,5 +1,4 @@
 ## Abstract
-
 IKU is building the first public utility as a decentralized cooperative \("DC"\) to scale biotechnology research and clinical trials. The DC establishes digital rights to research and clinical trial data as assets to be issued and traded in an open, global market. This architecture will be supported by a two token incentive model providing fee derivation from IKU supported R&D.
 
 Currently, the marginial increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities \("NME"\). NME's typically take over 15 years per market entry, cost over $1 billion and have little to no human exposure - a faulty, non-scalable process, especially in the context of advancing medicine. In parallel, 50% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.[1](./#f1) IKU aims to capitalize on the latter and introduce an infrastructure on which R&D can scale efficiently.
