@@ -1,9 +1,5 @@
 # Introduction
 
-iku.network
-
-Version .99
-
 ## Abstract
 
 IKU is building the first public utility as a decentralized cooperative \("DC"\) to scale biotechnology research and clinical trials. The DC establishes digital rights to research and clinical trial data as assets to be issued and traded in an open, global market. This architecture will be supported by a two token incentive model providing fee derivation from IKU supported R&D.
