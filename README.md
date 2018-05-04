@@ -57,7 +57,7 @@ Specifically, capital is nearly exclusively allocated to new molecular entities 
 
 This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a linear fashion, with IRR already below the cost of capital in 2017. [7](./#f7) See Figure A:
 
-**Figure A: Return on Investment in Pharma R&D** ![Return on Investment in Pharma R&amp;D](https://github.com/ikunetwork/WhitePaper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png)&lt;/p&gt;
+**Figure A: Return on Investment in Pharma R&D** ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/blob/master/ReturnOnInvestmentOnPharmaRD.png)
 
 Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We also see a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
 
