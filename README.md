@@ -57,11 +57,11 @@ Specifically, capital is nearly exclusively allocated to new molecular entities 
 
 This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in a linear fashion, with IRR already below the cost of capital in 2017. [7](./#f7) See Figure A:
 
-**Figure A: Return on Investment in Pharma R&D** ![Return on Investment in Pharma R&amp;D](https://github.com/marcgug/White-Paper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png)&lt;/p&gt;
+**Figure A: Return on Investment in Pharma R&D** ![Return on Investment in Pharma R&amp;D](https://github.com/ikunetwork/WhitePaper/blob/master/Return%20on%20Investment%20on%20Pharma%20R%26D.png)&lt;/p&gt;
 
 Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We also see a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
 
-**Figure B: NIH Funding 2003-2015** ![NIH Funding 2003-2015](https://github.com/marcgug/White-Paper/raw/master/NIH%20Annual%20SPend.png)
+**Figure B: NIH Funding 2003-2015** ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH%20Annual%20SPend.png)
 
 The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) There are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more diseases or conditions, for which there is currently no quality treatment.[12](./#f12) In addition, branded and failed Phase II \(achieved Phase I - safety\) technologies/drugs can also be rediscovered. Drug rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13) The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible.
 
