@@ -108,7 +108,7 @@ As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered f
   * Europe: up to ~10 years
   * Asia: up to ~10 years 
   * U.S.: up to ~7 years [30](./#f30)
-  <br>
+<br>
   Data and/or market exclusivity can be used by a `RST[x]DC` as a competitive advantage \(further described below\).
 
 * **Liquidity**: Bio research initiatives are generally inaccessible globally, remaining siloed and permissioned as ROI on the significant R&D costs - in the order of $2-3 billion USD to bring a NME drug to markets - lead to exorbitant pricing per patient.[31](./#f31) In addition, pharma companies carry significant non-R&D “baggage” i.e. marketing \(as previously stated, R&D spend has never outpaced non-R&D spend i.e. marketing in any given year since ~1990\).[32](./#f32) By design, IKU's output yields \(preclinical and\) clinical data sets, open to any interested party, that build the basis for two related asset classes - \(i\) the IKU Network Token and \(ii\), Research Specific Token `RSTx`. The `RSTx` enables the `permissionlessLicense` as described below. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required \(see above\) - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
