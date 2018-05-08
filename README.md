@@ -42,7 +42,7 @@ IKU employs the blockchain and smart contracts to construct an incentive framewo
 
 Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new biotech at scale.[2](./#f2) Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D data rights without fault \(litigation\), resulting in significant inefficiencies in clinical development. [3](./#f3) Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost - rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million.[4](./#f4) Scientists are then incentivized to conceal their data in hopes of a large corporation pursuing a license to research, as opposed to to peer collaboration within the scientific communtiy. The result is \(i\) very limited R&D investment per capita and \(ii\) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
 
-In addition, capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data \(because they never existed before\).[5](./#f5) Unfortunately, NME's are logistically difficult to achieve, requiring:
+In addition, capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data.[5](./#f5) Unfortunately, NME's are logistically difficult to achieve, requiring:
 
 * $2.6 billion in R&D spend
 * 15 years to complete clinical trials for market access
@@ -57,13 +57,13 @@ Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, e
 
 **Figure B: NIH Funding 2003-2015** ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH%20Annual%20SPend.png)
 
-The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) technologies/drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13) 
+The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13) 
 
-The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Roll in blockchain and smart contracts, enabling programmable incentive models to coordinate resources where it was not previously possible.
+The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.
 
 ### IKU Approach
 
-IKU provides the infrastructure for a liquid, bio R&D network to advance R&D productivity by orders of magnitude. The IKU Network **IN** will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on the \[Ethereum\] blockchain. Consider IKU as the Manhattan Project for R&D efficiency, where Figure C contextualizes its benefits:
+IKU provides the infrastructure for a liquid, bio R&D network to advance R&D productivity by orders of magnitude. The IKU Network **IN** will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on the Ethereum blockchain. Consider IKU as the Manhattan Project for R&D efficiency, with Figure C contextualizing its benefits:
 
 **Figure C: Existing R&D Models**
 
@@ -71,7 +71,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 ### How?
 
-IKU provides a global liquid architecture for R&D data in tokenized digital rights, leveraging a a liquid licensing protocol \(see The `RST[x] permissionlessLicense` section below\) in which all transactions are settled programmatically on-chain, as digital R&D data rights are proved through existence of smart contract provenance. A certain threshold of tokens is required for a provable license to such rights. IKU reinvents bio R&D and clinical trial markets through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provides value through the right to contribute to IN, and to derive fees from the IN.
+IKU provides a global liquid architecture for R&D data in tokenized digital rights, leveraging a a liquid licensing protocol \(see The `RST[x] permissionlessLicense` section below\) in which all transactions are settled programmatically on-chain, as digital R&D data rights are proved through existence of smart contract provenance. IKU reinvents bio R&D and clinical trial markets through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provides value through the right to contribute to IN, and to derive fees from the IN.
 
 ### What are Smart Contracts?
 
@@ -89,11 +89,7 @@ The IN will serve to attract R&D ideation through crowdsourced input from though
 
 ### What about Patents?
 
-By the time an NME enters clinical trials, there is &lt; 10 years left of patent life, often times only 5-6 years.[18](./#f18) Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.[19](./#f19) Generic medicines are built on the same active ingredients \(as the patented drugs\) once their patents or marketing exclusivities expire.[20](./#f20) More specifically, the same dosage, effectiveness and - safety - profile as the original drug.[21](./#f21) By definition, once the generic form can be sold, the ingredients have already been on the market for many years and as such,  and the generic themeselves are considered safe for patients.[22](./#f22) Because their patents expired, there is significantly less risk of infringement and more freedom to operate.
-
-The IN provides for a two token incentive model to secure the network and is designed to provide global liquidity for R&D, irrespective of of patent policy. The `IKU` token runs the IN and `RST[x]` are digital rights to R&D data generated by `RST[x]` holders. `RST[x]` holders operate as a  `RST[x]DC` and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. While `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used in the IN. The `RST[x]` holder carries pro-rata rights in the R&D data if they hold the respective `RST[x]`.
-
-This will serve to provide more equitable foundations in the following:
+By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.[18](./#f18) Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.[19](./#f19) Generic medicines are built on the same active ingredients \(as the patented drugs\) once their patents or marketing exclusivities expire.[20](./#f20) More specifically, the same dosage, effectiveness and - safety - profile as the original drug.[21](./#f21) By the time the generic form can be sold, the ingredients would have already been on the market for many years and as such, the generic themeselves are considered safe for patients.[22](./#f22) Because their patents expired, there is significantly less risk of infringement and more freedom to operate. IKU's focus will be on the redvelopment of generics, which will serve to provide more equitable foundations in the following:
 
 * **Science**: "The most fruitful basis for the discovery of a new drug is to start with an old drug" - Sir James W. Black, Nobel Prize in Medicine 1988
 
@@ -286,6 +282,8 @@ The IN creates two classes of native tokens:
 
 * `IKU`: The IN token `IKU` serves to secure the IN with consensus on R&D, allow for IN decision making and fee derivation as further explained under IKU Value. The supply of IKU is finite.
 * `RST`: The Research Specific Token `RST` is representative of the R&D `[x]` it was specifically created to capitalize. `RST[x]` supply is determined by proposers and is dependent on the project economics it is used to capitalize and facilitate. `RST[x]` bundles, `RST[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RST[x]` bundled.
+
+The two token incentive model is designed to secure the network  provide global liquidity for R&D, irrespective of of patent policy. The `IKU` token is the IN facilitator and `RST[x]` are digital rights to R&D data generated by `RST[x]` holders. `RST[x]` holders operate as a  `RST[x]DC` and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. While `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used in the IN. The `RST[x]` holder carries pro-rata rights in the R&D data if they hold the respective `RST[x]`.
 
 ### IKU Value
 
