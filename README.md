@@ -143,8 +143,8 @@ The IN combines the wisdom of crowds with the wisdom of science thru participant
 
 Any person with internet access may submit a `researchTarget` which may be a concrete, verifiable objective or broad target. For example:
 
-* Verifiable Object - Rediscovery of generic X in a slow release formulation to treat pancreatic cancer
-* Broad Target - Advancing research of aging and age-related diseases
+* Verifiable Object: Rediscovery of generic X in a slow release formulation to treat pancreatic cancer<br>
+* Broad Target: Advancing research of aging and age-related diseases
 
 Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e. therapy, device, bot, mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
 
