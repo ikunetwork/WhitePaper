@@ -73,7 +73,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 **Figure C: Existing R&D Models**
 
-![](https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20R%26D%20Models.png)
+![Existing R&D Models](https://github.com/ikunetwork/WhitePaper/raw/master/Existing-R%26D-Models.png)
 
 ### How?
 
