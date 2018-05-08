@@ -96,7 +96,7 @@ By the time an NME enters clinical trials, its patent life has 10 years, often t
    * Europe: up to ~10 years
    * Asia: up to ~10 years
    * U.S.: up to ~7 years [30](./#f30)<br><br>
-* **Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.[31](./#f31) Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.[32](./#f32) By design, IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii\), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
+* **Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.[31](./#f31) Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.[32](./#f32) IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii\), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
@@ -120,16 +120,16 @@ The scientific probability of a rediscovered drug achieving approval is 30%, at 
 
 * **IKU:** ~55 million/&lt;5 years = ~ $11 million per year spend.  
 
-By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate scaling to further productivity efficiency to pass longevity escape velocity — the point at which, for every year that you're alive, science is able to extend your life for more than a year.
+By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate scaling to further productivity efficiency to surpasspass the longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
 ### Token and License
 
-The IN will be controlled by its users, **IKU** token holders, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. Token value on the IN can be derived from the following:
+The IN will be controlled by its users, `IKU` token holders, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. Token value on the IN can be derived from the following:
 
-* Power to perform work for IN, including peer review R&D for capitalization
+* Power to perform work for the IN, including peer review R&D for capitalization
 * IKU fee structure \(described below\)
 
-Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contract, open to the world at large. An `RST[x]DC` will consist of a project lead and its token holder network to progress research/clinical trials through established channels available for contract on a worldwide basis \(clinical research organization CRO, etc.\).
+Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts. An `RST[x]DC` will consist of a project lead and its token holder network to progress research/clinical trials through established channels available for contract on a worldwide basis \(clinical research organization CRO, etc.\).
 
 ### The IKU Network
 
