@@ -63,7 +63,7 @@ Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, e
 
 The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13)
 
-The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.
+The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now  digitally program incentive models to coordinate resources where it was not previously possible.
 
 ### IKU Approach
 
