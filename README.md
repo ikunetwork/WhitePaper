@@ -101,7 +101,7 @@ By the time an NME enters clinical trials, its patent life has 10 years, often t
 
   * Europe: up to ~10 years
   * Asia: up to ~10 years
-  * U.S.: up to ~7 years [30](./#f30)<br>
+  * U.S.: up to ~7 years [30](./#f30)<br><br>
 
 * **Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.[31](./#f31) Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.[32](./#f32) IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii\), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
 
