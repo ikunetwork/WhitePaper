@@ -55,13 +55,13 @@ This model has proven to be very inefficient as pharma’s internal rate of retu
 
 **Figure A: Return on Investment in Pharma R&D**
 
- ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/ReturnOnInvestmentOnPharmaRD.png)
+ ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
 
 Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We've also seen a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
- ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH%20Annual%20SPend.png)
+ ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH-Funding.png)
 
 The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13)
 
