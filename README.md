@@ -1,4 +1,7 @@
+# Introduction
+
 ## Abstract
+
 IKU is building the first public utility as a decentralized cooperative \("DC"\) to scale biotechnology research and clinical trials. The DC establishes digital rights to research and clinical trial data as assets to be issued and traded in an open, global market. This architecture will be supported by a two-token incentive model providing fee derivation from IKU supported R&D.
 
 Currently, the marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities \("NME"\). NME's typically take over 15 years per market entry, cost over $1 billion and have little to no human exposure - a faulty, non-scalable process. ESPECIALLY in the context of advancing medicine. In parallel, 50% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.[1](./#f1) IKU aims to capitalize on the latter and introduce an infrastructure on which R&D can scale efficiently.
@@ -50,14 +53,17 @@ In addition, capital is almost exclusively allocated to new molecular entities N
 
 This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017. [7](./#f7) See Figure A:
 
-**Figure A: Return on Investment in Pharma R&D** 
-![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/ReturnOnInvestmentOnPharmaRD.png)
+**Figure A: Return on Investment in Pharma R&D**
+
+ ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/ReturnOnInvestmentOnPharmaRD.png)
 
 Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We've also seen a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
 
-**Figure B: NIH Funding 2003-2015** ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH%20Annual%20SPend.png)
+**Figure B: NIH Funding 2003-2015**
 
-The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13) 
+ ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH%20Annual%20SPend.png)
+
+The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13)
 
 The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science.
 
@@ -67,7 +73,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 **Figure C: Existing R&D Models**
 
-![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20R%26D%20Models.png)
+![](https://github.com/ikunetwork/WhitePaper/raw/master/Existing%20R%26D%20Models.png)
 
 ### How?
 
@@ -91,11 +97,11 @@ The IN will serve to attract R&D ideation through crowdsourced input from though
 
 By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.[18](./#f18) Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.[19](./#f19) Generic medicines are built on the same active ingredients \(as the patented drugs\) once their patents or marketing exclusivities expire.[20](./#f20) More specifically, the same dosage, effectiveness and - safety - profile as the original drug.[21](./#f21) By the time the generic form can be sold, the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.[22](./#f22) Because their patents expired, there is significantly less risk of infringement and more freedom to operate. IKU's focus will be on the redevelopment of generics, which will serve to provide more equitable foundations in the following:
 
-* **Science**: *The most fruitful basis for the discovery of a new drug is to start with an old drug* - Sir James W. Black, Nobel Prize in Medicine 1988.<br><br>As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered for a disease or a condition lacking viable options.[23](./#f23) Because existing drugs have already proven to be safe, the majority of clinical trial rediscovery initiatives can skip Phase I *safety*, and move directly into Phase II *efficacy*.[24](./#f24) Phase II costs are estimated to be as low as $5 million and take as little as a few years for approval, as opposed to ~15 years for NME.[25](./#f25) In fact, there were only 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one *efficacy* clinical trial, compared to ~30% FDA approval rate for drug rediscovery vs. 5% FDA approval rate for NME \(approximately .1% in lab, 10% upon entering clinical trial\).[26](./#f26) It is clear the probability of success is higher for rediscovery, eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines. Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline: <br><br>**Figure D: IKU vs. Traditional R&D Pipeline**<br>![Pipeline](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20vs.%20Traditional%20R%26D%20Pipeline%20V2.png)<br>
-* **IP**: A license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.[27](./#f27) Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing an independent clinical trial, etc.\). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.[28](./#f28) In the case of IKU, data will be hashed and stored on Inter Planetary File System IPFS. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance, while the data itself is made shareable through a proxy re-encryption scheme.[29](./#f29) This hash is essentially tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access. Parties, and in IKU's case the `RST[x]DC`, may capitalize on data/market exclusivity periods for competitive advantage in many jurisdictions, including but not limited to:<br><br>
-   * Europe: up to ~10 years
-   * Asia: up to ~10 years
-   * U.S.: up to ~7 years [30](./#f30)<br><br>
+* **Science**: _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.  As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered for a disease or a condition lacking viable options.[23](./#f23) Because existing drugs have already proven to be safe, the majority of clinical trial rediscovery initiatives can skip Phase I _safety_, and move directly into Phase II _efficacy_.[24](./#f24) Phase II costs are estimated to be as low as $5 million and take as little as a few years for approval, as opposed to ~15 years for NME.[25](./#f25) In fact, there were only 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one _efficacy_ clinical trial, compared to ~30% FDA approval rate for drug rediscovery vs. 5% FDA approval rate for NME \(approximately .1% in lab, 10% upon entering clinical trial\).[26](./#f26) It is clear the probability of success is higher for rediscovery, eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines. Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline:   **Figure D: IKU vs. Traditional R&D Pipeline** ![Pipeline](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20vs.%20Traditional%20R%26D%20Pipeline%20V2.png) 
+* **IP**: A license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.[27](./#f27) Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing an independent clinical trial, etc.\). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.[28](./#f28) In the case of IKU, data will be hashed and stored on Inter Planetary File System IPFS. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance, while the data itself is made shareable through a proxy re-encryption scheme.[29](./#f29) This hash is essentially tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access. Parties, and in IKU's case the `RST[x]DC`, may capitalize on data/market exclusivity periods for competitive advantage in many jurisdictions, including but not limited to:  
+  * Europe: up to ~10 years
+  * Asia: up to ~10 years
+  * U.S.: up to ~7 years [30](./#f30)  
 * **Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.[31](./#f31) Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.[32](./#f32) IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii\), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
@@ -116,9 +122,9 @@ At any given time, the scientific probability of a NME reaching approval is 5%, 
 
 * **NME:** $2.6 billion/15 years =  $173 million per year spend.  
 
-The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over < 5 years, the IKU model.
+The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over &lt; 5 years, the IKU model.
 
-* **IKU:** ~55 million/<5 years = ~ $11 million per year spend.  
+* **IKU:** ~55 million/&lt;5 years = ~ $11 million per year spend.  
 
 By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate scaling to further productivity efficiency to surpasspass the longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
@@ -199,7 +205,7 @@ Participants will use the `devTools` to peer review. The IN peer review process 
 
 `s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, it will serve to provide open source algorithms for bio R&D efficiencies.
 
-Upon `s` < `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: (i) `RST[x]` - An ERC20 token representing the specific research and (ii) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
+Upon `s` &lt; `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
 Upon `RSTCrowdsale[x]` achieving its softcap - minimum BTC/ETH required to achieve milestone:
 
@@ -270,7 +276,7 @@ The IN creates two classes of native tokens:
 * `IKU`: The IN token `IKU` serves to secure the IN with consensus on R&D, allow for IN decision making and fee derivation as further explained under IKU Value. The supply of IKU is finite.
 * `RST`: The Research Specific Token `RST` is representative of the R&D `[x]` it was specifically created to capitalize. `RST[x]` supply is determined by proposers and is dependent on the project economics it is used to capitalize and facilitate. `RST[x]` bundles, `RST[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RST[x]` bundled.
 
-The two token incentive model is designed to secure the network  provide global liquidity for R&D, irrespective of patent policy. The `IKU` token is the IN facilitator and `RST[x]` are digital rights to R&D data generated by `RST[x]` holders. `RST[x]` holders operate as a  `RST[x]DC` and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. While `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used in the IN. The `RST[x]` holder carries pro-rata rights in the R&D data if they hold the respective `RST[x]`.
+The two token incentive model is designed to secure the network provide global liquidity for R&D, irrespective of patent policy. The `IKU` token is the IN facilitator and `RST[x]` are digital rights to R&D data generated by `RST[x]` holders. `RST[x]` holders operate as a `RST[x]DC` and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. While `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used in the IN. The `RST[x]` holder carries pro-rata rights in the R&D data if they hold the respective `RST[x]`.
 
 ### `IKU` Value
 
