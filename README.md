@@ -143,7 +143,7 @@ The IN combines the wisdom of crowds with the wisdom of science thru participant
 
 Any person with internet access may submit a `researchTarget` which may be a concrete, verifiable objective or broad target. For example:
 
-* Verifiable Object: Rediscovery of generic X in a slow release formulation to treat pancreatic cancer<br>
+* Verifiable Object: Rediscovery of generic X in a slow release formulation to treat pancreatic cancer
 * Broad Target: Advancing research of aging and age-related diseases
 
 Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e. therapy, device, bot, mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
@@ -164,7 +164,7 @@ Participants will access the IN through a `devTools` integrated interface. The `
 * Peer Review
 * Upgrade to clinical trial subject 
 
-Friends, message, and upvote access will require an IN profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the IN. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
+Friends, messaging, and upvote access will require an IN profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the IN. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
 
 ### IKU Network Participants
 
@@ -173,7 +173,7 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 * `IKU`** Holder**: IKU token holder; can be an individual, institution, private company, etc. \(described further below\)
 * `RST[x]`** Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. \(described further below\)  
 * **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU peer review process.  
-* **ADV** Anonymous data viewer - the public, who freely contributes a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]DC` initiatives will post a gantt chart for how advanced their research initiative is as well as the top line de-identified research data they have generated on a quarterly basis.
+* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]DC` initiatives will post a gantt chart for how advanced their research initiative is as well as the top line de-identified research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
 
@@ -183,7 +183,7 @@ Participants will be subject to a `reputationScore`:
 
 The IN will serve to produce requests for peer reviewed proposals `RFP` in response to the `researchTarget`. A VR will be able to submit proposals at any time as paid for by the IN reserve, whereas non-VR will be required to post a bond to submit a proposal, in response to a `RFP`.
 
-An `RFP` is required to consist of \(i\) a principal investigator PI and/or Project Lead that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to \(see below `RST[x]` value\), \(ii\) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and \(iii\) the scientific justification of proposed R&D. A standard `RST[x]` Proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`. This leaves significant room for `RST[x]` value creativity.
+An `RFP` is required to consist of \(i\) a principal investigator PI and/or Project Lead that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to \(see below `RST[x]` value\), \(ii\) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and \(iii\) the scientific justification of proposed R&D. A standard `RST[x]` proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`. This leaves significant room for `RST[x]` value creativity.
 
 IKU peer review serves as the IKU R&D consensus mechanism, with the ultimate goal of compounding R&D information efficiency and capital to realize new medicines at scale.
 
@@ -199,7 +199,7 @@ Participants will use the `devTools` to peer review. The IN peer review process 
 
 `s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, it will serve to provide open source algorithms for bio R&D efficiencies.
 
-Upon `s` &gt; `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: 1\) `RST[x]` - An ERC20 token representing the specific research 2\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
+Upon `s` < `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: (i) `RST[x]` - An ERC20 token representing the specific research and (ii) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
 Upon `RSTCrowdsale[x]` achieving its softcap - minimum BTC/ETH required to achieve milestone:
 
@@ -255,15 +255,13 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png)
 
-Through this utility, IKU serves to achieve open markets for digital research rights - created and traded in a fungible, liquid fashion, ultimately increasing the return in lifespan per unit of time conducted in research advance. The following sections explain how this is achieved.
+Through this utility, IKU serves to achieve open markets for digital rights to research - created and traded in a fungible, liquid fashion.
 
 ### The\_Library\_Exchange
 
 Network-based computational bio analysis has become a widely used strategy for determining drug rediscovery pipelines due to the ever-increasing pace of bio and chemical information available.[33](./#f33) Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug rediscovery leads.[34](./#f34) Unfortunately, this data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. There are challenges in sourcing and obtaining all relevant existing historical data for a bio product data package \(dosing, effect, etc.\) as is required for clinical trial initiation. The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time. [34a](./#f34a)
 
-The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising drug rediscovery research and clinical trials. The IKU architecture facilitates a market around R&D data to use licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advance of discovery, making R&D as a whole more efficient, with more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust drug rediscovery pipelines. Participants are incentivized to ‘bruteForce’ peer review to earn fees \(more on fees below\) from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the most promising redevelopment initiatives to be capitalized.
-
-exchange data, blockchain token rst - end w tokenization
+The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising drug rediscovery research and clinical trials. The IKU architecture facilitates a market around R&D data to use licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust drug rediscovery pipelines. Participants are incentivized to ‘bruteForce’ peer review to earn fees \(more on fees below\) from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the most promising redevelopment initiatives to be capitalized.
 
 ## Tokenization
 
@@ -274,7 +272,7 @@ The IN creates two classes of native tokens:
 
 The two token incentive model is designed to secure the network  provide global liquidity for R&D, irrespective of patent policy. The `IKU` token is the IN facilitator and `RST[x]` are digital rights to R&D data generated by `RST[x]` holders. `RST[x]` holders operate as a  `RST[x]DC` and may agree to pursue a patent together as a DC, with sole ownership of rights by the DC. While `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used in the IN. The `RST[x]` holder carries pro-rata rights in the R&D data if they hold the respective `RST[x]`.
 
-### IKU Value
+### `IKU` Value
 
 Wallet verification of a minimum of balance of 1 IKU enables access to the `devTools B` and fees as explained under **Fees and the Network Digital Wallet**. Value in the IKU token can be ascribed to access to the following:
 
@@ -321,9 +319,12 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 IPFS will serve to provide infrastructure for the `RST[x]DC`. The R&D team will provide updates to the `RST[x]` Holders in their DC on a regular basis, in which `RST[x]` holders will have ability to:
 
-\(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\), \(ii\) Upgrade to clinical trial subject, \(iii\) Provide reputation scores to fellow `RST[x]` holders and the R&D team \(iv\) Remove/replace R&D operations personnel \(e.g. PI\) upon achieving `RST[x]DC` consensus.
+* \(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\).
+* \(ii\) Upgrade to clinical trial subject.
+* \(iii\) Provide reputation scores to fellow `RST[x]` holders and the R&D team.
+* \(iv\) Remove/replace R&D operations personnel \(e.g. PI\) upon achieving `RST[x]DC` consensus.
 
-The `RST[x]DC` is incentivized to provide timely and relevant information to both its own DC and the public as the `RST[x]` and also IKU will be at the mercy of market sentiment. IKU and `RST[x]` tokens are expected to trade in real time, globally in the cryptourrency market place. If an `RST[x]DC` does not operate in efficient scientific fashion, this is expected to be reflected accordingly.
+The `RST[x]DC` is incentivized to provide timely and relevant information to both its own DC and the public as the `RST[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `RST[x]` tokens are expected to trade in real time, globally in the cryptourrency market place. If an `RST[x]DC` does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
 
 ### Burning
 
