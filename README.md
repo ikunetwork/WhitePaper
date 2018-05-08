@@ -116,7 +116,7 @@ The current industry model is costly as we explained above. IKU on the other han
 
 **Figure F: IKU Scales at Low Cost**
 
-![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Scales.png)
+![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Scales-at-Low-Cost.png)
 
 At any given time, the scientific probability of a NME reaching approval is 5%, at a cost of $2.6 billion over 15 years.
 
