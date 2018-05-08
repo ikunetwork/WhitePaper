@@ -108,7 +108,7 @@ Figure E further illustrates the benefits of the IKU data approach as opposed to
 
 **Figure E: IKU Data Approach**
 
-![IKU Data Approach](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Traditional-R%26D-Pipeline.png)
+![IKU Data Approach](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Data-Approach.png)
 
 ### IKU Scales
 
