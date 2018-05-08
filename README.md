@@ -122,9 +122,9 @@ At any given time, the scientific probability of a NME reaching approval is 5%, 
 
 * **NME:** $2.6 billion/15 years =  $173 million per year spend.  
 
-The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over &lt; 5 years, the IKU model.
+The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over 5 years, the IKU model.
 
-* **IKU:** ~55 million/<5 years = ~ $11 million per year spend.  
+* **IKU:** ~55 million/5 years = ~ $11 million per year spend.  
 
 By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate scaling to further productivity efficiency to surpasspass the longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
@@ -259,7 +259,7 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 **Figure G : IKU Network Utility**
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Network-Utility.png)
 
 Through this utility, IKU serves to achieve open markets for digital rights to research - created and traded in a fungible, liquid fashion.
 
