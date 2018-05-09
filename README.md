@@ -210,7 +210,7 @@ Participants will use the `devTools` to peer review. The IN peer review process 
 
 `s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, it will serve to provide open source algorithms for bio R&D efficiencies.
 
-Upon `s` &lt; `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
+Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
 Upon `RSTCrowdsale[x]` achieving its softcap - minimum BTC/ETH required to achieve milestone:
 
