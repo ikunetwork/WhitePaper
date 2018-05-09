@@ -291,7 +291,8 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 * power to make decisions and perform work for IN
 * 2nd priority to upgrade to clinical trial subject
 * Fees
-  * Establishing a profile on the IN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for performing a certain threshold of work on the IN, e.g. participating in the peer review process, running the IKU software, etc. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
+
+Establishing a profile on the IN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for performing a certain threshold of work on the IN, e.g. participating in the peer review process, running the IKU software, etc. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
 
 ### `RST[x]` Value
 
@@ -300,7 +301,7 @@ An `RST[x]` carries pro-rata digital rights to its specific research initiative 
 * `permissionlessLicense` threshold
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
-* power to make decisions and perform work for the `RST[x]DC` 
+* Access to work on `RST[x]DC` development
 
 R&D data will be made available to `RST[x]` holders and updated by the `RST[x]DC` team through the IN infrastructure on an ongoing basis. `RST[x]DC` R&D data will be de-identified and stored on IPFS. Access to the data and specific `RST[x]DC` will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
 
@@ -358,10 +359,13 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 
 As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Trust/Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy upon the respective `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup> As per the NuCypher White Paper:
 
-* When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s \(_sender_\) key _pks_ \(**Figure H\)**. The data itself is encrypted with a random symmetric key _dek_, with one key per file. The _dek_, encrypted with _pks_ is attached to the encrypted data. This combination \(_edek, c_\) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.<br>
-* When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key \(**Figure I**\). It often makes sense for the public key to correspond to an address in the Ethereum network \(to prove a payment has been made from that address for a digital content subscription, for example\). The sender generates a re-encryption key _res→r_ \(including an encrypted random ephemeral key when needed\) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The nodes which have shared data of user _sender_ with a user _receiver_ register this information in the network.<br>
-* When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream \(**Figure J**\). He separates out _edek_ from the message and sends _edek_ to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver \(those which have reencryption key\(s\) _res→r_\). The receiver asks the node\(s\) that has the re-encryption key to transform _edek_ to _edek1_ and uses his own secret key _skr_ to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.<br><br>
-**Figure H,I,J: Decentralized Key Management System**<br>
+* When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s \(_sender_\) key _pks_ \(**Figure H\)**. The data itself is encrypted with a random symmetric key _dek_, with one key per file. The _dek_, encrypted with _pks_ is attached to the encrypted data. This combination \(_edek, c_\) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.
+
+* When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key \(**Figure I**\). It often makes sense for the public key to correspond to an address in the Ethereum network \(to prove a payment has been made from that address for a digital content subscription, for example\). The sender generates a re-encryption key _res→r_ \(including an encrypted random ephemeral key when needed\) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The nodes which have shared data of user _sender_ with a user _receiver_ register this information in the network.
+
+* When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream \(**Figure J**\). He separates out _edek_ from the message and sends _edek_ to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver \(those which have reencryption key\(s\) _res→r_\). The receiver asks the node\(s\) that has the re-encryption key to transform _edek_ to _edek1_ and uses his own secret key _skr_ to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
+
+**Figure H,I,J: Decentralized Key Management System**
 
 ![Proxy Re-encyrption](https://github.com/ikunetwork/WhitePaper/raw/master/Proxy-Re-encryption.png)
 
