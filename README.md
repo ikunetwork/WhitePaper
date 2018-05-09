@@ -43,27 +43,27 @@ IKU employs the blockchain and smart contracts to construct an incentive framewo
 
 Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new biotech at scale.<sup>[2](#f2)</sup> Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D data rights without fault (litigation), resulting in significant inefficiencies in clinical development. <sup>[3](#f3)</sup> Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost - rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million.<sup>[4](#f4)</sup> Scientists are then incentivized to conceal their data in hopes of a large corporation pursuing a license to research, as opposed to peer collaboration within the scientific community. The result is (i) very limited R&D investment per capita and (ii) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
 
-In addition, capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data.[5](./#f5) Unfortunately, NME's are logistically difficult to achieve, requiring:
+In addition, capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data.<sup>[5](#f5)</sup> Unfortunately, NME's are logistically difficult to achieve, requiring:
 
 * $2.6 billion in R&D spend
 * 15 years to complete clinical trials for market access
-* 0.02% chance of obtaining FDA approval upon being discovered in the lab [6](./#f6)
+* 0.02% chance of obtaining FDA approval upon being discovered in the lab.<sup>[6](#f6)</sup>
 
-This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017. [7](./#f7) See Figure A:
+This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017<sup>[7](#f7)</sup> See Figure A:
 
 **Figure A: Return on Investment in Pharma R&D**
 
  ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
 
-Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We've also seen a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9) See Figure B:
+Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.<sup>[8](#f8)</sup> We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[9](#f9)</sup>) See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
 ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH-Funding.png)
 
-The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13)
+The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[10](#f10)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[12](#f12)</sup>) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup>
 
-The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now  digitally program incentive models to coordinate resources where it was not previously possible.
+The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.<sup>[14](#f14)</sup> The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now  digitally program incentive models to coordinate resources where it was not previously possible.
 
 ### IKU Approach
 
@@ -79,7 +79,7 @@ IKU provides a global liquid architecture for R&D data in tokenized digital righ
 
 ### What are Smart Contracts?
 
-Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: \(i\) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction \(IKU will strive to obey by all applicable laws and regulations\); \(ii\) an automatism that is guaranteed to execute as it uses algorithms \(blockchain\) for enforcement, not a legal system; and \(iii\) binding.[15](./#f15)
+Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: \(i\) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction \(IKU will strive to obey by all applicable laws and regulations\); \(ii\) an automatism that is guaranteed to execute as it uses algorithms \(blockchain\) for enforcement, not a legal system; and \(iii\) binding.<sup>[15](#f15)</sup>
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution. Ultimately, overhead is reduced ,trust improves, and efficiency increases with no third party necessary for escrow [17](./#f17) Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
