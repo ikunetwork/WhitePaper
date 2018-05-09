@@ -99,13 +99,13 @@ By the time an NME enters clinical trials, its patent life has 10 years, often t
 
 **Figure D: IKU vs. Traditional R&D Pipeline** 
 
-![](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Traditional-R%26D-Pipeline.png)
+![IKU vs. Traditional R&D Pipeline](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Traditional-R%26D-Pipeline.png)
 
 **IP**: A license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing an independent clinical trial, etc.\). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> In the case of IKU, data will be hashed and stored on Inter Planetary File System IPFS. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance, while the data itself is made shareable through a proxy re-encryption scheme.<sup>[29](#f29)</sup> This hash is essentially tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access. Parties, and in IKU's case the `RST[x]DC`, may capitalize on data/market exclusivity periods for competitive advantage in many jurisdictions, including but not limited to:
 
 * Europe: up to ~10 years
 * Asia: up to ~10 years
-* U.S.: up to ~7 years <sup>[30](#f30)</sup>
+* U.S.: up to ~7 years<sup>[30](#f30)</sup>
 
 **Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
 
