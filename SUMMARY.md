@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [IKU - Biotech Redefined](README.md)
 
