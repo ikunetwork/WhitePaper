@@ -131,7 +131,7 @@ At any given time, the scientific probability of a NME reaching approval is 5%, 
 
 The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over 5 years, the IKU model.
 
-* **IKU:** ~55 million/5 years = ~ $11 million per year spend.  
+* **IKU:** 55 million/5 years = $11 million per year spend.  
 
 By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate scaling to further productivity efficiency to surpasspass the longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
