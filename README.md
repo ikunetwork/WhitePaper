@@ -2,28 +2,28 @@
 
 ## Abstract
 
-IKU is building the first public utility as a decentralized cooperative \("DC"\) to scale biotechnology research and clinical trials. The DC establishes digital rights to research and clinical trial data as assets to be issued and traded in an open, global market. This architecture will be supported by a two-token incentive model providing fee derivation from IKU supported R&D.
+IKU is building the first public utility as a decentralized cooperative ("DC") to scale biotechnology research and clinical trials. The DC establishes digital rights to research and clinical trial data as assets to be issued and traded in an open, global market. This architecture will be supported by a two-token incentive model providing fee derivation from IKU supported R&D.
 
-Currently, the marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities \("NME"\). NME's typically take over 15 years per market entry and cost over $1 billion - a faulty, non-scalable process. ESPECIALLY in the context of advancing medicine. In parallel, 50% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.[1](./#f1) IKU aims to capitalize on the latter and introduce an infrastructure on which R&D can scale.
+Currently, the marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities ("NME"). NME's typically take over 15 years per market entry and cost over $1 billion - a faulty, non-scalable process. ESPECIALLY in the context of advancing medicine. In parallel, 50% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.<sup>[1](#f1)</sup> IKU aims to capitalize on the latter and introduce an infrastructure on which R&D can scale efficiently.
 
-IKU employs the blockchain and smart contracts to construct an incentive framework conducive to the advancement of bio R&D and clinical trials. Smart contracts collapse capital, data and execution into one, providing a new liquid, digital incentive mechanism. By enabling global markets with smart contracts, we can significantly increase the marginal return on lifespan per unit of research advancement. A digital, liquid R&D and clinical trial economy is a new paradigm, serving to improve capital formation and realization of pent up demand for biotechnology. This paper explains \(i\) the deficiencies of the current legacy R&D model, \(ii\) the mission of creating a digitally, liquid global market to scale bio R&D/trials and \(iii\) how IKU ultimately compounds value to push science and medicine to boundaries yet unseen.
+IKU employs the blockchain and smart contracts to construct an incentive framework conducive to the advancement of bio R&D and clinical trials. Smart contracts collapse capital, data and execution into one, providing a new digital incentive mechanism. By enabling global markets with smart contracts, we can significantly increase the marginal return on lifespan per unit of research advancement. A digital, liquid R&D and clinical trial economy is a new paradigm, serving to improve capital formation and realization of pent up demand for biotechnology. This paper explains (i) the deficiencies of the current legacy R&D model, (ii) the mission of creating a digitally, liquid global market to scale bio R&D/trials and (iii) how IKU ultimately compounds value to push science and medicine to boundaries yet unseen.
 
 ## Table of Contents
 
-1. [Introduction](./#introduction)
-   1. [Problem Statement](./#problem-statement)
-   2. [IKU Approach](./#iku-approach)
-   3. [How](./#how)
-   4. [What are Smart Contracts?](./#what-are-smart-contracts-?)
-   5. [Why IKU?](./#why-IKU)
-   6. [What about Patents?](./#what-about-patents?)
-   7. [IKU Scales at Low Cost](./#iku-scales-at-low-cost)
-   8. [Token and License](./#token-and-license)
-   9. [The IKU Network](./#the-IKU-network)
-2. [The Network Economy](./#the-network-economy)
-   1. [Research Target](./#research-targets)
-   2. [Dev Tools](./#dev-tools)
-   3. [IKU Network Participants](./#iku-network-participants)
+1. [Introduction](#introduction)
+   1. [Problem Statement](#problem-statement)
+   2. [IKU Approach](#iku-approach)
+   3. [How](#how)
+   4. [What are Smart Contracts?](#what-are-smart-contracts-?)
+   5. [Why IKU?](#why-IKU)
+   6. [What about Patents?](#what-about-patents?)
+   7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
+   8. [Token and License](#token-and-license)
+   9. [The IKU Network](#the-IKU-network)
+2. [The Network Economy](#the-network-economy)
+   1. [Research Target](#research-targets)
+   2. [Dev Tools](#dev-tools)
+   3. [IKU Network Participants](#iku-network-participants)
    4. [Request for Proposals](./#request-for-proposals)
    5. [IKU Network Utility for R&D](./#iku-network-utility)
    6. [The Library Exchange](./#the-library-exchange)
@@ -36,36 +36,36 @@ IKU employs the blockchain and smart contracts to construct an incentive framewo
    6. [`The RST[x]` `permissionlessLicense`](./#the-rst[x]-permissionlessLicense)
    7. [Decentralized Key Management System](./#decentralized-key-management-system)
    8. [The `IKU` Reserve](./#the-elixr-reserve)
-   9. [Future Development](./#future-development)
+   9. [Future Development](#future-development)
 4. [Conclusion](./#conclusion)
 
 ## Introduction
 
 ### Problem Statement
 
-Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new biotech at scale.[2](./#f2) Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D data rights without fault \(litigation\), resulting in significant inefficiencies in clinical development. [3](./#f3) Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost - rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million.[4](./#f4) Scientists are then incentivized to conceal their data in hopes of a large corporation pursuing a license to research, as opposed to peer collaboration within the scientific community. The result is \(i\) very limited R&D investment per capita and \(ii\) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
+Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new biotech at scale.<sup>[2](#f2)</sup> Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D data rights without fault (litigation), resulting in significant inefficiencies in clinical development. <sup>[3](#f3)</sup> Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost - rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million.<sup>[4](#f4)</sup> Scientists are then incentivized to conceal their data in hopes of a large corporation pursuing a license to research, as opposed to peer collaboration within the scientific community. The result is (i) very limited R&D investment per capita and (ii) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
 
-In addition, capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data.[5](./#f5) Unfortunately, NME's are logistically difficult to achieve, requiring:
+In addition, capital is almost exclusively allocated to new molecular entities NME - molecules never conceived nor had human exposure, as NME's are a more enforceable record of data.<sup>[5](#f5)</sup> Unfortunately, NME's are logistically difficult to achieve, requiring:
 
 * $2.6 billion in R&D spend
 * 15 years to complete clinical trials for market access
-* 0.02% chance of obtaining FDA approval upon being discovered in the lab.[6](./#f6)
+* 0.02% chance of obtaining FDA approval upon being discovered in the lab.<sup>[6](#f6)</sup>
 
-This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017[7](./#f7) See Figure A:
+This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017<sup>[7](#f7)</sup> See Figure A:
 
 **Figure A: Return on Investment in Pharma R&D**
 
-![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
+ ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
 
-Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.[8](./#f8) We've also seen a decrease in medical research funding from the U.S. National Institute of Health.[9](./#f9)\) See Figure B:
+Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.<sup>[8](#f8)</sup> We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[9](#f9)</sup>) See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
 ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH-Funding.png)
 
-The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.[10](./#f10) In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.[11](./#f11)\) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.[12](./#f12)\) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.[13](./#f13)
+The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[10](#f10)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>) All the while generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[12](#f12)</sup>) Branded and failed Phase II \(achieved Phase I - safety\) drugs can be rediscovered as well, where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup>
 
-The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.[14](./#f14) The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now digitally program incentive models to coordinate resources where it was not previously possible.
+The industry R&D model as it currently stands is clearly a failure and does not account for drug rediscovery.<sup>[14](#f14)</sup> The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now  digitally program incentive models to coordinate resources where it was not previously possible.
 
 ### IKU Approach
 
@@ -73,7 +73,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 **Figure C: Existing R&D Models**
 
-![Existing R&amp;D Models](https://github.com/ikunetwork/WhitePaper/raw/master/Existing-R%26D-Models.png)
+![Existing R&D Models](https://github.com/ikunetwork/WhitePaper/raw/master/Existing-R%26D-Models.png)
 
 ### How?
 
@@ -81,9 +81,9 @@ IKU provides a global liquid architecture for R&D data in tokenized digital righ
 
 ### What are Smart Contracts?
 
-Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: \(i\) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction \(IKU will strive to obey by all applicable laws and regulations\); \(ii\) an automatism that is guaranteed to execute as it uses algorithms \(blockchain\) for enforcement, not a legal system; and \(iii\) binding.[15](./#f15)
+Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: \(i\) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction \(IKU will strive to obey by all applicable laws and regulations\); \(ii\) an automatism that is guaranteed to execute as it uses algorithms \(blockchain\) for enforcement, not a legal system; and \(iii\) binding.<sup>[15](#f15)</sup>
 
-Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.[16](./#f16) Ultimately, overhead is reduced ,trust improves, and efficiency increases with no third party necessary for escrow.[17](./#f17) Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
+Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[16](#f16)</sup> Ultimately, overhead is reduced ,trust improves, and efficiency increases with no third party necessary for escrow.<sup>[17](#f17)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
 IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Barrier to entry dramatically decrease, and allows \(i\) scientists and other learned persons to maximize scientific objectives by directly engaging p2p capital, \(ii\) anyone to participate in the market and \(iii\) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively review and direct liquid R&D, incentivizing one record of scientific truth.
 
@@ -95,21 +95,21 @@ The IN will serve to attract R&D ideation through crowdsourced input from though
 
 ### What about Patents?
 
-By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.[18](./#f18) Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.[19](./#f19) Generic medicines are built on the same active ingredients \(as the patented drugs\) once their patents or marketing exclusivities expire.[20](./#f20) More specifically, the same dosage, effectiveness and - safety - profile as the original drug.[21](./#f21) By the time the generic form can be sold, the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.[22](./#f22) Because their patents expired, there is significantly less risk of infringement and more freedom to operate. IKU's focus will be on the redevelopment of generics, which will serve to provide more equitable foundations in the following:
+By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> Generic medicines are built on the same active ingredients (as the patented drugs) once their patents or marketing exclusivities expire.<sup>[20](#f20)</sup> More specifically, the same dosage, effectiveness and - safety - profile as the original drug.<sup>[21](#f21)</sup> By the time the generic form can be sold, the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[22](#f22)</sup> Because their patents expired, there is significantly less risk of infringement and more freedom to operate. IKU's focus will be on the redevelopment of generics, which will serve to provide more equitable foundations in the following:
 
-**Science**: _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988. As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered for a disease or a condition lacking viable options.[23](./#f23) Because existing drugs have already proven to be safe, the majority of clinical trial rediscovery initiatives can skip Phase I _safety_, and move directly into Phase II _efficacy_.[24](./#f24) Phase II costs are estimated to be as low as $5 million and take as little as a few years for approval, as opposed to ~15 years for NME.[25](./#f25) In fact, there were only 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one _efficacy_ clinical trial, compared to ~30% FDA approval rate for drug rediscovery vs. 5% FDA approval rate for NME \(approximately .1% in lab, 10% upon entering clinical trial\).[26](./#f26) It is clear the probability of success is higher for rediscovery, eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines. Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline:
+**Science**: _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.  As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered for a disease or a condition lacking viable options.<sup>[23](#f23)</sup> Because existing drugs have already proven to be safe, the majority of clinical trial rediscovery initiatives can skip Phase I _safety_, and move directly into Phase II _efficacy_.<sup>[24](#f24)</sup> Phase II costs are estimated to be as low as $5 million and take as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> In fact, there were only 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one _efficacy_ clinical trial, compared to ~30% FDA approval rate for drug rediscovery vs. 5% FDA approval rate for NME \(approximately .1% in lab, 10% upon entering clinical trial\).<sup>[26](#f26)</sup> It is clear the probability of success is higher for rediscovery, eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines. Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline:
 
-**Figure D: IKU vs. Traditional R&D Pipeline**
+**Figure D: IKU vs. Traditional R&D Pipeline** 
 
-![IKU vs. Traditional R&amp;D Pipeline](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Traditional-R%26D-Pipeline.png)
+![IKU vs. Traditional R&D Pipeline](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Traditional-R%26D-Pipeline.png)
 
-**IP**: A license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.[27](./#f27) Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing an independent clinical trial, etc.\). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.[28](./#f28) In the case of IKU, data will be hashed and stored on Inter Planetary File System IPFS. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance, while the data itself is made shareable through a proxy re-encryption scheme.[29](./#f29) This hash is essentially tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access. Parties, and in IKU's case the `RST[x]DC`, may capitalize on data/market exclusivity periods for competitive advantage in many jurisdictions, including but not limited to:
+**IP**: A license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing an independent clinical trial, etc.\). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> In the case of IKU, data will be hashed and stored on Inter Planetary File System IPFS. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance, while the data itself is made shareable through a proxy re-encryption scheme.<sup>[29](#f29)</sup> This hash is essentially tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. This allows for clinical trial data licenses to be liquid and accessible while also providing for efficient market access. Parties, and in IKU's case the `RST[x]DC`, may capitalize on data/market exclusivity periods for competitive advantage in many jurisdictions, including but not limited to:
 
 * Europe: up to ~10 years
 * Asia: up to ~10 years
-* U.S.: up to ~7 years[30](./#f30)
+* U.S.: up to ~7 years<sup>[30](#f30)</sup>
 
-**Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.[31](./#f31) Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.[32](./#f32) IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii\), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
+**Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's initial focus will be on drug rediscovery, R&D expenditures are expected to be minor by comparison, as we hypothesize that mainly Phase II should be required - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
@@ -131,7 +131,7 @@ At any given time, the scientific probability of a NME reaching approval is 5%, 
 
 The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over 5 years, the IKU model.
 
-* **IKU:** 55 million/5 years = $11 million per year spend.  
+* **IKU:** ~55 million/5 years = ~ $11 million per year spend.  
 
 By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate scaling to further productivity efficiency to surpasspass the longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
@@ -140,13 +140,13 @@ By design, the IKU model is much less expensive in capital and time, with signif
 The IN will be controlled by its users, `IKU` token holders, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. Token value on the IN can be derived from the following:
 
 * Power to perform work for the IN, including peer review R&D for capitalization
-* IKU fee structure \(described below\)
+* IKU fee structure (described below)
 
-Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts. An `RST[x]DC` will consist of a project lead and its token holder network to progress research/clinical trials through established channels available for contract on a worldwide basis \(clinical research organization CRO, etc.\).
+Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts. An `RST[x]DC` will consist of a project lead and its token holder network to progress research/clinical trials through established channels available for contract on a worldwide basis (clinical research organization CRO, etc.).
 
 ### The IKU Network
 
-The mission is to establish the IN as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize R&D efficiencies. In addition, the IN will maintain a grants program in which bounties will be issued for \(i\) eliminating issues in the IN code and \(ii\) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN.
+The mission is to establish the IN as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize R&D efficiencies. In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN.
 
 ## The Network Economy
 
@@ -212,7 +212,7 @@ Participants will use the `devTools` to peer review. The IN peer review process 
 
 `s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, it will serve to provide open source algorithms for bio R&D efficiencies.
 
-Upon `s` &gt; `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
+Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
 Upon `RSTCrowdsale[x]` achieving its softcap - minimum BTC/ETH required to achieve milestone:
 
@@ -272,7 +272,7 @@ Through this utility, IKU serves to achieve open markets for digital rights to r
 
 ### The\_Library\_Exchange
 
-Network-based computational bio analysis has become a widely used strategy for determining drug rediscovery pipelines due to the ever-increasing pace of bio and chemical information available.[33](./#f33) Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug rediscovery leads.[34](./#f34) Unfortunately, this data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. There are challenges in sourcing and obtaining all relevant existing historical data for a bio product data package \(dosing, effect, etc.\) as is required for clinical trial initiation. The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.[34](./#f34a)
+Network-based computational bio analysis has become a widely used strategy for determining drug rediscovery pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential drug rediscovery leads.<sup>[34](#f34)</sup> Unfortunately, this data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. There are challenges in sourcing and obtaining all relevant existing historical data for a bio product data package \(dosing, effect, etc.\) as is required for clinical trial initiation. The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.<sup>[34](#f34a)</sup>
 
 The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising drug rediscovery research and clinical trials. The IKU architecture facilitates a market around R&D data to use licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust drug rediscovery pipelines. Participants are incentivized to ‘bruteForce’ peer review to earn fees \(more on fees below\) from the IN in the form of BTC, ETH and `RST` - encouraging and incentivizing the most promising redevelopment initiatives to be capitalized.
 
@@ -294,7 +294,7 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 * 2nd priority to upgrade to clinical trial subject
 * Fees
 
-Establishing a profile on the IN provides access to the Network Digital Wallet NDW. The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for performing a certain threshold of work on the IN, e.g. participating in the peer review process, running the IKU software, etc. Such model gives an IKU holder the opportunity to have rights to all the research on IN.
+Establishing a profile on the IN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for performing a certain threshold of work on the IN, e.g. participating in the peer review process, running the IKU software, etc. Such model gives an IKU holder the opportunity to have rights to all the research on IN. 
 
 ### `RST[x]` Value
 
@@ -359,10 +359,12 @@ Upon the public release of the IN, IKU token holders will be able to decide what
 
 ### Decentralized Key Management System
 
-As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Trust/Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy upon the respective `RST[x]` Holder request of the `RST[x]` in the `devtools`.[35](./#f35) As per the NuCypher White Paper:
+As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Trust/Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy upon the respective `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup> As per the NuCypher White Paper:
 
 * When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s \(_sender_\) key _pks_ \(**Figure H\)**. The data itself is encrypted with a random symmetric key _dek_, with one key per file. The _dek_, encrypted with _pks_ is attached to the encrypted data. This combination \(_edek, c_\) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.
+
 * When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key \(**Figure I**\). It often makes sense for the public key to correspond to an address in the Ethereum network \(to prove a payment has been made from that address for a digital content subscription, for example\). The sender generates a re-encryption key _res→r_ \(including an encrypted random ephemeral key when needed\) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The nodes which have shared data of user _sender_ with a user _receiver_ register this information in the network.
+
 * When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream \(**Figure J**\). He separates out _edek_ from the message and sends _edek_ to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver \(those which have reencryption key\(s\) _res→r_\). The receiver asks the node\(s\) that has the re-encryption key to transform _edek_ to _edek1_ and uses his own secret key _skr_ to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
 
 **Figure H,I,J: Decentralized Key Management System**
@@ -396,11 +398,11 @@ IKU will serve to enable unprecedented global aation and deployment of resources
 
 ## Footnotes
 
-**1** Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
+<b id="f1">1</b> Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
 
-**2** James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). J. Hudson et. al., Into the valley of death: from research to innovation, [https://www.ncbi.nlm.nih.gov/pubmed/23402848](https://www.ncbi.nlm.nih.gov/pubmed/23402848) \(2013\).Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
+<b id="f2">2</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). J. Hudson et. al., Into the valley of death: from research to innovation, [https://www.ncbi.nlm.nih.gov/pubmed/23402848](https://www.ncbi.nlm.nih.gov/pubmed/23402848) \(2013\).Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
 
-**3** James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). Robert Sachs, Fenwick & West LLP, Patent Invalidity Rates: The Summertime Blues Continue, Law 360 \(2015\). Such inefficiencies have caused significant IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
+<b id="f3">3</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). Robert Sachs, Fenwick & West LLP, Patent Invalidity Rates: The Summertime Blues Continue, Law 360 \(2015\). Such inefficiencies have caused significant IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
 
 * patent litigation costs ~ $30 billion per year
 * ~80% of the litigation comes from patent trolls 
@@ -408,69 +410,68 @@ IKU will serve to enable unprecedented global aation and deployment of resources
 
 All of which lead to significant issues in transaction finality, exacerbating an already illiquid market. Id.
 
-**4** FiercePharma, The world's most pricey drugs, from a $1.2M gene therapy to a $450K lymphoma med, [https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med](https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med) \(2017\).
+<b id="f4">4</b> FiercePharma, The world's most pricey drugs, from a $1.2M gene therapy to a $450K lymphoma med, [https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med](https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med) \(2017\).
 
-**5**See FN 2.
+<b id="f5">5</b>See FN 2.
 
-**6** Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
+<b id="f6">6</b> Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
 
-**7** K. Stott, Pharma’s broken business model: An industry on the brink of terminal decline, [https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/](https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/) \(2017\).
+<b id="f7">7</b> K. Stott, Pharma’s broken business model: An industry on the brink of terminal decline, [https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/](https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/) \(2017\).
 
-**8** Id.
+<b id="f8">8</b> Id.
 
-**9** Congressional Research Service, NIH Funding: FY1994-FY2016, [https://fas.org/sgp/crs/misc/R43341.pdf](https://fas.org/sgp/crs/misc/R43341.pdf) .
+<b id="f9">9</b> Congressional Research Service, NIH Funding: FY1994-FY2016, [https://fas.org/sgp/crs/misc/R43341.pdf](https://fas.org/sgp/crs/misc/R43341.pdf) .
 
-**10** Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk \(2013\).
+<b id="f10">10</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk \(2013\).
 
-**11** 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
+<b id="f11">11</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
 
-**12** Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/](http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/) \(2017\).
+<b id="f12">12</b> Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/](http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/) \(2017\).
 
-**13** Id.
+<b id="f13">13</b> Id.
 
-**14** Id.
+<b id="f14">14</b> Id.
 
-**15** Nick Szabo, Formalizing and Securing Relationships on Public Networks, [http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First\#introduction](http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction) \(1997\).
+<b id="f15">15</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks, [http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First\#introduction](http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction) \(1997\).
 
-**16** Vitalik Buterin, A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM, ethereum/Wiki.
+<b id="f16">16</b> Vitalik Buterin, A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM, ethereum/Wiki.
 
-**17** H. Diedrich, IBM Liason to Ethereum, Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations \(2016\).
+<b id="f17">17</b> H. Diedrich, IBM Liason to Ethereum, Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations \(2016\).
 
-**18** The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
+<b id="f18">18</b> The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
 
-**19** Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
+<b id="f19">19</b> Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
 
-**20** FDA, What are generic drugs?, [https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm).
+<b id="f20">20</b> FDA, What are generic drugs?, [https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm).
 
-**21** Id.
+<b id="f21">21</b> Id.
 
-**22** Id.
+<b id="f22">22</b> Id.
 
-\***23** See FN 1.
+*<b id="f23">23</b> See FN 1.
 
-**24** See FN 12.
+<b id="f24">24</b> See FN 12.
 
-**25** Id.
+<b id="f25">25</b> Id.
 
-**26** FDA Approvals 2016 - 2017, [https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm) , [https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm). JJ Hernandez, et. al., Giving Drugs a Second Chance: Overcoming Regulatory and Financial Hurdles in Repurposing Approved Drugs As Cancer Therapeutics, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/) \(2017\). Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
+<b id="f26">26</b> FDA Approvals 2016 - 2017, [https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm) , [https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm). JJ Hernandez, et. al., Giving Drugs a Second Chance: Overcoming Regulatory and Financial Hurdles in Repurposing Approved Drugs As Cancer Therapeutics, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/) \(2017\). Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
 
-**27** See FN 19.
+<b id="f27">27</b> See FN 19.
 
-**28** Id.
+<b id="f28">28</b> Id.
 
-**29** J. Benet, IPFS - Content Addressed, Versioned, P2P File System \(DRAFT 3\). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
+<b id="f29">29</b> J. Benet, IPFS - Content Addressed, Versioned, P2P File System \(DRAFT 3\). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
 
-**30** See FN 19.
+<b id="f30">30</b> See FN 19.
 
-**31** C. Burniske, Cryptoassets \(2017\).
+<b id="f31">31</b> C. Burniske, Cryptoassets \(2017\).
 
-**32** R. Dalio, Principles \(2017\).
+<b id="f32">32</b> R. Dalio, Principles \(2017\).
 
-**33** E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
+<b id="f33">33</b> E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
 
-**34** Id. R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
+<b id="f34">34</b> Id. R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
 
-**34a** EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
+<b id="f34a">34a</b> EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
 
-**35** SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
-
+<b id="f35">35</b> SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
