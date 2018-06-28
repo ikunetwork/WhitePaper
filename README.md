@@ -62,9 +62,17 @@ Compounded with pharma R&D spend never outpacing non-R&D spend i.e. marketing, e
 ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH-Funding.png)
 
 The outcome is a ~20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[10](#f10)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[11](#f11)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost under $15 million to get a treatment approved.  This is due to clinical trial arbitrage between China and the rest of the world.  It costs under $15 million to get a drug approved in China, of which then such data can be submitted to the U.S., Europe, etc. for approval.  Notably, 80% of approved marketing applications for drugs and biologics cuse data from clinical trials conducted outside the U.S.  China has recently become a major player in biotech as potential treatments can be tested effectively, faster and at a lower cost compared to the U.S. or western Europe. <citations>.  
+   
+   Show China Chart
+   
+   
    The U.S. is starting to answer China, as can be seen with passage of the 21st Century Cures Act (passed in the U.S. in Q4 2016) calls for using "real world evidence" to determine the true efficacy of a biotechnology.  In 2016, 5 treatments were approved by the U.S. FDA on one efficacy clinical trial alone and in 2017, 19 treatments were approved on one clinical trial!  For rare disease populations, often determined to not be "blockbuster" enough for big pharma shareholders, development and Phase II clinical trials can be completed for under $10 million, of which then this can potentially lead to an approval on just this one trial.
    
+   Rare Disease + Approvals quick
+   
    In addition, generic drugs have proven to be safe and inexpensive, and can be rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[12](#f12)</sup>) where rediscovery can be fully realized \(e.g. FDA approved\) in just one clinical trial for as little as $5 million, while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup> . 50% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.<sup>[1](#f1)</sup>
+   
+   Metforming Mexico Trial
 
 The industry R&D model as it currently stands is clearly a failure and does not account for this arbitrage.<sup>[14](#f14)</sup> The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now  digitally program incentive models to coordinate resources where it was not previously possible.
 
@@ -78,7 +86,9 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 ### How?
 
-IKU provides a global liquid architecture for R&D data in tokenized digital rights, leveraging a liquid licensing protocol \(see The `RST[x] permissionlessLicense` section below\) in which all transactions are settled programmatically on-chain, as digital R&D data rights are proved through existence of smart contract provenance. IKU reinvents bio R&D and clinical trial markets through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provides value through the right to contribute to IN, and to derive fees from the IN.
+IKU provides a global liquid architecture for R&D and clinical trials through tokenized copyright licenses, leveraging a liquid licensing protocol \(see The `RST[x] permissionlessLicense` section below\) in which all transactions are settled programmatically as data points on-chain, as rights are proved through existence of smart contract provenance.   
+
+IKU reinvents bio R&D and clinical trial markets through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provides bandwidth to power the protocol's enforcement on the ethereum virtual machine.
 
 ### What are Smart Contracts?
 
