@@ -158,10 +158,8 @@ By design, the IKU model is much less expensive in capital and time, with signif
 
 ### Token and License
 
-The IN will be controlled by its users, `IKU` token holders, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. Token value on the IN can be derived from the following:
+`IKU` token holders will retain custody of their `IKU`, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. `IKU` serves as bandwidth to run and mediate participation in the Network.  The more `IKU` [staked] in the Network digital wallet, the greater the coordination potential of 
 
-* Power to perform work for the IN, including peer review R&D for capitalization
-* IKU fee structure (described below)
 
 Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts. An `RST[x]DC` will consist of a project lead and its token holder network to progress research/clinical trials through established channels available for contract on a worldwide basis (clinical research organization CRO, etc.).
 
