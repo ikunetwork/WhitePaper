@@ -1,5 +1,7 @@
 # IKU - Biotech Redefined
 
+Working Draft
+
 ## Abstract
 
 IKU is the first public utility to scale biotechnology research and clinical trials by establishing digital rights to research and clinical trial data sets as assets to be issued and traded in an open, global market. Currently, the marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities ("NME"). NME's typically take over 15 years per market entry and cost over $1 billion - a faulty, non-scalable process. Why? Patent friction.  Recent developments in globalization of clinical trials allow for an arbitrage in which clinical trials and approvals cost 200x less than the traditional patent-based pharma model.  IKU provides for research assets in the copyright of the actual research data itself, abstract from patents, providing a digital infrastructure on which bio R&D can scale.
