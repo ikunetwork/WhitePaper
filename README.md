@@ -132,7 +132,7 @@ Figure E further illustrates the benefits of the IKU data approach as opposed to
 
 ![IKU Data Approach](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Data-Approach.png)
 
-**Liquidity**: Bio R&D markets remain silo'd and permissioned, leading to exorbiotant pricing per patient as R&D spend is typically $2-$3 billion USD per NME.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where R&D spend never outpaces non-R&D spend.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the `permissionlessLicense` as described under **Token and License**. Both asset classes collapse money value and information into one, facilitating the liquid exchange of data. Given that IKU's focus, R&D expenditures are expected to be minor by comparison - hence no such demands on amortizing exorbitant R&D costs on patients have to be met.
+**Liquidity**: Bio R&D markets remain non-liquid, silo'd and permissioned in which on average $2.6 billion is required per drug, resulting in exorbitant pricing per unit.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the licensing of a specific data set as described below. Both asset classes collapse money value and information into one, facilitating the liquid exchange of R&D. Given that IKU's focus, R&D expenditures are expected to be minor by comparison, no such demands on amortizing exorbitant R&D costs on patients have to be met.
 
 ### IKU Scales
 
@@ -146,7 +146,7 @@ At any given time, the scientific probability of a NME reaching approval is 5%, 
 
 * **NME:** $2.6 billion/15 years =  $173 million per year spend.  
 
-The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over 5 years, the IKU model.
+The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over 5 years,
 
 China: $15 million 5 years.
 
@@ -158,10 +158,10 @@ By design, the IKU model is much less expensive in capital and time, with signif
 
 ### Token and License
 
-`IKU` token holders will retain custody of their `IKU`, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. `IKU` serves as bandwidth to run and mediate participation in the Network.  The more `IKU` [staked] in the Network digital wallet, the greater the coordination potential of 
+`IKU` token holders will retain custody of their `IKU`, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. `IKU` serves as bandwidth to run and mediate participation in the Network.  When `IKU` [is staked] in the Network digital wallet, it signals to the scientific community that the Network is active and potentially ripe for research.
 
 
-Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts. An `RST[x]DC` will consist of a project lead and its token holder network to progress research/clinical trials through established channels available for contract on a worldwide basis (clinical research organization CRO, etc.).
+Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts, power a R&D specific sub-network (e.g. Longevity rejuvenation through telomeres). An `RST[x]DC` will consist of a project lead, lead researcher and its token holder network to progress research/clinical trials by interacting through their R&D specific sub-network.
 
 ### The IKU Network
 
