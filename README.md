@@ -175,10 +175,10 @@ The IN combines the wisdom of crowds with the wisdom of science thru participant
 
 Any person with internet access may submit a `researchTarget` which may be a concrete, verifiable objective or broad target. For example:
 
-* Verifiable Object: Rediscovery of generix X in a slow release formulation to treat pancreatic cancer.
+* Verifiable Object: Rediscovery of Metformin in a slow release formulation to treat lung cancer.
 * Broad Target: Advancing research of aging and age-related diseases.
 
-Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e. therapy, device, bot, mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
+Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e. therapy, device, mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
 
 ### Dev Tools
 
@@ -193,7 +193,7 @@ Participants will access the IN through a `devTools` integrated interface. The `
 * Upvote
 * Share
 * Comment
-* Peer Review
+* Library Exchange
 * Upgrade to clinical trial subject 
 
 Friends, messaging, and upvote access will require an IN profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the IN. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
@@ -205,7 +205,7 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 * `IKU`** Holder**: IKU token holder; can be an individual, institution, private company, etc. \(described further below\)
 * `RST[x]`** Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. \(described further below\)  
 * **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU peer review process.  
-* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]DC` initiatives will post a gantt chart for how advanced their research initiative is as well as the top line de-identified research data they have generated on a quarterly basis.
+* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]DC` initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
 
