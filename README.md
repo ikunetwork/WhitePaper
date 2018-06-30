@@ -215,9 +215,9 @@ Participants will be subject to a `reputationScore`:
 ### The\_Library\_Exchange <citation Zero to One/Stanford Course>
 
 
-Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup> . This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open-source algorithm based in computational bio analysis to propose R&D/clinical trials, for use by anyone with internet access.
+Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup> . This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open-source algorithm, Jonas, based in computational bio analysis to propose R&D/clinical trials, for use by anyone with internet access.
 
- Participants will use the `devTools` to peer review. The IN peer review process to score an `RFP` can be defined as a function:
+Jonas will help extract insight to allow for researchers to compare patterns and essentially peer review the most efficient proposals from Jonas.Participants will use the `devTools` to peer review. The IN peer review process to score an `RFP` can be defined as a function:
 
 ```text
 `s` = `f(a,b,c)` = `RFP` score - PUBLIC
@@ -227,7 +227,7 @@ Network-based computational bio analysis has become a strategy for determining R
 `r`: A specified threshold value
 ```
 
-`s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, it will serve to provide open source algorithms for bio R&D efficiencies.
+`s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, Jonas's recommendations should get better to help us determine the most efficient forms of bio R&D.
 
 
 The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising research and clinical trials. The IKU architecture facilitates a market around R&D data to use copyright licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). 
