@@ -162,6 +162,16 @@ By design, the IKU model is much less expensive in capital and time, with signif
 
 `IKU` token holders will retain custody of their `IKU`, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. `IKU` serves as bandwidth to run and mediate participation in the Network.  When `IKU` [is staked] in the Network digital wallet, it signals to the scientific community that the Network is active and potentially ripe for research.
 
+ The IKU architecture facilitates a market around R&D data to use copyright licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). 
+
+[Based on the IKU R&D rediscovery strategy, There are challenges in sourcing and obtaining all relevant existing historical data for a bio product data package \(dosing, effect, etc.\) as is required for clinical trial initiation. The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.<sup>[34](#f34a)</sup>]
+
+
+
+[License Example]
+
+In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. 
+
 
 Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts, power a R&D specific sub-network (e.g. Longevity rejuvenation through telomeres). An `RST[x]DC` will consist of a project lead, lead researcher and its token holder network to progress research/clinical trials by interacting through their R&D specific sub-network.
 
@@ -214,12 +224,20 @@ Participants will be subject to a `reputationScore`:
 * `reputationScore` is part of `devTools`. All participants will be subject to a profile linked `reputationScore` which accounts for utilization of IN resources and behavior, allowing for meritocratic decision-making based in scientific liquidity. All IN participants start with the same `reputationScore`, but will be separated by VR and non-VR. `reputationScore` may increase to `power`, `super_power` and `grand_maester`.  This enables the best ideas to flow freely, producing efficient and rapid evolution based on merits.[32](./#f32) Participants will be obligated to provide `reputationScore` to other participants they have digitally engaged.  The `reputationScore` will be publicly available.
 
 
-### The\_Library\_Exchange <citation Zero to One/Stanford Course>
 
+### Request for Proposals
 
-Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup> . This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open-source algorithm, Jonas, based in computational bio analysis to propose R&D/clinical trials, for use by anyone with internet access.
+The IN will serve to produce requests for peer reviewed proposals `RFP` in response to `researchTargets`. A VR will be able to submit proposals at any time as paid for by the IN reserve, whereas non-VR will be required to post a bond to submit a proposal.
 
-Jonas will help extract insight to allow for researchers to compare patterns and essentially peer review the most efficient proposals from Jonas.Participants will use the `devTools` to peer review. The IN peer review process to score an `RFP` can be defined as a function:
+A proposal is required to consist of 
+
+\(i\) a principal investigator PI and/or Project Lead that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to \(see below `RST[x]` value\), 
+\(ii\) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and 
+\(iii\) the scientific justification of proposed R&D. 
+
+A standard `RST[x]` proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`.<open zeppelin citation upgrade> This leaves significant room for `RST[x]` value creativity.
+
+Participants will use the `devTools` to peer review. The IN peer review process to score an `RFP` can be defined as a function:
 
 ```text
 `s` = `f(a,b,c)` = `RFP` score - PUBLIC
@@ -229,25 +247,11 @@ Jonas will help extract insight to allow for researchers to compare patterns and
 `r`: A specified threshold value
 ```
 
-`s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, Jonas's recommendations should get better to help us determine the most efficient forms of bio R&D.
-
-
-The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising research and clinical trials. The IKU architecture facilitates a market around R&D data to use copyright licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). 
-
-[Based on the IKU R&D rediscovery strategy, There are challenges in sourcing and obtaining all relevant existing historical data for a bio product data package \(dosing, effect, etc.\) as is required for clinical trial initiation. The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.<sup>[34](#f34a)</sup>]
-
-[License Example]
-
-In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines. Participants are incentivized to ‘bruteForce’ peer review to earn fees \(more on fees below\) from the IN in the form of BTC, ETH, IKU and `RST` - encouraging and incentivizing the most promising R
-&D initiatives to be capitalized.
-
-### Request for Proposals
-
-The IN will serve to produce requests for peer reviewed proposals `RFP` in response to `researchTargets` and the Library Exchange. This architecture is a human-computer hybrid approachA VR will be able to submit proposals at any time as paid for by the IN reserve, whereas non-VR will be required to post a bond to submit a proposal.
-
-A proposal is required to consist of \(i\) a principal investigator PI and/or Project Lead that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to \(see below `RST[x]` value\), \(ii\) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and \(iii\) the scientific justification of proposed R&D. A standard `RST[x]` proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`.<open zeppelin citation upgrade> This leaves significant room for `RST[x]` value creativity.
-
-
+   ### The\_Library\_Exchange <citation Zero to One/Stanford Course>
+   
+The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup> . This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open source machine learned R&D/clinical trial proposer, Jonas, based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.) for use by anyone with internet access.  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas - a human-computer hybrid approach. <peter thiel> . The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines. Participants are incentivized to peer review these proposals to earn fees \(more on fees below\) from the IN in the form of BTC, ETH, IKU and `RST` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.
+   
+ `s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, Jonas's recommendations should get better to help us determine the most efficient forms of bio R&D.
 
 Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
@@ -305,8 +309,9 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Network-Utility.png)
 
-Through this utility, IKU serves to achieve open markets for digital rights to research - created and traded in a fungible, liquid fashion.
+redo this so that RT, Library Exchange and RFP are in a triangle that then feeds into Peer Review, etc.
 
+The IN will serve to be a library-hub for the generation, tracking and exchange of such data allowing for an incentivized, open workflow for the most promising research and clinical trials.  Through this utility, IKU serves to achieve open markets for digital rights to research - created and traded in a fungible, liquid fashion.
 
 
 ## Tokenization
