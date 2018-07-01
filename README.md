@@ -305,24 +305,28 @@ The two token incentive model is designed to provide scientists and the general 
 
 ### `IKU` Value
 
-Wallet verification of a minimum of balance of 1 IKU enables access to the `devTools B` and fees as explained under **Fees and the Network Digital Wallet**. Value in the IKU token can be ascribed to access the following:
+Wallet verification of a minimum of balance of 1 IKU enables access to the `devTools B` and `RST[x]` as explained under ** `RST[x]` and the Network Digital Wallet**. Value in the IKU token can be ascribed to access the following:
 
 * `devTools B`
 * 2nd priority to upgrade to clinical trial subject
 * `RST[x]`
 
-Establishing a profile on the IN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for performing a certain threshold of work on the Network, e.g. participating in the peer review process, etc. Such model gives an IKU holder the opportunity to have rights to all the research on Network. 
+Establishing a profile on the IN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to IKU holders in exchange for running the Network, utility of  `devTools B` . Such model gives an IKU holder the opportunity to have rights to all the research on Network. 
 
 ### `RST[x]` Value
 
 An `RST[x]` carries pro-rata digital rights to its specific research initiative \(clinical trials, etc.\) and such rights are cryptographically maintained with the ability to \(i\) access the `RST[x]DC` and \(ii\) be transacted in an `permissionlessLicense` smart contract. Value in the `RST[x]` token can be ascribed to the following:
 
-* `permissionlessLicense` threshold
+* `permissionlessLicense` 
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
 * Access to the `RST[x]` sub-network to work on R&D development
 
-R&D data will be made available to `RST[x]` holders and updated by the `RST[x]` sub-network through the IN infrastructure on an ongoing basis. `RST[x]` R&D data will be de-identified and stored on IPFS. Access to the data and specific `RST[x]` sub-network will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
+R&D data will be made available to `RST[x]` holders and updated by the `RST[x]` sub-network through the IN infrastructure on an ongoing basis. `RST[x]` R&D data will be de-identified and stored on IPFS. 
+
+[insert IPFS slide Rick and Morty]
+
+Access to the data and specific `RST[x]` sub-network will be made available with possession of a minimum, predetermined `RST[x]` threshold and private key, unless otherwise made public thru IKU. A transaction involving `RST[x]` is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.
 
 `RST[x]`** Smart Contract**
 
@@ -360,18 +364,7 @@ The `RST[x]DC` is incentivized to provide timely and relevant information to bot
 
 `IKU` and `RST[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis to encourage and reward successful R&D. `IKU` serves as bandwidth to run and mediate participation in the Network.  When `IKU` [is staked] in the Network digital wallet, it signals to the scientific community that the Network is active and potentially ripe for research.
 
- The IKU architecture facilitates a market around R&D data to use copyright licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). 
 
-[Based on the IKU R&D rediscovery strategy, There are challenges in sourcing and obtaining all relevant existing historical data for a bio product data package \(dosing, effect, etc.\) as is required for clinical trial initiation. The lack of access to data means that there is the potential need to replicate expensive tests and even clinical studies, adding cost and time.<sup>[34](#f34a)</sup>]
-
-
-
-[License Example]
-
-In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. 
-
-
-Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts, power a R&D specific sub-network (e.g. Longevity rejuvenation through telomeres). An `RST[x]DC` will consist of a project lead, lead researcher and its token holder network to progress research/clinical trials by interacting through their R&D specific sub-network.
 
 ### Burning
 
@@ -382,31 +375,33 @@ IKU aligns its burning strategy with the creation of `RST[x]`, where a % of IKU 
 
 ### The `RST[x]` `permissionlessLicense`
 
-The `permissionlessLicense` facilitates digital scarcity as an additional efficienct economic incentive vehicle. The `permissionlessLicense` protocol allows for global trade of any data or IP, that has scarcity properties, as cryptographic assets. Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic license to the data or IP generated by the `RST[x]DC`. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding `RST[x]`. The party who holds the private key to such Ethereum address now has a license to utilize and exploit the clinical trial data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand as the data and its corresponding license and therefore `RST[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - therefore more value will be required by one who desires a `permissionlessLicense` to achieve the `RST[x]` threshold.
+The `permissionlessLicense` facilitates digital scarcity as an additional efficienct economic incentive vehicle. The `permissionlessLicense` protocol allows for global trade of any data or IP, that has scarcity properties, as cryptographic assets. Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic copyright license to the data generated by the `RST[x]DC`. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding `RST[x]`. 
+
+
+The party who holds the private key to such Ethereum address now has a license to utilize and exploit the clinical trial data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand as the data and its corresponding license and therefore `RST[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - therefore more value will be required by one who desires a `permissionlessLicense` to achieve the `RST[x]` threshold.
+
+ The IKU architecture facilitates a market around R&D data to use copyright licenses to such data for clinical trial packages, e.g. Rapamycin Animal/Phase I clinical trial safety study \(study\) for Rapamycin for longevity, modified release \(clinical trial drug rediscovery package\). 
+
+
+[License Abacus Example]
+
+In the Rapamycin example, the Animal/Phase I data can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for a Phase II clinical trial \(efficacy\), eliminating significant time and cost spent replicating studies. The most scientifically valuable data would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both in-silico and ‘bruteForce’ peer review. 
+
+
+Licensees will either be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`. An `RST[x]DC` represents an ad-hoc, virtual collective capitalized through smart contracts, power a R&D specific sub-network (e.g. Longevity rejuvenation through telomeres). An `RST[x]DC` will consist of a project lead, lead researcher and its token holder network to progress research/clinical trials by interacting through their R&D specific sub-network.
+
+
 
 The IN will provide a standard `permissionlessLicense` with drop down variables such as territory, `RST[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen, enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.
 
 Specifically, the `permissionlessLicense` enables exit opportunities for `RST[x]` Holders to license `RST[x]`-backed data which can be obtained by any interested party \(e.g. health insurance distributor, venture, foundation, etc.\). If the `permissionlessLicense` threshold is not achieved after a succcessful Phase II clinical trial, the `RST[x]DC` may become a collective ad hoc venture team around its cryptoasset, e.g. an approved ALS treatment with 7 years of market exclusivity in the U.S. for market distribution. This creates a self perpetuating ecosystem of innovation and multiple opportunities for IKU and `RST[x]` holders, as well as other parties interested in licensing.
 
-Upon the public release of the IN, IKU token holders will be able to decide what happens to `RST[x]` that are not part of the `permissionlicense`. This may include creating a software bounty thats allows for royalties to flow to the remaining outstanding `RST[x]` in exchange for work or in the alternative, as a securitized asset. Because `RST[x]` is traded on the Ethereum blockchain, provenance of `RST[x]` data rights are known, facilitating potential trustless royalty distribution to `RST[x]` holders from the licensee. Note that this will be up to IKU token holders to decide.
+[non-permissionless license option?]
 
-### Decentralized Key Management System
-
-As the `RST[x]DC` is incentivized to upload relevant and appropriate research data to IPFS, the associated private key to trigger the `permissionlessLicense` must be encrypted and only available to `RST[x]` Holders at a specified balance threshold. In no way will the IKU Trust/Foundation own or control any private key to `RST[x]` associated data in IPFS of which the `permissionlessLicense` unlocks. Instead, IKU will employ a proxy re-encryption mechanism where the `RST[x]DC` will delegate re-encryption of the private key to a proxy upon the respective `RST[x]` Holder request of the `RST[x]` in the `devtools`.<sup>[35](#f35)</sup> As per the NuCypher White Paper:
-
-* When the data is stored in a cloud or decentralized storage, it is encrypted with the data owner’s \(_sender_\) key _pks_ \(**Figure H\)**. The data itself is encrypted with a random symmetric key _dek_, with one key per file. The _dek_, encrypted with _pks_ is attached to the encrypted data. This combination \(_edek, c_\) can be stored anywhere - in IPFS, Swarm, S3, or any kind of decentralized or centralized storage.
-
-* When storing the data, the user to whom we delegate access is not necessarily known in advance. First, the receiver should show the sender his public key \(**Figure I**\). It often makes sense for the public key to correspond to an address in the Ethereum network \(to prove a payment has been made from that address for a digital content subscription, for example\). The sender generates a re-encryption key _res→r_ \(including an encrypted random ephemeral key when needed\) and sends it to a random re-encryption node, selected according to proof-of-stake out of the active nodes in a decentralized network. The nodes which have shared data of user _sender_ with a user _receiver_ register this information in the network.
-
-* When the receiver wants to decrypt data shared with him, he first downloads that data from storage or an encrypted stream \(**Figure J**\). He separates out _edek_ from the message and sends _edek_ to the network of re-encryption nodes and finds active re-encryption nodes which can share the data of the sender with the receiver \(those which have reencryption key\(s\) _res→r_\). The receiver asks the node\(s\) that has the re-encryption key to transform _edek_ to _edek1_ and uses his own secret key _skr_ to decrypt it and obtain DEK. Now, he can use DEK to decrypt the bulk of the data.
-
-**Figure H,I,J: Decentralized Key Management System**
-
-![Proxy Re-encyrption](https://github.com/ikunetwork/WhitePaper/raw/master/Proxy-Re-encryption.png)
 
 ### The IKU Reserve
 
-The IN will maintain its assets as necessary for incentivizing VR peer review, liquidity and community bounties in both software and bio R&D. The funds will be stored in an Ethereum MultiSigWallet: \([https://github.com/Gnosis/MultiSigWallet](https://github.com/Gnosis/MultiSigWallet)\) which is built on top of ConsenSys Ethereum MultiSigWallet \([https://github.com/ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet)\).\] All foundation transactions and bounties will be public, enabling anyone to see its balance sheet in real time.
+The IN will maintain its assets as necessary for incentivizing VR peer review, liquidity and community bounties in both software and bio R&D. The funds will be stored in an Ethereum MultiSigWallet: \([https://github.com/Gnosis/MultiSigWallet](https://github.com/Gnosis/MultiSigWallet)\) which is built on top of ConsenSys Ethereum MultiSigWallet \([https://github.com/ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet)\).\] All foundation transactions and bounties will be public, enabling anyone to see the state of the Network in real time.
 
 ### Future Development
 
