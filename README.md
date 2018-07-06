@@ -1,6 +1,6 @@
-# IKU - Biotech Redefined
-
 Working Draft
+
+# IKU - Biotech Redefined
 
 ## Abstract
 
