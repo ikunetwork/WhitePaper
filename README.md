@@ -151,11 +151,11 @@ Figure E further illustrates the benefits of the IKU data approach as opposed to
 
 **Liquidity**
 
-Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the licensing of a specific data set as described below. Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D. 
+Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. `IKU` is the bandwidth that powers then nNetwork and `RST[x]` enables the licensing of a specific data set as described below. Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
 
 ### IKU Scales
 
-The IKU architecture can scale in capital, time and approval probability compared to the current industry model which is costly in capital and time with high rates of failure as we explained above.  Figure F summarizes how IKU makes this possible this for better context:
+The IKU architecture can scale in capital, time and scientific probability compared to the current industry model which is costly in capital and time with high rates of failure as we explained above.  Figure F summarizes how IKU makes this possible this for better context:
 
 **Figure F: IKU Scales at Low Cost**
 
@@ -165,19 +165,16 @@ At any given time, the scientific probability of a NME reaching approval is 5%, 
 
 * **NME:** $2.6 billion/15 years =  $173 million per year spend.  
 
-The scientific probability of a rediscovered drug achieving approval is 30%, at a cost of 10 - 100 million \(avg. $55 million\) over 5 years,
+The scientific probability of the IKU model (China, Rediscovery, Rare Disease) averages out to approximately $3 million per year spend:
 
-China: $15 million 5 years.
+* **IKU:** $15 million/5 yaers = 3 million per year spend
 
-* **IKU US:** ~55 million/5 years = ~ $11 million per year spend. 
 
-* **IKU China:** 15 million/5 yaers = 3 million per year spend
-
-By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these global clinica trial efficiencies to surpasspass the longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
+By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
 ### The IKU Network
 
-The mission is to establish the IN as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize R&D efficiencies. In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN.
+The mission is to establish the IN as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the IN in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The IN will operate with a core objective to establish and facilitate the IN, create IKU, maintain the IN reserve and evangelize R&D efficiencies. In addition, the IN will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. [Circulating IKU will vote on the priority of bounties, capital allocation, and have the right to perform work for IN.]
 
 ## The Network Economy
 
@@ -192,7 +189,7 @@ Any person with internet access may submit a `researchTarget` which may be a con
 
 Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e. therapy, device, mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
 
-### Dev Tools
+### `devTools`
 
 Participants will access the IN through a `devTools` integrated interface. The `devTools` consist of the following:
 
@@ -205,7 +202,7 @@ Participants will access the IN through a `devTools` integrated interface. The `
 * Upvote
 * Share
 * Comment
-* Peer Review
+* Peer Review/Library Exchange
 * Upgrade to clinical trial subject 
 
 Friends, messaging, and upvote access will require an IN profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the IN. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
@@ -217,7 +214,7 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 * `IKU`** Holder**: IKU token holder; can be an individual, institution, private company, etc. \(described further below\)
 * `RST[x]`** Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. \(described further below\)  
 * **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU peer review process.  
-* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]DC` initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
+* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]` sub-network initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
 
@@ -233,7 +230,7 @@ A proposal is required to consist of
 \(ii\) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and 
 \(iii\) the scientific justification of proposed R&D. 
 
-A standard `RST[x]` proposal template will be provided by the IN for `RFP`. Further `RFP` value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`.<open zeppelin citation upgrade> This leaves significant room for `RST[x]` value creativity.
+A standard `RST[x]` proposal template will be provided. Further value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`.<open zeppelin citation upgrade> This leaves significant room for `RST[x]` value creativity.
 
 Participants will use the `devTools` to peer review. The IN peer review process to score an `RFP` can be defined as a function:
 
@@ -244,22 +241,25 @@ Participants will use the `devTools` to peer review. The IN peer review process 
 `c`: IKU balance weight 
 `r`: A specified threshold value
 ```
-
+ `s` is expected to be optimized overtime with IN demand.
+ 
    ### The\_Library\_Exchange <citation Zero to One/Stanford Course>
    
-The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup> . This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open source machine learned R&D/clinical trial proposer, Jonas, based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.) for use by anyone with internet access.  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas - a human-computer hybrid approach. <peter thiel> . The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines. Participants are incentivized to peer review these proposals to earn fees \(more on fees below\) from the IN in the form of BTC, ETH, IKU and `RST` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.
+The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open source machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.) for use by anyone with internet access.  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas - a human-computer hybrid approach. <peter thiel>  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines. 
    
- `s` is expected to be optimized overtime with IN demand. As this process generates data and continues to grow, Jonas's recommendations should get better to help us determine the most efficient forms of bio R&D.
+   Participants are incentivized to peer review `RFP` and `Jonas` proposals to earn fees \(more on fees below\) from the Network in the form of ETH, and `RST` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.
+   
+ As this process generates data and continues to grow, Jonas's recommendations should get better to help us determine the most efficient forms of bio R&D.
 
 Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
-Upon `RSTCrowdsale[x]` achieving its softcap - minimum BTC/ETH required to achieve milestone:
+Upon `RSTCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
 
 1. \[y%\] of the funds will be released to the R&D team,
 2. All `RST[x]` Holders will be able to participate in their respective `RST[x]` sub-network, and
-3. IKU Token Holders earn `RST[x]` as described below under ** `RST[x]` Bandwidth and the Network Digital Wallet**.
+3. IKU Token Holders earn `RST[x]` as described below under ** Fees and the Network Digital Wallet**.
 
-Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider. In addition, prior to initiating a clinical trial, an `RST[x]DC` will be responsible for ensuring ethical compliance through an institutional review board.
+Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider. In addition, prior to initiating a clinical trial, an `RST[x]DC` will be responsible for ensuring ethical research compliance through an institutional review board.
 
 **Smart contract code for **`RSTCrowdsale`
 
