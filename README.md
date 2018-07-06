@@ -84,9 +84,16 @@ Phase III	3-7
 
 Since metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.
 
-The industry R&D model as it currently stands is clearly a failure and does not account for this arbitrage.<sup>[14](#f14)</sup> The holdup is not the science, but the incentive to efficiently mobilize resources to realize the science. Blockchains can now  digitally program incentive models to coordinate resources where it was not previously possible. 
+The industry R&D model as it currently stands is clearly a failure and does not account for this arbitrage as can be seen in the chart below.<sup>[14](#f14)</sup> 
 
-G IKU's focus will be on the redevelopment of generics, 
+
+Insert IKU_Money Ball
+
+
+
+
+The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
+
 
 _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.  As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered for a disease or a condition lacking viable options.<sup>[23](#f23)</sup> Because existing drugs have already proven to be safe, the majority of clinical trial rediscovery initiatives can skip Phase I _safety_, and move directly into Phase II _efficacy_.<sup>[24](#f24)</sup> Phase II costs are estimated to be as low as $5 million and take as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> In fact, there were only 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one _efficacy_ clinical trial, compared to ~30% FDA approval rate for drug rediscovery vs. 5% FDA approval rate for NME \(approximately .1% in lab, 10% upon entering clinical trial\).<sup>[26](#f26)</sup> It is clear the probability of success is higher for rediscovery, eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines. Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline:
 
