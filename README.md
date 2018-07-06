@@ -133,7 +133,7 @@ IKU allows for multilateral transparency and programmatic settlement for value e
 
 The IN will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
-### What about Patents?  Why copyrights over patents? -- use E&E
+### [What about Patents?  Why copyrights over patents? -- use E&E]
 
 By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> IKU is designed to leverage biotech regardless of patent policy, as rights are based in the copyright of the data generated, which ethically applies upon conception of the data, as opposed to patents which have to be registered limited by jurisdiction.  
 
@@ -258,11 +258,15 @@ Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \
 
 Upon `RSTCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
 
-1. \[y%\] of the funds will be released to the R&D team,
-2. All `RST[x]` Holders will be able to participate in their respective `RST[x]` sub-network, and
-3. IKU Token Holders earn `RST[x]` as described below under ** Fees and the Network Digital Wallet**.
+1. A `RST[x]` sub-network is created in which `RST[x]` holders and the R&D team work together to achieve the mission of the proposal,
+2. \[y%\] of the funds will be released to the R&D team,
+3. All `RST[x]` Holders will be able to participate in their respective `RST[x]` sub-network, and
+4. IKU Token Holders earn `RST[x]` as described below under ** Fees and the Network Digital Wallet**.
 
-Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider. In addition, prior to initiating a clinical trial, an `RST[x]DC` will be responsible for ensuring ethical research compliance through an institutional review board.
+A `RST[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials by interacting and communicating through their sub-network as provided by IKU.
+
+Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider.  All capital resources are to be allocated purely towards R&D.  In addition, prior to initiating a clinical trial, `RST[x]` R&D team will be responsible for ensuring ethical research compliance through an institutional review board.
+
 
 **Smart contract code for **`RSTCrowdsale`
 
@@ -405,20 +409,16 @@ In the Rapamycin example, the new data package (formulation + clinical trials) c
 
 
 
-Licensees will be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`.
+Licensees will be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`.  This can be visualized below in the abacus example:
 
 
 
-The IN will provide a standard `permissionlessLicense` with drop down variables such as territory, `RST[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen, enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.
-
-Specifically, the `permissionlessLicense` enables exit opportunities for `RST[x]` Holders to license `RST[x]`-backed data which can be obtained by any interested party \(e.g. health insurance distributor, venture, foundation, etc.\). If the `permissionlessLicense` threshold is not achieved after a succcessful Phase II clinical trial, the `RST[x]DC` may become a collective ad hoc venture team around its cryptoasset, e.g. an approved ALS treatment with 7 years of market exclusivity in the U.S. for market distribution. This creates a self perpetuating ecosystem of innovation and multiple opportunities for IKU and `RST[x]` holders, as well as other parties interested in licensing.
-
-[non-permissionless license option?]
+The IN will provide a standard `permissionlessLicense` with drop down variables such as territory, `RST[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen, enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
 
 
 ### The IKU Reserve
 
-The IN will maintain its assets as necessary for incentivizing VR peer review, liquidity and community bounties in both software and bio R&D. The funds will be stored in an Ethereum MultiSigWallet: \([https://github.com/Gnosis/MultiSigWallet](https://github.com/Gnosis/MultiSigWallet)\) which is built on top of ConsenSys Ethereum MultiSigWallet \([https://github.com/ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet)\).\] All foundation transactions and bounties will be public, enabling anyone to see the state of the Network in real time.
+The IN will maintain its assets as necessary for incentivizing VR peer review, liquidity and community bounties in both software and bio R&D.  Resources may be stored in an Ethereum MultiSigWallet: \([https://github.com/Gnosis/MultiSigWallet](https://github.com/Gnosis/MultiSigWallet)\) which is built on top of ConsenSys Ethereum MultiSigWallet \([https://github.com/ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet)\).\] All foundation transactions and bounties will be public, enabling anyone to see the state of the Network in real time.
 
 ### Future Development
 
@@ -435,7 +435,7 @@ How to bundle:
 
 All IN R&D initiatives would have the option to actively bundle `RST[x]` into `RST[i]`, or allow for `RST[i]` to choose to bundle with an `RST[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`RST[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
 
-This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk. Capital resources would be allocated purely towards R&D with the ability to algorithmically bond with each other thru smart contract.
+This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk through the ability to algorithmically bond with each other thru smart contract.
 
 ## Conclusion
 
