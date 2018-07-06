@@ -115,9 +115,9 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 ### How?
 
-IKU provides a global liquid architecture for R&D and clinical trials through tokenized copyright licenses, leveraging a liquid licensing protocol \(see The `RST[x] permissionlessLicense` section below\) in which all transactions are settled programmatically as data points on-chain, as rights are proved through existence of smart contract provenance.   
+IKU provides a global liquid architecture for R&D and clinical trials through tokenized copyright licenses, leveraging a liquid licensing protocol in which all transactions are settled programmatically as data points on-chain, as rights are proved through existence of smart contract provenance.   
 
-IKU reinvents bio R&D and clinical trial markets through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provides bandwidth to power the protocol's enforcement on the ethereum virtual machine.
+IKU reinvents bio R&D and clinical trial markets through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provides bandwidth to power the Network's enforcement on the ethereum virtual machine.
 
 ### What are Smart Contracts?
 
@@ -125,15 +125,15 @@ Smart contracts are agreements with super powers, as they provide a deterministi
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[16](#f16)</sup> Ultimately, overhead is reduced ,trust improves, and efficiency increases with no third party necessary for escrow.<sup>[17](#f17)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
-IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Barrier to entry dramatically decrease, and allows \(i\) researchers and other learned persons to maximize scientific objectives by directly engaging p2p capital, \(ii\) anyone to participate in the market and \(iii\) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain, allowing all stakeholders to collectively provide liquid R&D, incentivizing one record of scientific truth.
+IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Barriers to entry dramatically decrease, and allows \(i\) researchers and other learned persons to maximize scientific objectives by directly engaging p2p capital, \(ii\) anyone with internet access to participate in the market and \(iii\) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.
 
 ### Why IKU?
 
-IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in R&D assets through decentralized resource allocation and increased market transparency. Access to R&D data and licenses are unlocked to the community at large which may result in new discoveries and drug applications. The successful creation of this system will create a positive economic and scientific feedback loop.
+IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in R&D assets through decentralized resource allocation and increased market transparency. Access to R&D data and licenses are unlocked to the community at large which is expected to result new discoveries and biotechnologies. The successful creation of this system will create a positive economic and scientific feedback loop.
 
-The IN will serve to attract R&D ideation through crowdsourced input from thought leaders and patients. Realistically, researchers and patients do not have the time, expertise or resources to commence clinical trials. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
+The IN will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
-### What about Patents?
+### What about Patents?  Why copyrights over patents? -- use E&E
 
 By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide market/data exclusivity periods \(independent of patents\) for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> IKU is designed to leverage biotech regardless of patent policy, as rights are based in the copyright of the data generated, which ethically applies upon conception of the data, as opposed to patents which have to be registered limited by jurisdiction.  
 
@@ -149,15 +149,13 @@ A `RST[x]DC` may pursue a patent together as a DC, with sole ownership of rights
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
-**Figure E: IKU Data Approach**
+**Liquidity**
 
-![IKU Data Approach](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Data-Approach.png)
-
-**Liquidity**: Bio R&D markets remain non-liquid, silo'd and permissioned in which on average $2.6 billion is required per drug, resulting in exorbitant pricing per unit.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the licensing of a specific data set as described below. Both asset classes collapse money value and information into one, facilitating the liquid exchange of R&D. Given that IKU's focus, R&D expenditures are expected to be minor by comparison, no such demands on amortizing exorbitant R&D costs on patients have to be met.
+Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. The `RST[x]` enables the licensing of a specific data set as described below. Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D. 
 
 ### IKU Scales
 
-The current industry model is costly as we explained above. IKU on the other hand can scale in capital, time and approval probability. Figure F compares this for better context:
+The IKU architecture can scale in capital, time and approval probability compared to the current industry model which is costly in capital and time with high rates of failure as we explained above.  Figure F summarizes how IKU makes this possible this for better context:
 
 **Figure F: IKU Scales at Low Cost**
 
