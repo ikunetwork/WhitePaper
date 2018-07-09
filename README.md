@@ -111,7 +111,7 @@ Insert IKU_Money Ball
 By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
 
-### The IKU Approach: Digital Scale 
+### The IKU Approach: Digital Scale at Low Cost
 
 IKU provides the infrastructure for a liquid, bio R&D network to advance R&D productivity by orders of magnitude. The IKU Network **IN** will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on the Ethereum blockchain. Consider IKU as the Manhattan Project for R&D efficiency, with Figure C contextualizing its benefits:
 
@@ -131,6 +131,8 @@ Smart contracts are agreements with super powers, as they provide a deterministi
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[16](#f16)</sup> Ultimately, overhead is reduced ,trust improves, and efficiency increases with no third party necessary for escrow.<sup>[17](#f17)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
+### Direct Monetization of Research Data
+
 IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[29](#f29)</sup> This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
 
 This allows for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets worldwide, providing a globally liquid and accessible markets to anyone with internet access. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
@@ -142,6 +144,8 @@ This allows for research and clinical trial data to be directly monetized, as op
 All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth. P
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
+
+![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Scales-at-Low-Cost.png)
 
 
 ### Why IKU?
@@ -155,19 +159,6 @@ The IN will serve to attract R&D ideation through crowdsourced input from though
 **Liquidity**
 
 Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. `IKU` is the bandwidth that powers then nNetwork and `RST[x]` enables the licensing of a specific data set as described below. Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
-
-### IKU Scales
-
-The IKU architecture can scale in capital, time and scientific probability compared to the current industry model which is costly in capital and time with high rates of failure as we explained above.  Figure F summarizes how IKU makes this possible this for better context:
-
-**Figure F: IKU Scales at Low Cost**
-
-![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Scales-at-Low-Cost.png)
-
-
-
-
-
 
 ### The IKU Network
 
