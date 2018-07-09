@@ -88,9 +88,9 @@ yet it lacks economic incentive for development because of the patent landscape.
 
 Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's."
 
-### [What about Patents?  Why copyrights over patents? -- use E&E]
+### Copyrights v. Patents
 
-By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights occur upon when research data set is put in writing, providing exclusive commercial rights until the exclusivity period ends.  Copyrights do not require registration, unlike patents which require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.  Specifically, a license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial. Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> Jurisdictions provide for copyright data exclusivity periods (independent of patents), including but not limited to:
+By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights occur upon when research data set is put in writing of which a patent cannot be granted on such research unless a party has a copyright to the respective research.  Copyrights do not require registration, unlike patents which require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.  Specifically, a license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial). Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> Jurisdictions provide for bio research and clinical trial copyright data exclusivity periods (independent of patents), including but not limited to:
 
 * Europe: up to ~12 years
 * Asia: up to ~10 years
@@ -99,7 +99,7 @@ By the time an NME enters clinical trials, its patent life has 10 years, often t
 IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  
 
 
-These efficiencies described above are measured in Figure X - providing arbitrage opportunities as great as 100,000x.
+These efficiencies described above are measured in Figure X - providing arbitrage opportunities as great as 1,000,000x.
 
 <sup>[14](#f14)</sup> 
 
@@ -107,12 +107,11 @@ These efficiencies described above are measured in Figure X - providing arbitrag
 Insert IKU_Money Ball
 
 
-By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
 
-It is clear the probability of success as set forth in the arbitrage opportunities above is exponentially higher - eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
+By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
 
-### How to scale these efficiencies: The IKU Approach
+### The IKU Approach: Digital Scale 
 
 IKU provides the infrastructure for a liquid, bio R&D network to advance R&D productivity by orders of magnitude. The IKU Network **IN** will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on the Ethereum blockchain. Consider IKU as the Manhattan Project for R&D efficiency, with Figure C contextualizing its benefits:
 
