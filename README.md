@@ -74,36 +74,30 @@ Phase I	0.3 – 0.8
 Phase II	2-3	
 Phase III	3-7
    
-   Biotech is booming in China due to low costs of development and deep capital markets.  WuxiApptec, a China-based biotech open-access  platform company went public on May 7 and did a 5x within 3 weeks supporting a $10 billion+ valuation . <citations>.  
+   Biotech is booming in China due to low costs of development, large patient populations and deep capital markets.  WuxiApptec, a China-based global biotech open-access platform company went public on May 7, 2018 and did a 5x within 3 weeks supporting a $10 billion+ valuation . <citations>.  
    
-   The U.S. is starting to answer China, as can be seen with passage of the 21st Century Cures Act which calls for using "real world evidence" to determine the true efficacy of a biotechnology.  In 2016, 5 treatments were approved by the U.S. FDA on one efficacy clinical trial alone and in 2017, 19 treatments were approved on one clinical trial!  For rare disease populations, often determined to not be "blockbuster" enough for big pharma shareholders, development and Phase II clinical trials can be completed for under $10 million, of which then this can potentially lead to an approval on just this one trial.  There are multi-billion dollar biotechnology companies in which their sometimes only asset is a rare-disease drug.
+   The U.S. is starting to answer China, as can be seen with passage of the 21st Century Cures Act which calls for using "real world evidence" to determine the true efficacy of a biotechnology.  In 2016, 5 treatments were approved by the U.S. FDA on one efficacy clinical trial alone and in 2017, 19 treatments were approved on one clinical trial (for efficacy)!  The U.S. and China are the two largest economies in the world.  
    
-   In addition, generic drugs can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[12](#f12)</sup>).  Generic medicines are built on the same active ingredients as their previously patented version<sup>[20](#f20)</sup> More specifically, the same dosage, effectiveness and - safety - profile as the original drug.<sup>[21](#f21)</sup> By the time the Specifically, the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[22](#f22)</sup> <Because their patents expired, there is significantly less risk of infringement and more freedom to operate.> . Rediscovery is a preferred method amonst many high end scientists including Nobel Laureates:
+   In addition, generic drugs can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[12](#f12)</sup>).  There are 10,000 diseases of which 95% do not have an effective treatment.  Generic medicines are built on the same active ingredients as their previously patented version.<sup>[20](#f20)</sup> . By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[22](#f22)</sup> <Because their patents expired, there is significantly less risk of infringement and more freedom to operate.> . Rediscovery is a preferred method amonst many high end scientists including Nobel Laureates:
    
-   _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.
+   _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988;
    
-   Rediscovery can take the form of new formulations or patient populations and clinical trials can commence for as little as $5 million, and only a few years for approval, as opposed to ~15 years for NME. Why? eliminating significant time and cost spent replicating studies - get right into Ph. II. <while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup> . </sup>50% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.<sup>[1](#f1)</sup>.  As per a recently published rediscovery trial presented at the premier cancer conference, as covered by Forbes
+yet it lacks economic incentive for development because of the patent landscape.  Rediscovery can take the form of new formulations or patient populations and clinical trials can commence for as little as $5 million, and require only a few years for approval, as opposed to ~15 years for NME. Why? eliminating significant time and cost spent replicating studies.  Because the drug has already proven to be safe, it can get directly into Ph. II clinical trials (efficacy) - potentially approved thereafter on just this one trial. <while significantly lowering any potential reason for future litigation.<sup>[13](#f13)</sup> . </sup> .  In addition,  rediscovery has a 30% FDA approval rate for drug rediscovery vs. < 1%  approval rate for NME upon being discovered in the lab.  It is speculated that 75% of existing drugs can be redeveloped to reach the market at a fraction of the cost and time.<sup>[1](#f1)</sup>.  As per a recently published rediscovery trial presented at the premier cancer research conference worldwide (ASCO), as covered by Forbes, the biggest surprise of the whole conference was the effect of Metformin, a generic diabetes drug, against lung cancer.  To quote Forbes:
    
-  Biggest Surprise: Metformin
+  " Biggest Surprise: Metformin
 
-Since metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.
+Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's."
 
-The industry R&D model as it currently stands is clearly a failure and does not account for this arbitrage as can be seen in the chart below.<sup>[14](#f14)</sup> 
+These efficiencies described above are measured in Figure X - providing arbitrage opportunities as great as 100,000x.
+
+<sup>[14](#f14)</sup> 
 
 
 Insert IKU_Money Ball
 
 
+It is clear the probability of success as set forth in the arbitrage opportunities above is exponentially higher - eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
-
-It is clear the probability of success as set forth in the arbitrage opportunities above is higher - eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
-
-
-<<<<  As per U.S. NIH researchers, approx. 50% of existing drugs can be rediscovered for a disease or a condition lacking viable options.<sup>[23](#f23)</sup> Because existing drugs have already proven to be safe, the majority of clinical trial rediscovery initiatives can skip Phase I _safety_, and move directly into Phase II _efficacy_.<sup>[24](#f24)</sup> Phase II costs are estimated to be as low as $5 million and take as little as a few years for approval, as opposed to ~15 years for NME.<sup>[25](#f25)</sup> In fact, there were only 20+ U.S. FDA medicine approvals in 2016 - 2017 on just one _efficacy_ clinical trial, compared to ~30% FDA approval rate for drug rediscovery vs. 5% FDA approval rate for NME \(approximately .1% in lab, 10% upon entering clinical trial\).<sup>[26](#f26)</sup>  Figure D illustrates how IKU streamlines research as compared to the traditional R&D pipeline:>>>>>>
-
-**Figure D: IKU vs. Traditional R&D Pipeline** 
-
-![IKU vs. Traditional R&D Pipeline](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Traditional-R%26D-Pipeline.png)
 
 ### IKU Approach
 
