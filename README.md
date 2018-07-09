@@ -88,6 +88,17 @@ yet it lacks economic incentive for development because of the patent landscape.
 
 Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's."
 
+### [What about Patents?  Why copyrights over patents? -- use E&E]
+
+By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights occur upon when research data set is put in writing, providing exclusive commercial rights until the exclusivity period ends.  Copyrights do not require registration, unlike patents which require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.  Specifically, a license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial. Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> Jurisdictions provide for copyright data exclusivity periods (independent of patents), including but not limited to:
+
+* Europe: up to ~12 years
+* Asia: up to ~10 years
+* U.S.: up to ~7 years<sup>[30](#f30)</sup>
+
+IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  
+
+
 These efficiencies described above are measured in Figure X - providing arbitrage opportunities as great as 100,000x.
 
 <sup>[14](#f14)</sup> 
@@ -96,10 +107,12 @@ These efficiencies described above are measured in Figure X - providing arbitrag
 Insert IKU_Money Ball
 
 
+By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
+
 It is clear the probability of success as set forth in the arbitrage opportunities above is exponentially higher - eliminating years of uncertainty with dramatically lower costs. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe medicines.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
 
-### IKU Approach
+### How to scale these efficiencies: The IKU Approach
 
 IKU provides the infrastructure for a liquid, bio R&D network to advance R&D productivity by orders of magnitude. The IKU Network **IN** will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on the Ethereum blockchain. Consider IKU as the Manhattan Project for R&D efficiency, with Figure C contextualizing its benefits:
 
@@ -119,7 +132,18 @@ Smart contracts are agreements with super powers, as they provide a deterministi
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[16](#f16)</sup> Ultimately, overhead is reduced ,trust improves, and efficiency increases with no third party necessary for escrow.<sup>[17](#f17)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
-IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Barriers to entry dramatically decrease, and allows \(i\) researchers and other learned persons to maximize scientific objectives by directly engaging p2p capital, \(ii\) anyone with internet access to participate in the market and \(iii\) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.
+IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[29](#f29)</sup> This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
+
+This allows for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets worldwide, providing a globally liquid and accessible markets to anyone with internet access. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
+
+\(i\) researchers and other learned persons to maximize scientific objectives by directly engaging p2p capital, 
+\(ii\) anyone with internet access to participate in the market and 
+\(iii\) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. 
+
+All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth. P
+
+Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
+
 
 ### Why IKU?
 
@@ -127,25 +151,7 @@ IKU allows for multilateral transparency and programmatic settlement for value e
 
 The IN will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
-### [What about Patents?  Why copyrights over patents? -- use E&E]
 
-By the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to ~10 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights occur upon when research data set is put in writing, providing exclusive commercial rights until the exclusivity period ends.  Copyrights do not require registration, unlike patents which require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.  
-
-IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  Specifically, a license is required by regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D data.<sup>[27](#f27)</sup> Without such a license, a party may not utilize such data for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial. Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[28](#f28)</sup> 
-
-In the case of IKU, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[29](#f29)</sup> This hash is tokenized and traded on the blockchain, enabling cryptographic, timestamped validation of each transaction, providing the current state of IKU. A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  Parties, and in IKU's case the `RST[x]` sub-network, may capitalize on data/market exclusivity periods for competitive advantage in many jurisdictions, including but not limited to:
-
-* Europe: up to ~10 years
-* Asia: up to ~10 years
-* U.S.: up to ~7 years<sup>[30](#f30)</sup>
-
-A `RST[x]` sub-network may pursue a patent together as a DC, with sole ownership of rights by the DC. While `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, patents may not be used in the IN. 
-
-
-
-This allows for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect (research --> patent --> company --> sell equity in company.  Diret monetization of data is the foundation of Bitcoin and cryptoassets worldwide, providing a globally liquid and accessible markets to anyone with internet access. 
-
-Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
 **Liquidity**
 
@@ -159,16 +165,10 @@ The IKU architecture can scale in capital, time and scientific probability compa
 
 ![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Scales-at-Low-Cost.png)
 
-At any given time, the scientific probability of a NME reaching approval is 5%, at a cost of $2.6 billion over 15 years.
-
-* **NME:** $2.6 billion/15 years =  $173 million per year spend.  
-
-The scientific probability of the IKU model (China, Rediscovery, Rare Disease) averages out to approximately $3 million per year spend:
-
-* **IKU:** $15 million/5 yaers = 3 million per year spend
 
 
-By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.
+
+
 
 ### The IKU Network
 
@@ -356,6 +356,8 @@ A transaction involving `RST[x]` is the cryptographic validation of rights trans
 * \(ii\) Upgrade to clinical trial subject.
 * \(iii\) Provide reputation scores to fellow `RST[x]` holders and the R&D team.
 * \(iv\) Interact and work with the sub-network through `devTools`.
+
+A `RST[x]` sub-network, may capitalize on the copyright data exclusivity periods.  In addition, `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, together as a sub-network as owned by `RST[x]` holders, but patents may not be used in the Network. 
 
 
 The `RST[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `RST[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `RST[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `RST[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
