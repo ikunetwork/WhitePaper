@@ -394,7 +394,7 @@ The party who holds the private key to such Ethereum address now has a license t
 
 For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease called lymphangioleiomyomatosis, may have potent effects against ageing.  A researcher may create a modified release Rapamycin formulation for Phase II clinical trials, leveraging extensive existing Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  Figure [x] provides a visual
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20RAP%20ICO.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Data%20Stack%203.png)
 
 In the Rapamycin example, the new data package (formulation + clinical trials) can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for potential approval. Figure [x] provides a visual
 
