@@ -403,7 +403,7 @@ In the Rapamycin example, the new data package (formulation + clinical trials) c
 
 [License Abacus Example]
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Abacus%20Updated.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Abacus%20Updated%202.png)
 
 
 Licensees will be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`.  This can be visualized below in the abacus example:
