@@ -394,20 +394,13 @@ The party who holds the private key to such Ethereum address now has a license t
 
 For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease called lymphangioleiomyomatosis, may have potent effects against ageing.  A researcher may create a modified release Rapamycin formulation for Phase II clinical trials, leveraging extensive existing Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  Figure [x] provides a visual
 
-
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20RAP%20Updated%202.png)
-
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Data%20Stack%203.png)
 
 In the Rapamycin example, the new data package (formulation + clinical trials) can be hashed and its digital rights tokenized as `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for potential approval. Figure [x] provides a visual
 
-
-[License Abacus Example]
-
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Abacus%20Updated%202.png)
 
-
 Licensees will be in the form of a third party that acquires a certain threshold of tokens, engaging the `permissionlessLicense` protocol as described below, or the `RST[x]DC`.  This can be visualized below in the abacus example:
-
 
 
 The IN will provide a standard `permissionlessLicense` with drop down variables such as territory, `RST[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen, enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
