@@ -299,7 +299,7 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 **Figure G : IKU Network Utility**
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Network-Utility.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/iku%20utility%20true.png)
 
 [redo this so that RT, Library Exchange and RFP are in a triangle that then feeds into Peer Review, etc.]
 
