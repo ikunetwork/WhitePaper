@@ -94,7 +94,7 @@ By the time an NME enters clinical trials, its patent life has 10 years, often t
 
 * Europe: up to ~12 years
 * Asia: up to ~10 years
-* U.S.: up to ~7 years<sup>[30](#f30)</sup>
+* U.S.: up to 12 years<sup>[30](#f30)</sup>
 
 IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  
 
