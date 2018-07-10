@@ -153,8 +153,6 @@ IKU allows for multilateral transparency and programmatic settlement for value e
 
 The IN will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The IN aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
-
-
 **Liquidity**
 
 Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. `IKU` is the bandwidth that powers then nNetwork and `RST[x]` enables the licensing of a specific data set as described below. Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
@@ -175,9 +173,6 @@ Any person with internet access may submit a `researchTarget` which may be a con
 * Broad Target: Advancing research of aging and age-related diseases.
 
 Among other aspects, the `researchTarget` may specify medical conditions, technology type i.e. therapy, device, mechanism of action, or any other known R&D metric. The `researchTarget` will be visible and sortable to the public, allowing for thorough analysis and determination of demand. The public will be able to upvote a `researchTarget` - spam protected thru captcha.
-
-
-### IPFS will serve to provide infrastructure for the `RST[x]DC`. [insert IPFS slide Rick and Morty] [insert this]
 
 ### `devTools`
 
