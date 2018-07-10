@@ -68,11 +68,10 @@ The outcome is a ~20 year backlog of potential drugs waiting for funds to enter 
 China
 
 This is due to clinical trial arbitrage between China and the rest of the world in which it costs under $13 million to get a drug approved in China, of which then such data can be used to submit to the U.S., Europe, etc. for approval.  Specifically, the China FDA has recently harmonised with global clinical trial policy in generating and tracking clinical trial data, very similar to the U.S. and E.U.<ICH, recent guidance> .  In May 2018, Former U.S. Court of Appeals Judge Randall Rader stated that clinical trials can be carried out in China quicker, more effectively and for a significantly less price than the U.S. or Europe.<Notably the Berkeley Center for Law and Technology covered this in a roundtable on May 30, 2018 in which major players including international law firms, China government officials and the biotech industry were present to discuss the recent promising developments.> <80% of U.S. FDA approved marketing applications for drugs and biologics use data from clinical trials conducted outside the U.S.>  Below are the approximate development costs to complete clinical trials in China:
+
+![Existing R&D Models](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20China%20CT%20costs.png)
    
- 	China (million, USD)	<citation, http://blogs.nature.com/tradesecrets/2012/07/02/bio-2012-development-cost-comparison-china-vs-us >
-Phase I	0.3 – 0.8	
-Phase II	2-3	
-Phase III	3-7
+
    
    Biotech is booming in China due to low costs of development, large patient populations and deep capital markets.  WuxiApptec, a China-based global biotech open-access platform company went public on May 7, 2018 and did a 5x within 3 weeks supporting a $10 billion+ valuation . <citations>.  $150 billion was recently invested in the China biotech market by private funds and the state to make China a major player in the biotech market over the coming years. <https://www.nature.com/articles/d41586-018-00542-3 >
    
