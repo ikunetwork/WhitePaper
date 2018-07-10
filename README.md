@@ -152,7 +152,7 @@ This allows for research and clinical trial data to be directly monetized, as op
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
-![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Scales-at-Low-Cost.png)
+![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Infrastructure%20Industry%20Comparison.png)
 
 
 ### Why IKU?
