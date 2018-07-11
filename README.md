@@ -112,7 +112,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance R&D pro
 
 IKU provides a global liquid architecture for R&D and clinical trials through tokenized copyright licenses, leveraging a liquid licensing protocol in which all transactions are settled programmatically as data points on-chain, as rights are proved through existence of smart contract provenance.   
 
-IKU reinvents bio R&D through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provide the nodes to power the Network's enforcement on the ethereum virtual machine.
+IKU reinvents bio R&D through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The IKU token provide the bandwidth to power the Network's enforcement with the Ethereum virtual machine.
 
 ### What are Smart Contracts?
 
@@ -152,7 +152,7 @@ The Network will serve to attract R&D ideation through crowdsourced input from t
 
 **Liquidity**
 
-Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. `IKU` represents the nodes that powers then nNetwork and `RST[x]` is the memory of the R&D data (which enables the licensing of a specific data set as described below). Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
+Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[31](#f31)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[32](#f32)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. `IKU` represents the bandwidth that powers then Network and `RST[x]` is the memory of the R&D data (which enables the licensing of a specific data set as described below). Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
 
 ### The IKU Network
 
@@ -296,7 +296,7 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 
 The IN creates two classes of native tokens:
 
-* `IKU`: Serves as software license to access the Network, nodes for the Network to run and to mediate participation in the Network.  The supply of IKU is finite.
+* `IKU`: Serves as software license to access the Network, bandwidth for the Network to run and to mediate participation in the Network.  The supply of IKU is finite.
 * `RST`: The Research Specific Token `RST` is memory for an R&D initiative - representative of a fungible copyright license to the R&D `[x]` it was specifically created to capitalize.  `RST[x]` also provides a software license to access its respective sub-network to mediate participation.  Supply is dependent on demand. `RST[x]` bundles, `RST[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RST[x]` bundled.  
 
 `IKU` and `RST[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
@@ -362,7 +362,7 @@ IKU aligns its burning strategy with the creation of `RST[x]`, where a % of `IKU
 
 * A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an `RFP` for the `researchTarget` of which the IN accepts and an associated `RSTCrowdsale` commences. The `RSTCrowdsale` is successful and the associated `RST[x]` sub-network Levodopa Trials - Cure Parkinson’s is created. \[y%\] of the total contributed IKU tokens are burned from the IKU Network Reserve pool and `RST[x]` are distributed to `IKU` Token holders pro-rata based on IKU holdings.
 
-* Let’s say Bob contributed 500 ETH tokens to `RST[x]` sub-network Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 ETH tokens of which they can exchange for fiat. The Alice Foundation’s ETH and/or IKU Tokens are not burned, but rather [y%] of the total contributed ETH equivalent in IKU are burned from the IKU Reserve pool. The same [y%] of the `RST[x]` pool is transferred back to all funders who registered their nodes at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [y%] in addition to 500 (ETH : `RST[X]`) ratio.
+* Let’s say Bob contributed 500 ETH tokens to `RST[x]` sub-network Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 ETH tokens of which they can exchange for fiat. The Alice Foundation’s ETH and/or IKU Tokens are not burned, but rather [y%] of the total contributed ETH equivalent in IKU are burned from the IKU Reserve pool. The same [y%] of the `RST[x]` pool is transferred back to all funders who registered their bandwidth at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [y%] in addition to 500 (ETH : `RST[X]`) ratio.
 
 ### The `RST[x]` `permissionlessLicense`
 
