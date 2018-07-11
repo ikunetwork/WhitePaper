@@ -228,7 +228,7 @@ Participants will use the `devTools` to peer review. The IN peer review process 
 ```
 `s` is expected to be optimized overtime with IN demand.
  
-   ### The\_Library\_Exchange <citation Zero to One/Stanford Course>
+   ### A Computational Pipeline <citation Zero to One/Stanford Course>
    
 The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[33](#f33)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[34](#f34)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open source machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.) for use by anyone with internet access.  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas - a human-computer hybrid approach. <peter thiel>  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines. 
    
