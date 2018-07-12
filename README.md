@@ -122,7 +122,7 @@ Once a smart contract is set in motion, the blockchain is utilized to serve as a
 
 ### Direct Monetization of Research Data
 
-IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[29](#f29)</sup> This hash is tokenized as memory providing copyright provenance and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing the current state of IKU.  See Figure D below
+IKU is built on Ethereum, leveraging smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[29](#f29)</sup> This hash is tokenized as memory and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing pure provenance and the current state of IKU.  See Figure D below
 
 **Figure D: IKU Smart Contracts**
 
