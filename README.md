@@ -67,7 +67,7 @@ The outcome is a 20 year backlog of potential drugs waiting for funds to enter c
 
 **China**
 
-There is a significant arbitrage between China and the rest of the world to carry out bio R&D.  It can cost under $11 million to get a NME  drug approved in China, of which then such data can be used to submit to the U.S., Europe, etc. for approval.  Specifically, the China FDA has recently harmonised with global clinical trial policy in generating and tracking clinical trial data, very similar to the U.S. and E.U.<sup>[11](#f11)</sup>) .  In addition, 80% of U.S. FDA approved marketing applications for drugs and biologics use data from clinical trials conducted outside the U.S.<sup>[12](#f12)</sup>).  After the U.S., China has the biggest economy in the world.  
+There is a significant arbitrage between China and the rest of the world to carry out bio R&D.  It can cost under $11 million to get a NME  drug approved in China, of which then such data can be used to submit to the U.S., Europe, etc. for approval.<sup>[11](#f11)</sup>)  Specifically, the China FDA has recently harmonised with global clinical trial policy in generating and tracking clinical trial data, very similar to the U.S. and E.U.<sup>[11a](#f11a)</sup>) .  In addition, 80% of U.S. FDA approved marketing applications for drugs and biologics use data from clinical trials conducted outside the U.S.<sup>[12](#f12)</sup>).  After the U.S., China has the biggest economy in the world.  
 
 Biotech is booming in China due to low costs of development, large patient populations and deep capital markets.  WuxiApptec, a China-based global biotech open-access platform company went public on May 7, 2018 and did a 5x within 3 weeks supporting a $10 billion+ valuation . <sup>[13](#f13)</sup>)>.  $150 billion was recently invested in the China biotech market by both public and private enterprise to make China a global leader in the biotech market over the coming years. <sup>[14](#f14)</sup> https://www.nature.com/articles/d41586-018-00542-3 > Such a sentiment has be confirmed in the West.  In May 2018, the Berkeley Center for Law and Technology covered this at a roundtable meeting on May 30, 2018 in which major players including international law firms, China government officials and major biotech industry players were present to discuss the recent promising developments.<sup>[15](#f15)</sup>  Former U.S. Court of Appeals Judge Randall Rader stated that clinical trials can be carried out in China quicker, more effectively and for a significantly less price than the U.S. or Europe.<sup>[16](#f16)</sup>  George Scangos, former CEO of Biogen (NASDAQ: BIIB, Mkt Cap: $70 billion USD), now CEO of a Vir.Bio, recently announced a $260 million collaboration with Brii Biosciences, a China biotech firm and AliHealth, the healthcare arm of Alibaba Group to collaborate on and explore disruptive approaches to optimize clinical and commercial development efforts.<sup>[17](#f17)</sup>
 
@@ -410,11 +410,9 @@ IKU will serve to enable unprecedented global creation and deployment of resourc
 
 ## Footnotes
 
-<b id="f1">1</b> Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
+<b id="f1">1</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). J. Hudson et. al., Into the valley of death: from research to innovation, [https://www.ncbi.nlm.nih.gov/pubmed/23402848](https://www.ncbi.nlm.nih.gov/pubmed/23402848) \(2013\).Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
 
-<b id="f2">2</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). J. Hudson et. al., Into the valley of death: from research to innovation, [https://www.ncbi.nlm.nih.gov/pubmed/23402848](https://www.ncbi.nlm.nih.gov/pubmed/23402848) \(2013\).Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
-
-<b id="f3">3</b> James Bessen, The Evidence is in: Patent trolls do hurt innovation, Harvard Business Review \(2014\). Gene Quinn, et. al., Are More than 90% of Patents Challenged at the PTAB Defective?, IPWatchdog \(2017\). Robert Sachs, Fenwick & West LLP, Patent Invalidity Rates: The Summertime Blues Continue, Law 360 \(2015\). Such inefficiencies have caused significant IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
+<b id="f2">2</b> See Id. Robert Sachs, Fenwick & West LLP, Patent Invalidity Rates: The Summertime Blues Continue, Law 360 \(2015\). Such inefficiencies have caused significant IP law has attempted to enforce, but enforceability is difficult, time consuming and expensive as:
 
 * patent litigation costs ~ $30 billion per year
 * ~80% of the litigation comes from patent trolls 
@@ -422,27 +420,34 @@ IKU will serve to enable unprecedented global creation and deployment of resourc
 
 All of which lead to significant issues in transaction finality, exacerbating an already illiquid market. Id.
 
-<b id="f4">4</b> FiercePharma, The world's most pricey drugs, from a $1.2M gene therapy to a $450K lymphoma med, [https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med](https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med) \(2017\).
+<b id="f3">3</b> FiercePharma, The world's most pricey drugs, from a $1.2M gene therapy to a $450K lymphoma med, [https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med](https://www.fiercepharma.com/marketing/world-s-most-pricey-drugs-from-a-1-2m-gene-therapy-to-a-450k-lymphoma-med) \(2017\).
 
-<b id="f5">5</b>See FN 2.
+<b id="f4">4</b> See FN 1.
 
-<b id="f6">6</b> Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
+<b id="f5">5</b> Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
 
-<b id="f7">7</b> K. Stott, Pharma’s broken business model: An industry on the brink of terminal decline, [https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/](https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/) \(2017\).
+<b id="f6">6</b> K. Stott, Pharma’s broken business model: An industry on the brink of terminal decline, [https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/](https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/) \(2017\).
 
-<b id="f8">8</b> Id.
+<b id="f7">7</b> Id.
 
-<b id="f9">9</b> Congressional Research Service, NIH Funding: FY1994-FY2016, [https://fas.org/sgp/crs/misc/R43341.pdf](https://fas.org/sgp/crs/misc/R43341.pdf) .
+<b id="f8">8</b> Congressional Research Service, NIH Funding: FY1994-FY2016, [https://fas.org/sgp/crs/misc/R43341.pdf](https://fas.org/sgp/crs/misc/R43341.pdf).
 
-<b id="f10">10</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk \(2013\).
+<b id="f9">9</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk \(2013\).
 
-<b id="f11">11</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
+<b id="f10">10</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
 
-<b id="f12">12</b> Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/](http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/) \(2017\).
+<b id="f11">11</b> Nature Biotechnology, Trade Secrets, Development cost comparison, China vs. US, http://blogs.nature.com/tradesecrets/2012/07/02/bio-2012-development-cost-comparison-china-vs-us (2012).
+
+<b id="f11a">11a</b> U.S. FDA, China Joins ICH in Pursuit of Global Harmonization of Drug Development Standards, https://blogs.fda.gov/fdavoice/index.php/2017/08/china-joins-ich-in-pursuit-of-global-harmonization-of-drug-development-standards/ (2017).  BERKELEY
+
+
+Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/](http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/) \(2017\).
+
+<b id="f12">12</b> Id.
 
 <b id="f13">13</b> Id.
 
-<b id="f14">14</b> Id.
+<b id="f14">14</b> 
 
 <b id="f15">15</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks, [http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First\#introduction](http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction) \(1997\).
 
@@ -452,7 +457,9 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f18">18</b> The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
 
-<b id="f19">19</b> Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
+<b id="f19">19</b> Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
+
+Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
 
 <b id="f20">20</b> FDA, What are generic drugs?, [https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm).
 
