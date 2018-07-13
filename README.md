@@ -127,14 +127,14 @@ Once a smart contract is set in motion, the blockchain is utilized to serve as a
 
 ### Direct Monetization of Research Data
 
-IKU leverages blockchain based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as memory and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing pure provenance and the current state of IKU.  See Figure D below
+IKU leverages blockchain based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as memory and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing pure provenance of intellectual property rights and the current state of IKU.  See Figure D below
 
 **Figure D: IKU Smart Contracts**
 
 ![IPFS](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20IPFS%20SMART%20K_Updated.png)
 
 
-All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license will be granted upon acquisition of a certain threshold of tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
+All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license will be granted upon acquisition of a certain threshold of memory tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
 
 This allows for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
 
@@ -151,21 +151,21 @@ Figure E further illustrates the benefits of the IKU data approach as opposed to
 
 ### Why IKU?
 
-IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for science and medicine that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in R&D assets through decentralized resource allocation and increased market transparency. Access to R&D data and licenses are unlocked to the community at large which is expected to result new discoveries and biotechnologies. The successful creation of this system will create a positive economic and scientific feedback loop.
+IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for scientific R&D that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in R&D assets through decentralized resource allocation and increased market transparency. Access to R&D data and licenses are unlocked to the community at large which is expected to result new discoveries and biotechnologies. The successful creation of this system will create a positive economic and scientific feedback loop.
 
 The Network will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The Network aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
 **Liquidity**
 
-Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[41](#f41)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Token `RST[x]`. `IKU` represents the bandwidth that powers then Network and `RST[x]` is the memory of the R&D data. Both `IKU` and `RST[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
+Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[41](#f41)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Memory `RSM[x]`. `IKU` represents the bandwidth that powers then Network and `RSM[x]` is the memory of the R&D data. Both `IKU` and `RSM[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
 
 ### The IKU Network
 
-The mission is to establish the IN as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the Network in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The Network will operate with a core objective to establish and facilitate the Network's R&D efficiencies. In addition, the Network will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. 
+The mission is to establish the Network as a public utility for bio R&D, driving efficiency through global capital formation and decentralized liquidity pools. The community will own the Network in a trustless fashion, connecting individuals, science, verified researchers/research organizations – collectively participants - and capital. The Network will operate with a core objective to establish and facilitate the Network's R&D efficiencies. In addition, the IKU foundation will maintain a grants program in which bounties will be issued for (i) eliminating issues in the IN code and (ii) accomplishing specific innovations i.e. developing effective cancer treatments, aging treatments, etc. 
 
 ## The Network Economy
 
-The IN combines the wisdom of crowds with the wisdom of science thru participant capital information exchange. The following tools will give life to the IN: `researchTarget`, `devTools`, Request for Proposals `RFP`, and the `permissionlessLicense`.
+The Network combines the wisdom of crowds with the wisdom of science thru participant capital information exchange. The following tools will give life to the IN: `researchTarget`, `devTools`, Request for Proposals `RFP`, and the `permissionlessLicense`.
 
 ### Research Target
 
@@ -192,7 +192,7 @@ Participants will access the IN through a `devTools` integrated interface. The `
 * Peer Review/Library Exchange
 * Upgrade to clinical trial subject 
 
-Friends, messaging, and upvote access will require an IN profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the IN. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
+Friends, messaging, and upvote access will require an Network profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the Network. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
 
 ### IKU Network Participants
 
@@ -200,8 +200,8 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 
 * `IKU`** Holder**: IKU token holder; can be an individual, institution, private company, etc. \(described further below\)
 * `RST[x]`** Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. \(described further below\)
-* **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the IN. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to the IKU peer review process.  
-* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the IN and has the option to create an IN profile to access `devTools A`. The IN will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]` sub-network initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
+* **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the Network. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to IKU peer review.  
+* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the Network and has the option to create a Network profile to access `devTools A`. The Network will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]` sub-network initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
 
@@ -209,7 +209,7 @@ Participants will be subject to a `reputationScore`:
 
 ### Request for Proposals
 
-The IN will serve to produce requests for peer reviewed proposals `RFP` in response to `researchTargets`. A VR will be able to submit proposals at any time as paid for by the IN reserve, whereas non-VR will be required to post a bond to submit a proposal.
+The Network will serve to produce requests for peer reviewed proposals `RFP` in response to `researchTargets`. A VR will be able to submit proposals at any time as paid for by the IKU foundation, whereas non-VR will be required to post a bond to submit a proposal.
 
 A proposal is required to consist of 
 
@@ -232,7 +232,7 @@ Participants will use the `devTools` to peer review. The IN peer review process 
  
    ### A Computational Pipeline 
    
-The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.).  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas.    Participants are incentivized to peer review `RFP` and `Jonas` proposals to earn fees \(more on fees below\) from the Network in the form of ETH, and `RST` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines.
+The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.).  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas.    Participants are incentivized to peer review `RFP` and `Jonas` proposals to earn fees \(more on fees below\) from the Network in the form of `ETH`, and `RSM` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines.
 
 Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
 
