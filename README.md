@@ -234,21 +234,21 @@ Participants will use the `devTools` to peer review. The IN peer review process 
    
 The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.).  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas.    Participants are incentivized to peer review `RFP` and `Jonas` proposals to earn fees \(more on fees below\) from the Network in the form of `ETH`, and `RSM` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines.
 
-Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RST[x]` - An ERC20 token representing the specific research and \(ii\) `RSTCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RST[x]` and in exchange send tokens to contributors
+Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RSM[x]` - An ERC20 token representing the memory to specific research and \(ii\) `RSMCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RSM[x]` and in exchange send tokens to contributors
 
-Upon `RSTCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
+Upon `RSMCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
 
-1. A `RST[x]` sub-network is created in which `RST[x]` holders and the R&D team work together to achieve the mission of the proposal,
+1. A `RSM[x]` sub-network is created in which `RSM[x]` holders and the R&D team work together to achieve the mission of the proposal,
 2. \[y%\] of the funds will be released to the R&D team,
-3. All `RST[x]` Holders will be able to participate in their respective `RST[x]` sub-network, and
-4. IKU Token Holders earn `RST[x]` as described below under ** Fees and the Network Digital Wallet**.
+3. All `RSM[x]` Holders will be able to participate in their respective `RSTM[x]` sub-network, and
+4. IKU Token Holders earn `RSM[x]` as described below under ** Fees and the Network Digital Wallet**.
 
-A `RST[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials by interacting and communicating through their sub-network as provided by IKU.
+A `RSM[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials by interacting and communicating through their sub-network as provided by IKU.
 
 Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider.  All capital resources are to be allocated purely towards R&D.  In addition, prior to initiating a clinical trial, `RST[x]` R&D team will be responsible for ensuring ethical research compliance through an institutional review board.
 
 
-**Smart contract code for **`RSTCrowdsale`
+**Smart contract code for **`RSMCrowdsale`
 
 ```text
 pragma solidity ^0.4.18;
@@ -259,10 +259,10 @@ import 'zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol';
 import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 
-contract RSTCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
+contract RSMCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 
 
-  function RSTCrowdsale(
+  function RSMCrowdsale(
     uint256 _openingTime, 
     uint256 _closingTime, 
     uint256 _rate, 
@@ -294,7 +294,7 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/iku%20utility%20true.png)
 
-The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  The most scientifically valuable R&D would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - more transparent, frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`. Through this utility, IKU serves to achieve open prediction-like markets for biotech research - created and traded in a fungible, digital and liquid fashion.
+The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  The most scientifically valuable R&D would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - through frictionless access to rich pools of data. Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`. Through this utility, IKU serves to achieve open prediction-like markets for biotech research - created and traded in a fungible, digital and liquid fashion.
 
 
 ## Tokenization
@@ -302,9 +302,9 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 The IN creates two classes of native tokens:
 
 * `IKU`: Serves as bandwidth for the Network to run.  By registering bandwidth, `IKU` holders have software license to access  and mediate participation in the Network.  The supply of IKU is finite.
-* `RST`: The Research Specific Token serves as memory of copyright ownership for an R&D initiative it was specifically created to capitalize, as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `RST[x]` bundles, `RST[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RST[x]` bundled.  
+* `RSM`: The Research Specific Memory serves as memory of copyright ownership for an R&D initiative it was specifically created to capitalize, as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `RSM[x]` bundles, `RSM[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RSM[x]` bundled.  
 
-`IKU` and `RST[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
+`IKU` and `RSM[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
 
 
 ### `IKU` Value
@@ -315,26 +315,26 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 * 2nd priority to upgrade to clinical trial subject
 * Fees in `RST[x]`
 
-Establishing a profile on the IN provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RST[x]` as \[z%\] of all of the `RSTCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for running and participating in the Network. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
+Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RSM[x]` as \[z%\] of all of the `RSMCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
 
-### `RST[x]` Value
+### `RSM[x]` Value
 
-An `RST[x]` is the memory of a R&D initiative.  The memory carries pro-rata digital rights to its specific research initiative \(clinical trials, etc.\) and such rights are cryptographically maintained.  Value in the `RST[x]` token can be ascribed to the following:
+An `RSM[x]` is the memory of a R&D initiative.  The memory carries the copyright to R&D data sets, pro-rata specific to that research initiative (clinical trials, etc.\) and such rights are cryptographically maintained.  Value in the `RSM[x]` token can be ascribed to the following:
 
+* Access and contribute to the `RST[x]` sub-network with possession of a minimum, predetermined `RST[x]` threshold. 
 * `permissionlessLicense` smart contract
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
-* Access and contribute to the `RST[x]` sub-network with possession of a minimum, predetermined `RST[x]` threshold. 
 
-A transaction involving `RST[x]` memory is the cryptographic validation of rights transfer to `RST[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of both proof of the data's existence and rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `RST[x]` Holders in their sub-network on a regular basis, in which `RST[x]` holders will have ability to contribute to the sub-network to:
+A transaction involving `RSM[x]` is the cryptographic validation of rights transfer to access the sub-network and `RSM[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `RSM[x]` Holders in their sub-network on a regular basis, in which `RST[x]` holders will have ability to contribute to the sub-network to:
 
 * \(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\), based on reputation.
 * \(ii\) Provide reputation scores to fellow `RST[x]` holders and the R&D team.
 * \(iii\) Interact and work with the sub-network through `devTools`.
 
-A `RST[x]` sub-network, may capitalize on the copyright data exclusivity periods.  In addition, `RST[x]` holders may pursue patent protection for inventions developed based on IN funded research, together as a sub-network as owned by `RST[x]` holders, but patents may not be used in the Network. 
+A `RSM[x]` sub-network, may capitalize on the copyright data exclusivity periods.  In addition, `RSM[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `RSM[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
 
-The `RST[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `RST[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `RST[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `RST[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
+The `RSM[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `RSM[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `RSM[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `RSM[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
 
 `RST[x]`** Smart Contract**
 
@@ -343,12 +343,12 @@ pragma solidity ^0.4.18;
 
 import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
- contract ResearchSpecificToken is MintableToken {
+ contract ResearchSpecificMemory is MintableToken {
     uint8 public  decimals;
     string public  name;
     string public  symbol;
 
-    function ResearchSpecificToken(
+    function ResearchSpecificMemory(
         uint8 _decimalUnits,
         string _tokenName,
         string _tokenSymbol
@@ -362,7 +362,7 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 ### Burning
 
-IKU aligns its burning strategy with the creation of `RST[x]`, where a % of `IKU` tokens contributed to a specific `RST[x]` are burned from the IKU Reserve. The same % of the specific `RST[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
+IKU aligns its burning strategy with the creation of `RSM[x]`, where a % of `IKU` tokens contributed to a specific `RSM[x]` are burned from the IKU Reserve. The same % of the specific `RSM[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
 
 * A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an `RFP` for the `researchTarget` of which the IN accepts and an associated `RSTCrowdsale` commences. The `RSTCrowdsale` is successful and the associated `RST[x]` sub-network Levodopa Trials - Cure Parkinson’s is created. \[y%\] of the total contributed IKU tokens are burned from the IKU Network Reserve pool and `RST[x]` are distributed to `IKU` Token holders pro-rata based on IKU holdings.
 
@@ -370,7 +370,7 @@ IKU aligns its burning strategy with the creation of `RST[x]`, where a % of `IKU
 
 ### The `RST[x]` `permissionlessLicense`
 
- The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic assets (not just limited to biotech). Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic copyright license to the `RST[x]` sub-network memory. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding `RST[x]`. 
+ The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic assets (not just limited to biotech). Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic copyright license to the `RSM[x]` sub-network memory. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding `RSM[x]`. 
 
 The party who holds the private key to such Ethereum address now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for the memory and its corresponding license and therefore `RST[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `RST[x]` threshold.
 
@@ -385,33 +385,33 @@ In the Rapamycin example, the new data package (formulation + clinical trials) c
 Licensees will be in the form of either (i) a third party that acquires a certain threshold of memory aka `RST[x]`, engaging the `permissionlessLicense` protocol as described below, or (ii) the `RST[x]` sub-network. 
 
 
-The Network will provide a standard `permissionlessLicense` with drop down variables such as territory, `RST[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen - enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
+The Network will provide a standard `permissionlessLicense` with drop down variables such as territory, `RSM[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen - enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
 
 
 ### The IKU Reserve
 
-The IKU foundation will maintain its assets as necessary for incentivizing VR peer review, liquidity and community bounties in both software and bio R&D.  Resources may be stored in an Ethereum MultiSigWallet: \([https://github.com/Gnosis/MultiSigWallet](https://github.com/Gnosis/MultiSigWallet)\) which is built on top of ConsenSys Ethereum MultiSigWallet \([https://github.com/ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet)\).\] All foundation transactions and bounties will be public, enabling anyone to see the state of the Network in real time.
+The IKU foundation will maintain its assets as necessary for incentivizing VR peer review, liquidity and community bounties in both software and bio R&D.  Resources may be stored in an Ethereum MultiSigWallet: \([https://github.com/Gnosis/MultiSigWallet](https://github.com/Gnosis/MultiSigWallet)\) which is built on top of ConsenSys Ethereum MultiSigWallet \([https://github.com/ConsenSys/MultiSigWallet](https://github.com/ConsenSys/MultiSigWallet)\).\] All foundation transactions and bounties will be public.
 
 ### Future Development
 
-Additional IN features are expected to be developed and/or integrated based on IKU decision making to further enable bio R&D efficiency, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs \(e.g., PubMed, IP Databases\). This will improve workflow efficiency and thus lead to enhanced platform performance.
+Additional features are expected to be developed to further efficiencies, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs \(e.g., PubMed, IP Databases\). This will improve workflow efficiency and thus lead to enhanced platform performance.
 
-As to specific anticipated service components, dependent on IKU token holder decision making, a software bounty may be deployed for `RST[i]` bundling, `i` representing the number of `RST[x]` bundled, as stated below:
+As to specific anticipated service components, a software bounty may be deployed for `RSM[i]` bundling, `i` representing the number of `RSM[x]` bundled, as stated below:
 
 Bundling may serve to enable various bio R&D assets to mitigate economic and scientific risk exposure as well as provide horizontal, or vertical licensed research collaboration. As opposed to a traditional centralized corporation, the `RST[i]` bundle lowers the cost of both trust and risk.
 
 How to bundle:
 
-* Declare `RST[x]` eligible to bundle with `i-1` in the `RFP`, during token sale, or later point in time
-* Declare `RST[x]` seeking bundle
+* Declare `RSM[x]` eligible to bundle with `i-1` in the `RFP`, or later point in time
+* Declare `RSM[x]` seeking bundle
 
-All IN R&D initiatives would have the option to actively bundle `RST[x]` into `RST[i]`, or allow for `RST[i]` to choose to bundle with an `RST[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`RST[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
+All Network R&D initiatives would have the option to actively bundle `RSM[x]` into `RSM[i]`, or allow for `RSM[i]` to choose to bundle with an `RSM[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`RST[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk through the ability to algorithmically bond with each other thru smart contract.
 
 ## Conclusion
 
-IKU will serve to enable unprecedented global creation and deployment of resources for safe and impactful clinical trial research. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant bio innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the IN to be a critical infrastructure piece to spark and launch the entire system of digital R&D rights. This is the fundamental intention and the essence of the IN.
+IKU will serve to enable unprecedented global creation and deployment of resources for safe and impactful clinical trial research. Decentralizing resource allocation and asset transactions allows for increased transparency of market activity which is expected to lead to significant bio innovation in the near future. The foregoing working draft has sketched a paradigmatically novel vision of the structural and organizational means by which this can dramatically increase the reward for efficient R&D, reduce the risk of failure, all the while enabling global, decentralized liquidity. We expect the Network to be a critical infrastructure piece to spark and launch the entire system of digital R&D rights. This is the fundamental intention and the essence of the IKU.
 
 ## Footnotes
 
