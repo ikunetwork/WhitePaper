@@ -238,7 +238,7 @@ Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \
 
 Upon `RSMCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
 
-1. A `RSM[x]` sub-network is created in which `RSM[x]` holders hold digital rights based in memory 
+1. A `RSM[x]` sub-network is created in which `RSM[x]` holders hold digital keys based in memory 
 2. All `RSM[x]` Holders will be able to participate in their respective `RSTM[x]` sub-network and work with the R&D team to achieve the mission of the proposal, e.g. complete clinical trials for _____________
 3. \[y%\] of the funds will be released to the R&D team,
 4. IKU Token Holders earn `RSM[x]` as described below under ** Fees and the Network Digital Wallet**.
@@ -302,7 +302,7 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 The IN creates two classes of native tokens:
 
 * `IKU`: Serves as bandwidth for the Network to go.  By registering bandwidth, the computational pipeline can process clinical trial proposals while `IKU` holders also have software license to access  and mediate participation in the Network.  The supply of IKU is finite.
-* `RSM`: The Research Specific Memory serves as memory of copyright ownership for an R&D initiative it was specifically created to capitalize, as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `RSM[x]` bundles, `RSM[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RSM[x]` bundled.  
+* `RSM`: The Research Specific Memory serves as memory keys.  If a certain amount of memory keys are registered to one address, that private key can unlock a copyright license to the R&D data set - `permissionlessLicense` (more below); as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `RSM[x]` bundles, `RSM[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RSM[x]` bundled.  
 
 `IKU` and `RSM[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
 
@@ -319,20 +319,20 @@ Establishing a profile on the Network provides access to the Network Digital Wal
 
 ### `RSM[x]` Value
 
-An `RSM[x]` is the memory of a R&D initiative.  The memory carries the copyright to R&D data sets, pro-rata specific to that research initiative (clinical trials, etc.\) and such rights are cryptographically maintained.  Value in the `RSM[x]` token can be ascribed to the following:
+An `RSM[x]` is the memory of a R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.\) and such rights are cryptographically maintained.  Value in the `RSM[x]` token can be ascribed to the following:
 
 * Access and contribute to the `RST[x]` sub-network with possession of a minimum, predetermined `RST[x]` threshold. 
 * `permissionlessLicense` smart contract
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
 
-A transaction involving `RSM[x]` is the cryptographic validation of rights transfer to access the sub-network and `RSM[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `RSM[x]` Holders in their sub-network on a regular basis, in which `RST[x]` holders will have ability to contribute to the sub-network to:
+A transaction involving `RSM[x]` is the cryptographic validation of keys to (i) access the sub-network and (ii) `RSM[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `RSM[x]` Holders in their sub-network on a regular basis, in which `RST[x]` holders will have ability for contributing in the sub-network to:
 
 * \(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\), based on reputation.
 * \(ii\) Provide reputation scores to fellow `RST[x]` holders and the R&D team.
 * \(iii\) Interact and work with the sub-network through `devTools`.
 
-A `RSM[x]` sub-network, may capitalize on the copyright data exclusivity periods.  In addition, `RSM[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `RSM[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
+A `RSM[x]` sub-network may capitalize on the copyright data exclusivity periods the keys provide access to.  In addition, `RSM[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `RSM[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
 
 The `RSM[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `RSM[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `RSM[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `RSM[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
 
@@ -370,22 +370,19 @@ IKU aligns its burning strategy with the creation of `RSM[x]`, where a % of `IKU
 
 ### The `RST[x]` `permissionlessLicense`
 
- The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic assets (not just limited to biotech). Acquisition of a certain threshold of cryptographic assets - a token supply number which is predetermined at the time of the `RFP` creation - triggers an automatic copyright license to the `RSM[x]` sub-network memory. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. In IKU's case, a `permissionlessLicense` would be granted upon a certain Ethereum address holding z% of outstanding `RSM[x]`. 
+ The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic memory keys (not just limited to biotech). Registration of a certain threshold of cryptographic memory keys - a number which is predetermined at the time of the `RFP` creation - unlocks a copyright license to the `RSM[x]` sub-network memory. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. 
 
-The party who holds the private key to such Ethereum address now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for the memory and its corresponding license and therefore `RST[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `RST[x]` threshold.
+The party who registers the threshold of private keys now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for its respective memory and therefore `RSM[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `RSM[x]` memory threshold.
 
 For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  Figure [x] provides a visual
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Data%20Stack%203.png)
 
-In the Rapamycin example, the new data package (formulation + clinical trials) can be hashed and its copyright tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by acquiring a certain threshold of `RAP-I` token, and utilized in a data package for potential approval. Figure [x] provides a visual
+In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. Figure [x] provides a visual
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Abacus%20Updated%202.png)
 
-Licensees will be in the form of either (i) a third party that acquires a certain threshold of memory aka `RST[x]`, engaging the `permissionlessLicense` protocol as described below, or (ii) the `RST[x]` sub-network. 
-
-
-The Network will provide a standard `permissionlessLicense` with drop down variables such as territory, `RSM[x]` license threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen - enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
+The Network will provide a standard `permissionlessLicense` with drop down variables such as territory, registration threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen - enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
 
 
 ### The IKU Reserve
