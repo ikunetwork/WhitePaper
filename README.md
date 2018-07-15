@@ -189,10 +189,10 @@ Participants will access the IN through a `devTools` integrated interface. The `
 * Upvote
 * Share
 * Comment
-* Peer Review/Library Exchange
+* Peer Review/Computational Pipeline
 * Upgrade to clinical trial subject 
 
-Friends, messaging, and upvote access will require an Network profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the Network. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
+Friends, messaging, and upvote access will require an Network profile, but will not require holding IKU in the Network Digital Wallet NDW - allowing anyone to use the Network. This type of access is classified as `devTools A`. RFP submissions, comments, peer review, reputation scoring, powering the computational pipeline and upgrading to clinical trial subject will require an IN profile AND holding at least 1 IKU in the NDW - `devTools B`.
 
 ### IKU Network Participants
 
@@ -301,7 +301,7 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 
 The IN creates two classes of native tokens:
 
-* `IKU`: Serves as bandwidth for the Network to run.  By registering bandwidth, `IKU` holders have software license to access  and mediate participation in the Network.  The supply of IKU is finite.
+* `IKU`: Serves as bandwidth for the Network to go.  By registering bandwidth, the computational pipeline can process clinical trial proposers while `IKU` holders also have software license to access  and mediate participation in the Network.  The supply of IKU is finite.
 * `RSM`: The Research Specific Memory serves as memory of copyright ownership for an R&D initiative it was specifically created to capitalize, as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `RSM[x]` bundles, `RSM[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RSM[x]` bundled.  
 
 `IKU` and `RSM[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
