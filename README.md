@@ -123,9 +123,9 @@ Once a smart contract is set in motion, the blockchain is utilized to serve as a
 
 IKU leverages blockchain based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as memory and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing pure provenance of intellectual property rights and the current state of IKU.  See Figure D below
 
-**Figure D: IKU Smart Contracts**
+**Figure D: IKU Smart Contracts & IPFS**
 
-![IPFS](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-IPFS-Smart-Contract.png)
+![IKU Smart Contract & IPFS](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-IPFS-Smart-Contract.png)
 
 
 All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license will be granted upon acquisition of a certain threshold of memory tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
@@ -138,9 +138,9 @@ This allows for research and clinical trial data to be directly monetized, as op
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
-**Figure E: Industry v. IKU**
+**Figure E: IKU vs. Currenty Industry**
 
-![IKU Scales at Low Cost](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Infrastructure%20Industry%20Comparison.png)
+![IKU vs. Currenty Industry](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Current-Industry.png)
 
 
 ### Why IKU?
