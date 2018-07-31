@@ -12,7 +12,7 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 1. [Introduction](#introduction)
    1. [Problem Statement](#problem-statement)
-   1.1 [Rediscovery Forgotten](#rrediscovery-forgotten)
+   1.1 [Rediscovery Forgotten](#rediscovery-forgotten)
    1.2 [Copyright, not Patent](#copyright-,-not-patent)
 2. [IKU Approach](#iku-approach)
    1. [How](#how)
