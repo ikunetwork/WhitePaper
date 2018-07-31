@@ -65,23 +65,19 @@ Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing
 
 The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[9](#f9)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[10](#f10)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
 
-**Rediscovery**
+**Forgotten Research - Rediscovery**
+
+Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[18](#f18)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[19](#f19)</sup> Generic medicines are built on the same active ingredients as their previously patented version.<sup>[20](#f20)</sup> . By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[21](#f21)</sup> Rediscovery is a preferred method amongst many high end scientists including Nobel Laureates:
 
 _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.   
-
-Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[18](#f18)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[19](#f19)</sup> Generic medicines are built on the same active ingredients as their previously patented version.<sup>[20](#f20)</sup> . By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[21](#f21)</sup> Rediscovery is a preferred method amonst many high end scientists including Nobel Laureates:
    
 Rediscovery can take the form of new formulations or patient populations and clinical trials can commence for as little as $5 million, and require only a few years for approval, as opposed to ~15 years for NME.<sup>[22](#f22)</sup> How? eliminating significant time and cost spent replicating studies.  Because the drug has already proven to be safe, it can get directly into Ph. II clinical trials (efficacy) - potentially approved thereafter on just this one trial. <sup>[23](#f23)</sup>.  In addition,  rediscovery has a 30% FDA approval rate for drug rediscovery vs. < 1%  approval rate for NME upon being discovered in the lab.<sup>[24](#f24)</sup>  
 
 Rediscovery has lacked economic incentive for development because of the patent landscape.  IKU is designed to change this, providing the direct economic incentive for rediscovery (more below).  To further prove the rediscovery research model: as per a recently published rediscovery trial presented at the premier cancer research conference worldwide (ASCO), as covered by Forbes, the biggest surprise of the whole conference was the effect of Metformin, a generic diabetes drug, rediscovered for treatment against lung cancer.  
-
-**To quote Forbes:**
    
-  "Biggest Surprise: Metformin
+*Biggest Surprise: Metformin*
 
-Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's."  <sup>[25](#f25)</sup>
-
-Compound these facts with the 21st Century Cures Act becoming law in the U.S. in late 2016.  The law calls for using "real world evidence" to determine the true efficacy of biotechnology.<sup>[26](#f26)</sup>   In 2016, 5 treatments were approved by the U.S. FDA on one efficacy clinical trial alone and in 2017, 19 treatments were approved on one clinical trial (for efficacy) - an all time record.<sup>[27](#f27)</sup>   This is the most efficient time in history to engage bio R&D.<sup>[28](#f28)</sup>   
+*Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[25](#f25)</sup> 
 
 ### Copyrights v. Patents
 
