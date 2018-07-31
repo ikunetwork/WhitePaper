@@ -81,7 +81,7 @@ Rediscovery has lacked economic incentive for development because of the patent 
 
 *Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[25](#f25)</sup> 
 
-### Copyright vs.Patent
+### Copyright vs. Patent
 
 Historically, by the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[29](#f29)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[30](#f30)</sup> Copyrights occur upon when research data is put in writing - registration is not necessary.  Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[31](#f31)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[32](#f32)</sup>   
 
@@ -97,7 +97,7 @@ We anticipate these efficiencies allow for longevity escape velocity — the poi
 
 ### The IKU Model
 
-IKU provides the infrastructure for a liquid, bio R&D network to advance productivity by orders of magnitude. The IKU Network (the "Network") will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on a blockchain. Consider IKU as the Manhattan Project for R&D efficiency, with Figure C contextualizing its benefits:
+IKU provides the infrastructure for a liquid, bio R&D network to advance productivity by orders of magnitude. The IKU Network (the "Network") will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on a blockchain. Figure C contextualizes IKU's benefits:
 
 **Figure C: Existing R&D Models**
 
