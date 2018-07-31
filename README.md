@@ -12,16 +12,16 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 1. [Introduction](#introduction)
    1. [Problem Statement](#problem-statement)
-   1.1 [Rediscovery: An Addressable Market](#rediscovery-:-an-addressable-market)
-   3. [Copyrights, Prefferable to Patents](#
-   2. [IKU Approach](#iku-approach)
-   3. [How](#how)
-   4. [What are Smart Contracts?](#what-are-smart-contracts-?)
-   5. [Why IKU?](#why-IKU)
-   6. [What about Patents?](#what-about-patents?)
-   7. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
-   8. [Token and License](#token-and-license)
-   9. [The IKU Network](#the-IKU-network)
+   1.1 [Rediscovery Forgotten](#rrediscovery-forgotten)
+   1.2 [Copyright, not Patent](#copyright-,-not-patent)
+2. [IKU Approach](#iku-approach)
+   1. [How](#how)
+   2. [What are Smart Contracts?](#what-are-smart-contracts-?)
+   3. [Why IKU?](#why-IKU)
+   4. [What about Patents?](#what-about-patents?)
+   5. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
+   6. [Token and License](#token-and-license)
+   7. [The IKU Network](#the-IKU-network)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
    2. [Dev Tools](#dev-tools)
@@ -67,7 +67,7 @@ Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing
 
 The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[9](#f9)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[10](#f10)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
 
-### Rediscovery: An Addressable Market
+### Rediscovery Forgotten
 
 Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[18](#f18)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[19](#f19)</sup> Generic medicines are built on the same active ingredients as their previously patented version.<sup>[20](#f20)</sup> . By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[21](#f21)</sup> Rediscovery is a preferred method amongst many high end scientists including Nobel Laureates:
 
@@ -81,7 +81,7 @@ Rediscovery has lacked economic incentive for development because of the patent 
 
 *Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[25](#f25)</sup> 
 
-### Copyrights, Preferrable to Patents
+### Copyrights, not Patent
 
 Historically, by the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[29](#f29)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[30](#f30)</sup> Copyrights occur upon when research data is put in writing - registration is not necessary.  Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[31](#f31)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[32](#f32)</sup>   
 
