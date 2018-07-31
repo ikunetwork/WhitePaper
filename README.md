@@ -10,9 +10,9 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 ## Table of Contents
 
-**1. [Introduction]**(#introduction)
+1. [Introduction](#introduction)
    1. [Problem Statement](#problem-statement)
-   2. [Rediscovery: An Addressable Market](#rediscovery-:-an-addressable-market)
+   1.1 [Rediscovery: An Addressable Market](#rediscovery-:-an-addressable-market)
    3. [Copyrights, Prefferable to Patents](#
    2. [IKU Approach](#iku-approach)
    3. [How](#how)
