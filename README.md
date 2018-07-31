@@ -10,8 +10,10 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+***1. [Introduction]***(#introduction)
    1. [Problem Statement](#problem-statement)
+   2. [Rediscovery: An Addressable Market](#rediscovery-:-an-addressable-market)
+   3. [Copyrights, Prefferable to Patents](#
    2. [IKU Approach](#iku-approach)
    3. [How](#how)
    4. [What are Smart Contracts?](#what-are-smart-contracts-?)
@@ -65,7 +67,7 @@ Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing
 
 The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[9](#f9)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[10](#f10)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
 
-**Forgotten Research - Rediscovery**
+### Rediscovery: An Addressable Market
 
 Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[18](#f18)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[19](#f19)</sup> Generic medicines are built on the same active ingredients as their previously patented version.<sup>[20](#f20)</sup> . By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[21](#f21)</sup> Rediscovery is a preferred method amongst many high end scientists including Nobel Laureates:
 
@@ -79,7 +81,7 @@ Rediscovery has lacked economic incentive for development because of the patent 
 
 *Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[25](#f25)</sup> 
 
-### Copyrights v. Patents
+### Copyrights, Preferrable to Patents
 
 Historically, by the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[29](#f29)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[30](#f30)</sup> Copyrights occur upon when research data is put in writing - registration is not necessary.  Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[31](#f31)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[32](#f32)</sup>   
 
@@ -89,7 +91,7 @@ A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EM
 * Asia: up to ~10 years
 * U.S.: up to 12 years<sup>[36](#f36)</sup>
 
-IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success.  Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.
+IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies. In short, patents stifle innovation. Copyrights do not. 
 
 [insert comparison chart?]
 
