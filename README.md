@@ -125,7 +125,7 @@ IKU leverages blockchain based smart contracts to transact in digital R&D assets
 
 **Figure D: IKU Smart Contracts**
 
-![IPFS](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20IPFS%20SMART%20K_Updated.png)
+![IPFS](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-IPFS-Smart-Contract.png)
 
 
 All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license will be granted upon acquisition of a certain threshold of memory tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
