@@ -13,8 +13,8 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 1. [Introduction](#introduction)
    1. [Problem Statement](#problem-statement)
    1.1 [Rediscovery Forgotten](#rediscovery-forgotten)
-   1.2 [Copyright, not Patent](#copyright-,-not-patent)
-2. [IKU Approach](#iku-approach)
+   1.2 [Copyright vs. Patent](#copyright-not-patent)
+2. [The IKU Model](#the-iku-model)
    1. [How](#how)
    2. [What are Smart Contracts?](#what-are-smart-contracts-?)
    3. [Why IKU?](#why-IKU)
@@ -81,7 +81,7 @@ Rediscovery has lacked economic incentive for development because of the patent 
 
 *Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[25](#f25)</sup> 
 
-### Copyrights, not Patent
+### Copyright vs.Patent
 
 Historically, by the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[29](#f29)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[30](#f30)</sup> Copyrights occur upon when research data is put in writing - registration is not necessary.  Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[31](#f31)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[32](#f32)</sup>   
 
@@ -91,13 +91,11 @@ A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EM
 * Asia: up to ~10 years
 * U.S.: up to 12 years<sup>[36](#f36)</sup>
 
-IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated.  By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies. In short, patents stifle innovation. Copyrights do not. 
+IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated. By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies. In short, patents stifle innovation. Copyrights do not. 
 
-[insert comparison chart?]
+We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
-We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.   The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
-
-### The IKU Approach: A Fat Protocol for Digital Rights
+### The IKU Model
 
 IKU provides the infrastructure for a liquid, bio R&D network to advance productivity by orders of magnitude. The IKU Network (the "Network") will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on a blockchain. Consider IKU as the Manhattan Project for R&D efficiency, with Figure C contextualizing its benefits:
 
