@@ -280,9 +280,9 @@ contract RSMCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 
 The following sequence of events illustrate the IKU Network utility to facilitate global capital formation and trade for R&D:
 
-**Figure G : IKU Network Utility**
+**Figure F : IKU Network Utility**
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/iku%20utility%20true.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Network-Utility%202.png)
 
 The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  The most scientifically valuable R&D would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - through frictionless access to rich pools of data.<sup>[32](#f32)</sup [SRS]>   Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`. Through this utility, IKU serves to achieve open prediction-like markets for biotech research - created and traded in a fungible, digital and liquid fashion.
 
@@ -364,13 +364,15 @@ IKU aligns its burning strategy with the creation of `RSM[x]`, where a % of `IKU
 
 The party who registers the threshold of private keys now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for its respective memory and therefore `RSM[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `RSM[x]` memory threshold.
 
-For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  Figure [x] provides a visual
+For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure G:
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Data%20Stack%203.png)
+**Figure G: Rapamycin License Data Stack
 
-In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. Figure [x] provides a visual
+![IRapamycin License Data Stack](https://github.com/ikunetwork/WhitePaper/raw/master/RAP-License-Data-Stack.png)
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/blob/master/IKU%20Abacus%20Updated%202.png)
+In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. Figure G provides a visual
+
+![LIC RAP Market](https://github.com/ikunetwork/WhitePaper/raw/master/LIC-RAP-Market.png)
 
 The Network will provide a standard `permissionlessLicense` with drop down variables such as territory, registration threshold, required efforts for good faith development \(e.g. Phase II clincal trial commence in 6 months\), amongst others. This will enable proposers to click through, filling in variables at their discretion, likely dramatically reducing the need for negotiation, lawyers and other middlemen - enabling an open streamlined licensing process. In addition, parties will have the opportunity to provide their own customized license, subject to market demand.  
 
