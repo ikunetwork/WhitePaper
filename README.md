@@ -366,11 +366,13 @@ The party who registers the threshold of private keys now has a license to utili
 
 For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure G:
 
-**Figure G: Rapamycin License Data Stack
+**Figure G: Rapamycin License Data Stack**
 
 ![IRapamycin License Data Stack](https://github.com/ikunetwork/WhitePaper/raw/master/RAP-License-Data-Stack.png)
 
-In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. Figure G provides a visual
+In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. See figure H:
+
+**Figure H: LIC RAP MArket**
 
 ![LIC RAP Market](https://github.com/ikunetwork/WhitePaper/raw/master/LIC-RAP-Market.png)
 
