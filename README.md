@@ -302,7 +302,7 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 
 Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `LIC[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `LIC[x]` as \[z%\] of all of the `LICCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
 
-### `LIC[x]` Value
+### `LIC` Value
 
 An `LIC[x]` is the license bandwidth of an R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.) and such rights are cryptographically maintained.  Value in the `LIC[x]` token can be ascribed to the following:
 
