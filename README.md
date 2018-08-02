@@ -17,11 +17,10 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 2. [The IKU Model](#the-iku-model)
    1. [How](#how)
    2. [Smart Contracts](#smart-contracts)
-   3. [Why IKU?](#why-iku)
-   4. [What about Patents?](#what-about-patents)
-   5. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
-   6. [Token and License](#token-and-license)
-   7. [The IKU Network](#the-IKU-network)
+   3. [Direct Monetization of Research](#direct-monetization-of-research)
+   4. [Why IKU?](#why-iku)
+   5. [Token and License](#token-and-license)
+   6. [The IKU Network](#the-IKU-network)
 2. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-targets)
    2. [Dev Tools](#dev-tools)
@@ -59,7 +58,7 @@ This model has proven to be very inefficient as pharma’s internal rate of retu
 
  ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
 
-Compound this with pharma R&D spend never outpacing non-R&D spend i.e. marketing, etc. in any given year since ~1990.<sup>[7](#f7)</sup> We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[8](#f8)</sup>) See Figure B:
+Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[41](#f41)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[8](#f8)</sup>) See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
@@ -95,7 +94,7 @@ IKU is designed to directly monetize biotech research data, regardless of patent
 
 We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
-### The IKU Model
+## The IKU Model
 
 IKU provides the infrastructure for a liquid, bio R&D network to advance productivity by orders of magnitude. The IKU Network (the "Network") will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on a blockchain. Figure C contextualizes IKU's benefits:
 
@@ -115,9 +114,7 @@ Smart contracts are agreements with super powers, as they provide a deterministi
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[38](#f38)</sup> Ultimately, overhead is reduced, trust improves, and efficiency increases with no third party necessary for escrow.<sup>[39](#f39)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
-### Direct Monetization of Research Data
-
-IKU leverages blockchain based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU.  See Figure D below
+IKU leverages blockchain-based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU.  See Figure D below
 
 **Figure D: IKU Smart Contracts & IPFS**
 
@@ -126,7 +123,9 @@ IKU leverages blockchain based smart contracts to transact in digital R&D assets
 
 All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license is granted through the proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
 
-This allows for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
+### Direct Monetization of Research Data
+
+Smarts contracts bypass the middle man, allowing for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
 
 \(i\) researchers and other learned persons to maximize scientific objectives by directly engaging p2p markets, 
 \(ii\) anyone with internet access to participate and 
@@ -145,9 +144,7 @@ IKU allows for multilateral transparency and programmatic settlement for value e
 
 The Network will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The Network aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
-**Liquidity**
-
-Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[41](#f41)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), the License Token `LIC[x]`. `IKU` represents the bandwidth that powers then Network and `LIC[x]` is the memory of the R&D data. Both `IKU` and `LIC[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
+IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), the License Token `LIC[x]`. `IKU` represents the bandwidth that powers then Network and `LIC[x]` is the memory of the R&D data. Both `IKU` and `LIC[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
 
 ### The IKU Network
 
