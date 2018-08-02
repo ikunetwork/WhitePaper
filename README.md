@@ -32,9 +32,8 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
    2. [`LIC` Value](#lic-value)
    5. [Burning](#burning)
    6. [The `LIC[x] permissionlessLicense`](#the-lic[x]-permissionlessLicense)
-   7. [Decentralized Key Management System](#decentralized-key-management-system)
-   8. [The `IKU` Reserve](#the-iku-reserve)
-   9. [Future Development](#future-development)
+   7. [The `IKU` Reserve](#the-iku-reserve)
+   8. [Future Development](#future-development)
 4. [Conclusion](./#conclusion)
 
 ## Introduction
