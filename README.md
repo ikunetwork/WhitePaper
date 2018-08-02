@@ -108,7 +108,7 @@ IKU reinvents bio R&D through tokenization, providing transparent and open marke
 
 ### Smart Contracts
 
-Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: \(i\) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction \; \(ii\) an automatism that is guaranteed to execute as it uses algorithms \(blockchain\) for enforcement, not a legal system; and \(iii\) binding.<sup>[37](#f37)</sup>
+Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: (i\ code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction; (ii) an automatism that is guaranteed to execute as it uses algorithms (blockchain) for enforcement, not a legal system; and (iii) binding.<sup>[37](#f37)</sup>
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[38](#f38)</sup> Ultimately, overhead is reduced, trust improves, and efficiency increases with no third party necessary for escrow.<sup>[39](#f39)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
@@ -123,11 +123,7 @@ All transactions will be public on the Ethereum blockchain incentivizing one rec
 
 ### Direct Monetization of Research
 
-Smarts contracts bypass the middle man, allowing for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
-
-\(i\) researchers and other learned persons to maximize scientific objectives by directly engaging p2p markets, 
-\(ii\) anyone with internet access to participate and 
-\(iii\) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. 
+Smarts contracts bypass the middle man, allowing for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing (i) researchers and other learned persons to maximize scientific objectives by directly engaging p2p markets, (ii) anyone with internet access to participate and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. 
 
 Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
@@ -222,9 +218,9 @@ Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \
 Upon `LICCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
 
 1. A `LIC[x]` sub-network is created in which `LIC[x]` holders hold digital keys 
-2. All `RLICx]` Holders will be able to participate in their respective `LIC[x]` sub-network and work with the R&D team to achieve the mission of the proposal, e.g. complete clinical trials for _____________
-3. \[y%\] of the funds will be released to the R&D team,
-4. IKU Token Holders earn `LIC[x]` as described below under ** Fees and the Network Digital Wallet**.
+2. All `LICx]` Holders will be able to participate in their respective `LIC[x]` sub-network and work with the R&D team to achieve the mission of the proposal, e.g. complete clinical trials for _____________
+3. [y%] of the funds will be released to the R&D team,
+4. IKU Token Holders earn `LIC[x]` as described below under **Fees and the Network Digital Wallet**.
 
 A `LIC[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials together by interacting and communicating through their sub-network with IKU infrastructure.
 
@@ -277,7 +273,7 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Network-Utility%202.png)
 
-The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  The most scientifically valuable R&D would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - through frictionless access to rich pools of data.<sup>[32](#f32)</sup [SRS]>   Mining data pool trends of various variables \(e.g. mechanism of action, general aging, at risk populations, etc.\) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`. Through this utility, IKU serves to achieve open prediction-like markets for biotech research - created and traded in a fungible, digital and liquid fashion.
+The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  The most scientifically valuable R&D would be expected to command greater market demand, incentivizing the uncovering and advancement of discovery, making R&D as a whole more efficient - through frictionless access to rich pools of data.<sup>[32](#f32)</sup[SRS]>  Mining data pool trends of various variables (e.g. mechanism of action, general aging, at risk populations, etc.) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`. Through this utility, IKU can serve to achieve open prediction-like markets for biotech research - created and traded in a fungible, digital and liquid fashion.
 
 
 ## Tokenization
