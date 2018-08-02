@@ -31,11 +31,11 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
    6. [The Library Exchange](./#the-library-exchange)
 3. [Tokenization](./#tokenization)
    1. [`IKU`](./#iku)
-   2. [`RST`](./#rst)
+   2. [`LIC`](./#rst)
    3. [`IKU` Value](./#iku-value)
-   4. [`RST[x]` Value](./#%60RST[x]%60-value)
+   4. [`LIC[x]` Value](./#%60LIC[x]%60-value)
    5. [Burning](./#burning)
-   6. [`The RST[x]` `permissionlessLicense`](./#the-rst[x]-permissionlessLicense)
+   6. [`The LIC[x]` `permissionlessLicense`](./#the-rst[x]-permissionlessLicense)
    7. [Decentralized Key Management System](./#decentralized-key-management-system)
    8. [The `IKU` Reserve](./#the-elixr-reserve)
    9. [Future Development](#future-development)
@@ -147,7 +147,7 @@ The Network will serve to attract R&D ideation through crowdsourced input from t
 
 **Liquidity**
 
-Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[41](#f41)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), Research Specific Memory `RSM[x]`. `IKU` represents the bandwidth that powers then Network and `RSM[x]` is the memory of the R&D data. Both `IKU` and `RSM[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
+Bio R&D markets remain non-liquid, silo'd and permissioned.<sup>[41](#f41)</sup> Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> IKU's output yields preclinical and clinical research data sets, open to any interested party globally, building the the basis for two related asset classes - \(i\) the IKU Network Token `IKU` and \(ii), the License Token `LIC[x]`. `IKU` represents the bandwidth that powers then Network and `LIC[x]` is the memory of the R&D data. Both `IKU` and `LIC[x]` collapse value and information into one, facilitating the liquid exchange of R&D.  
 
 ### The IKU Network
 
@@ -189,9 +189,9 @@ Friends, messaging, and upvote access will require an Network profile, but will 
 Below are the players in the IKU Network. They are not mutually exclusive:
 
 * `IKU`** Holder**: IKU token holder; can be an individual, institution, private company, etc. \(described further below\)
-* `RST[x]`** Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. \(described further below\)
+* `LIC[x]`** Holder**: Research Specific Token holder; can be an individual, institution, private company, etc. \(described further below\)
 * **VR**: Verified Researcher i.e. MD, PhD, etc. whose expertise is credentialed through the Network. The VR can propose and respond to  a `researchTarget`, vote on their viability and review proposals. He/she is fundamental to IKU peer review.  
-* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the Network and has the option to create a Network profile to access `devTools A`. The Network will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `RST[x]` sub-network initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
+* **ADV** Anonymous data viewer - the public, who can freely contribute a `researchTarget`, views projects on the Network and has the option to create a Network profile to access `devTools A`. The Network will make information ethically and publicly available as current clinical trial results are typically not open to the public - even though they are required to be.  In addition, all `LIC[x]` sub-network initiatives will post a gantt chart for how advanced their research initiative is as well as the research data they have generated on a quarterly basis.
 
 Participants will be subject to a `reputationScore`:
 
@@ -203,11 +203,11 @@ The Network will serve to produce requests for peer reviewed proposals `RFP` in 
 
 A proposal is required to consist of 
 
-\(i\) a principal investigator PI and/or Project Lead that leads the R&D team along with the `RST[x]` Holders that the PI and his/her team will have to answer to \(see below `RST[x]` value\), 
-\(ii\) how much capital is being raised and for what percentage of `RST[x]`, with proposers encouraged to not issue 100% of `RST[x]` to account for future capital requirements and 
+\(i\) a principal investigator PI and/or Project Lead that leads the R&D team along with the `LIC[x]` Holders that the PI and his/her team will have to answer to \(see below `LIC[x]` value\), 
+\(ii\) how much capital is being raised and for what percentage of `LIC[x]`, with proposers encouraged to not issue 100% of `LIC[x]` to account for future capital requirements and 
 \(iii\) the scientific justification of proposed R&D. 
 
-A standard `RST[x]` proposal template will be provided. Further value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `RST[x]`.<sup>[43](#f43)</sup> This leaves significant room for `RST[x]` value creativity.
+A standard `LIC[x]` proposal template will be provided. Further value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `LIC[x]`.<sup>[43](#f43)</sup> This leaves significant room for `LIC[x]` value creativity.
 
 Participants will use the `devTools` to peer review. The IN peer review process to score an `RFP` can be defined as a function:
 
@@ -222,23 +222,23 @@ Participants will use the `devTools` to peer review. The IN peer review process 
  
    ### A Computational Pipeline 
    
-The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.).  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas.    This can be done to create condition specific neural networks, e.g. small molecules for inhibiting Dbr-1  in ALS.  Participants are incentivized to peer review `RFP` and `Jonas` proposals to earn fees \(more on fees below\) from the Network in the form of `ETH`, and `RSM` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines.
+The RFP model is just the beginning.   Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU will serve to provide an open machine learned clinical trial proposer, named `Jonas` (after Jonas Salk - responsible for the largest clinical trial in human history, Polio Vaccine) based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, etc.).  Jonas will help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals from Jonas.    This can be done to create condition specific neural networks, e.g. small molecules for inhibiting Dbr-1  in ALS.  Participants are incentivized to peer review `RFP` and `Jonas` proposals to earn fees \(more on fees below\) from the Network in the form of `ETH`, and `LIC` - encouraging and incentivizing the most promising R&D initiatives to be capitalized.  The IKU data mining architecture is designed “stand on the shoulders” of the computational analysis that has been completed to date to provide highly predictive, robust R&D pipelines.
 
-Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `RSM[x]` - An ERC20 token representing the memory to specific research and \(ii\) `RSMCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `RSM[x]` and in exchange send tokens to contributors.
+Upon `s` > `r`, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `LIC[x]` - An ERC20 token representing the memory to specific research and \(ii\) `LICCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `LIC[x]` and in exchange send tokens to contributors.
 
-Upon `RSMCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
+Upon `LICCrowdsale[x]` achieving its softcap - minimum ETH required to achieve milestone:
 
-1. A `RSM[x]` sub-network is created in which `RSM[x]` holders hold digital keys based in memory 
-2. All `RSM[x]` Holders will be able to participate in their respective `RSTM[x]` sub-network and work with the R&D team to achieve the mission of the proposal, e.g. complete clinical trials for _____________
+1. A `LIC[x]` sub-network is created in which `LIC[x]` holders hold digital keys based in memory 
+2. All `RLICx]` Holders will be able to participate in their respective `LIC[x]` sub-network and work with the R&D team to achieve the mission of the proposal, e.g. complete clinical trials for _____________
 3. \[y%\] of the funds will be released to the R&D team,
-4. IKU Token Holders earn `RSM[x]` as described below under ** Fees and the Network Digital Wallet**.
+4. IKU Token Holders earn `LIC[x]` as described below under ** Fees and the Network Digital Wallet**.
 
-A `RSM[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials together by interacting and communicating through their sub-network with IKU infrastructure.
+A `LIC[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials together by interacting and communicating through their sub-network with IKU infrastructure.
 
-Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider.  All capital resources are to be allocated purely towards R&D.  In addition, prior to initiating a clinical trial, `RST[x]` R&D team will be responsible for ensuring ethical research compliance through an institutional review board.
+Funds released to the R&D team in BTC and ETH can be converted to fiat, through a trusted third party crypto to fiat provider.  All capital resources are to be allocated purely towards R&D.  In addition, prior to initiating a clinical trial, `LIC[x]` R&D team will be responsible for ensuring ethical research compliance through an institutional review board.
 
 
-**Smart contract code for **`RSMCrowdsale`
+**Smart contract code for **`LICCrowdsale`
 
 ```text
 pragma solidity ^0.4.18;
@@ -249,10 +249,10 @@ import 'zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol';
 import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 
-contract RSMCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
+contract LICCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 
 
-  function RSMCrowdsale(
+  function LICCrowdsale(
     uint256 _openingTime, 
     uint256 _closingTime, 
     uint256 _rate, 
@@ -292,9 +292,9 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 The IN creates two classes of native tokens:
 
 * `IKU`: Serves as bandwidth for the Network to go.  By registering bandwidth, the computational pipeline can process clinical trial proposals while `IKU` holders also have software license to access  and mediate participation in the Network.  The supply of IKU is finite.
-* `RSM`: The Research Specific Memory serves as memory keys.  If a certain amount of memory keys are registered to one address, that private key can unlock a copyright license to the R&D data set - `permissionlessLicense` (more below); as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `RSM[x]` bundles, `RSM[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `RSM[x]` bundled.  
+* `LIC`: The Research Specific Memory serves as memory keys.  If a certain amount of memory keys are registered to one address, that private key can unlock a copyright license to the R&D data set - `permissionlessLicense` (more below); as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `LIC[x]` bundles, `LIC[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `LIC[x]` bundled.  
 
-`IKU` and `RSM[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
+`IKU` and `LIC[x]` token holders will retain custody , with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
 
 
 ### `IKU` Value
@@ -303,30 +303,30 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 
 * `devTools B`
 * 2nd priority to upgrade to clinical trial subject
-* Fees in `RST[x]`
+* Fees in `LIC[x]`
 
-Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `RST[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `RSM[x]` as \[z%\] of all of the `RSMCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
+Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `LIC[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `LIC[x]` as \[z%\] of all of the `LICCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
 
-### `RSM[x]` Value
+### `LIC[x]` Value
 
-An `RSM[x]` is the memory of a R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.\) and such rights are cryptographically maintained.  Value in the `RSM[x]` token can be ascribed to the following:
+An `LIC[x]` is the memory of a R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.\) and such rights are cryptographically maintained.  Value in the `LIC[x]` token can be ascribed to the following:
 
-* Access and contribute to the `RST[x]` sub-network with possession of a minimum, predetermined `RST[x]` threshold. 
+* Access and contribute to the `LIC[x]` sub-network with possession of a minimum, predetermined `LIC[x]` threshold. 
 * `permissionlessLicense` smart contract
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
 
-A transaction involving `RSM[x]` is the cryptographic validation of keys to (i) access the sub-network and (ii) `RSM[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `RSM[x]` Holders in their sub-network on a regular basis, in which `RST[x]` holders will have ability for contributing in the sub-network to:
+A transaction involving `LIC[x]` is the cryptographic validation of keys to (i) access the sub-network and (ii) `LIC[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `LIC[x]` Holders in their sub-network on a regular basis, in which `LIC[x]` holders will have ability for contributing in the sub-network to:
 
 * \(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\), based on reputation.
-* \(ii\) Provide reputation scores to fellow `RST[x]` holders and the R&D team.
+* \(ii\) Provide reputation scores to fellow `LIC[x]` holders and the R&D team.
 * \(iii\) Interact and work with the sub-network through `devTools`.
 
-A `RSM[x]` sub-network may capitalize on the copyright data exclusivity periods the keys provide access to.  In addition, `RSM[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `RSM[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
+A `LIC[x]` sub-network may capitalize on the copyright data exclusivity periods the keys provide access to.  In addition, `LIC[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `LIC[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
 
-The `RSM[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `RSM[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `RSM[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `RSM[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
+The `LIC[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `LIC[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `LIC[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `LIC[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
 
-`RST[x]`** Smart Contract**
+`LIC[x]`** Smart Contract**
 
 ```text
 pragma solidity ^0.4.18;
@@ -352,17 +352,17 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 
 ### Burning
 
-IKU aligns its burning strategy with the creation of `RSM[x]`, where a % of `IKU` tokens contributed to a specific `RSM[x]` are burned from the IKU Reserve. The same % of the specific `RSM[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
+IKU aligns its burning strategy with the creation of `LIC[x]`, where a % of `IKU` tokens contributed to a specific `LIC[x]` are burned from the IKU Reserve. The same % of the specific `LIC[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
 
-* A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an `RFP` for the `researchTarget` of which the IN accepts and an associated `RSTCrowdsale` commences. The `RSTCrowdsale` is successful and the associated `RST[x]` sub-network Levodopa Trials - Cure Parkinson’s is created. \[y%\] of the total contributed IKU tokens are burned from the IKU Network Reserve pool and `RST[x]` are distributed to `IKU` Token holders pro-rata based on IKU holdings.
+* A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an `RFP` for the `researchTarget` of which the IN accepts and an associated `LICCrowdsale` commences. The `LICCrowdsale` is successful and the associated `LIC[x]` sub-network Levodopa Trials - Cure Parkinson’s is created. \[y%\] of the total contributed IKU tokens are burned from the IKU Network Reserve pool and `LIC[x]` are distributed to `IKU` Token holders pro-rata based on IKU holdings.
 
-* Let’s say Bob contributed 500 ETH tokens to `RST[x]` sub-network Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 ETH tokens of which they can exchange for fiat. The Alice Foundation’s ETH and/or IKU Tokens are not burned, but rather [y%] of the total contributed ETH equivalent in IKU are burned from the IKU Reserve pool. The same [y%] of the `RST[x]` pool is transferred back to all funders who registered their bandwidth at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [y%] in addition to 500 (ETH : `RST[X]`) ratio.
+* Let’s say Bob contributed 500 ETH tokens to `LIC[x]` sub-network Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 ETH tokens of which they can exchange for fiat. The Alice Foundation’s ETH and/or IKU Tokens are not burned, but rather [y%] of the total contributed ETH equivalent in IKU are burned from the IKU Reserve pool. The same [y%] of the `LIC[x]` pool is transferred back to all funders who registered their bandwidth at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [y%] in addition to 500 (ETH : `LIC[x]`) ratio.
 
-### The `RST[x]` `permissionlessLicense`
+### The `LIC[x]` `permissionlessLicense`
 
- The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic memory keys (not just limited to biotech). Registration of a certain threshold of cryptographic memory keys - a number which is predetermined at the time of the `RFP` creation - unlocks a copyright license to the `RSM[x]` sub-network memory. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. 
+ The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic memory keys (not just limited to biotech). Registration of a certain threshold of cryptographic memory keys - a number which is predetermined at the time of the `RFP` creation - unlocks a copyright license to the `LIC[x]` sub-network memory. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. 
 
-The party who registers the threshold of private keys now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for its respective memory and therefore `RSM[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `RSM[x]` memory threshold.
+The party who registers the threshold of private keys now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for its respective memory and therefore `LIC[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `LIC[x]` memory threshold.
 
 For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure G:
 
@@ -370,7 +370,7 @@ For example, recent research has shown that Rapamycin, a generic small molecule 
 
 ![IRapamycin License Data Stack](https://github.com/ikunetwork/WhitePaper/raw/master/RAP-License-Data-Stack.png)
 
-In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `RST[x]` `RAP-I`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. See figure H:
+In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as memory - `LIC[x]` `RAP`. The data can be licensed by registering a certain threshold of `RAP-I` memory private keys, then utilized in a data package for potential approval. See figure H:
 
 **Figure H: LIC RAP MArket**
 
@@ -387,16 +387,16 @@ The IKU foundation will maintain its assets as necessary for incentivizing VR pe
 
 Additional features are expected to be developed to further efficiencies, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs \(e.g., PubMed, IP Databases\). This will improve workflow efficiency and thus lead to enhanced platform performance.
 
-As to specific anticipated service components, a software bounty may be deployed for `RSM[i]` bundling, `i` representing the number of `RSM[x]` bundled, as stated below:
+As to specific anticipated service components, a software bounty may be deployed for `LIC[i]` bundling, `i` representing the number of `LIC[x]` bundled, as stated below:
 
-Bundling may serve to enable various bio R&D assets to mitigate economic and scientific risk exposure as well as provide horizontal, or vertical licensed research collaboration. As opposed to a traditional centralized corporation, the `RST[i]` bundle lowers the cost of both trust and risk.
+Bundling may serve to enable various bio R&D assets to mitigate economic and scientific risk exposure as well as provide horizontal, or vertical licensed research collaboration. As opposed to a traditional centralized corporation, the `LIC[i]` bundle lowers the cost of both trust and risk.
 
 How to bundle:
 
-* Declare `RSM[x]` eligible to bundle with `i-1` in the `RFP`, or later point in time
-* Declare `RSM[x]` seeking bundle
+* Declare `LIC[x]` eligible to bundle with `i-1` in the `RFP`, or later point in time
+* Declare `LIC[x]` seeking bundle
 
-All Network R&D initiatives would have the option to actively bundle `RSM[x]` into `RSM[i]`, or allow for `RSM[i]` to choose to bundle with an `RSM[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`RST[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
+All Network R&D initiatives would have the option to actively bundle `LIC[x]` into `LIC[i]`, or allow for `LIC[i]` to choose to bundle with an `LIC[x]`, with atomic swap capability, allowing for high performant assets to be transacted globally across, or in the same R&D verticals. Atomic exchange serves as a mechanism to reduce risk and stabilize IKU/`LIC[i]` in a frictionless fashion, as atomic assets do not need to be traded on a centralized exchange, but can be swapped for one another through direct p2p algorithmic execution.
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk through the ability to algorithmically bond with each other thru smart contract.
 
