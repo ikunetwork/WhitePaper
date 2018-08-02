@@ -31,7 +31,7 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
    1. [`IKU` Value](#iku-value)
    2. [`LIC` Value](#lic-value)
    5. [Burning](#burning)
-   6. [The `LIC` `permissionlessLicense`](#the-lic-permissionlessLicense)
+   6. [`permissionlessLicense`](#permissionlessLicense)
    7. [The `IKU` Reserve](#the-iku-reserve)
    8. [Future Development](#future-development)
 4. [Conclusion](#conclusion)
@@ -351,7 +351,7 @@ IKU aligns its burning strategy with the creation of `LIC[x]`, where a % of `IKU
 
 * Let’s say Bob contributed 500 ETH tokens to `LIC[x]` sub-network Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 ETH tokens of which they can exchange for fiat. The Alice Foundation’s ETH and/or IKU Tokens are not burned, but rather [y%] of the total contributed ETH equivalent in IKU are burned from the IKU Reserve pool. The same [y%] of the `LIC[x]` pool is transferred back to all funders who registered their bandwidth at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [y%] in addition to 500 (ETH : `LIC[x]`) ratio.
 
-### The `LIC` `permissionlessLicense`
+### `permissionlessLicense`
 
 The IKU architecture facilitates an ongoing real time auction market around R&D data through the `permissionlessLicense` protocol.  The `permissionlessLicense` protocol allows for global trade of any dataset or IP, that has scarcity properties, as cryptographic license keys (not just limited to biotech). Registration of a certain threshold of cryptographic license keys - a number which is predetermined at the time of the `RFP` creation - unlocks a copyright license to the `LIC[x]` sub-network license. This allows for a license to be highly available, fungible and auditable as it is a datapoint on a blockchain. 
 
