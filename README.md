@@ -16,8 +16,8 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
    1.2 [Copyright vs. Patent](#copyright-vs.-patent)
 2. [The IKU Model](#the-iku-model)
    1. [How](#how)
-   2. [What are Smart Contracts?](#what-are-smart-contracts?)
-   3. [Why IKU?](#why-IKU?)
+   2. [Smart Contracts?](#smart-contracts)
+   3. [Why IKU?](#why-iku)
    4. [What about Patents?](#what-about-patents?)
    5. [IKU Scales at Low Cost](#iku-scales-at-low-cost)
    6. [Token and License](#token-and-license)
@@ -109,7 +109,7 @@ IKU establishes a marketplace for the exchange of bio R&D generated datasets. In
 
 IKU reinvents bio R&D through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The `IKU` token provides the bandwidth to power the Network with the Ethereum virtual machine.
 
-### What are Smart Contracts?
+### Smart Contracts
 
 Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: \(i\) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction \; \(ii\) an automatism that is guaranteed to execute as it uses algorithms \(blockchain\) for enforcement, not a legal system; and \(iii\) binding.<sup>[37](#f37)</sup>
 
