@@ -122,7 +122,7 @@ IKU leverages blockchain-based smart contracts to transact in digital R&D assets
 
 All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license is granted through the proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
 
-### Direct Monetization of Research Data
+### Direct Monetization of Research
 
 Smarts contracts bypass the middle man, allowing for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
 
