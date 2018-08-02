@@ -105,7 +105,7 @@ IKU provides the infrastructure for a liquid, bio R&D network to advance product
 
 ### How?
 
-IKU provides a global liquid architecture for R&D and clinical trials through tokenized memory of R&D.  By tokenizing memory, copyright to R&D is proved through existence of smart contract provenance, allowing for a liquid licensing protocol in which all transactions are settled programmatically as data points a blockchain.  
+IKU establishes a marketplace for the exchange of bio R&D generated datasets. Individual markets are represented by unique tokens in which acquisition of a token threshold grants a license - proof-of-license mechanim. The license acts as the fundamental market facilitator. By tokenizing the license, copyright to R&D is proved through existence of smart contract provenance, allowing  all transactions to settle programmatically as data points on chain. 
 
 IKU reinvents bio R&D through tokenization, providing transparent and open markets for the generation, tracking and exclusive usage of R&D data sets to accelerate access to the future of medicine. This will serve to provide interested parties with rapid market entry and exit abilities, reducing transaction costs, ultimately providing coordination and liquidity advantages for R&D between parties who otherwise would not know or trust each other. The `IKU` token provides the bandwidth to power the Network with the Ethereum virtual machine.
 
@@ -117,14 +117,14 @@ Once a smart contract is set in motion, the blockchain is utilized to serve as a
 
 ### Direct Monetization of Research Data
 
-IKU leverages blockchain based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\).  Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance.  The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as memory and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing pure provenance of intellectual property rights and the current state of IKU.  See Figure D below
+IKU leverages blockchain based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU.  See Figure D below
 
 **Figure D: IKU Smart Contracts & IPFS**
 
 ![IKU Smart Contract & IPFS](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-IPFS-Smart-Contract.png)
 
 
-All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license will be granted upon acquisition of a certain threshold of memory tokens, a proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
+All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license is granted through the proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
 
 This allows for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect - research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing 
 
