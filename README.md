@@ -280,10 +280,11 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 
 The IN creates two classes of native tokens:
 
-* `IKU`: Serves as bandwidth for the Network to go.  By registering bandwidth, the computational pipeline can process clinical trial proposals while `IKU` holders also have software license to access  and mediate participation in the Network.  The supply of IKU is finite.
+* `IKU`: Serves as a bandwitdht and access token. IKU enables access to R&D and clinical trial proposals as a
+software license to access and mediate participation in the Network. The supply of IKU is finite.
 * `LIC`: The License Token serves as license keys.  If a certain amount of license keys are registered to one address, that private key can unlock a copyright license to the R&D data set - `permissionlessLicense` (more below); as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `LIC[x]` bundles, `LIC[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `LIC[x]` bundled.  
 
-`IKU` and `LIC[x]` token holders will retain custody, with no asset exchange third-party intervention, distributing the liquidity pool on a global basis.  The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
+`IKU` and `LIC[x]` token holders will retain custody, with no asset exchange third-party intervention. The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
 
 
 ### `IKU` Value
