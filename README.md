@@ -4,7 +4,7 @@ Working Draft
 
 ## Abstract
 
-IKU is a permissionless marketplace for directly monetizing and licensing bio R&D. It is a trustless public utility employing the blockchain and smart contracts to collapse capital, copyright exclusivity and execution into one allowing for a new data asset class to be created and traded permissionlessly in a global auction-based auction. The IKU infrastructure will serve to scale biotechnology through a liquid R&D economy - improving capital formation, serving pent up demand for biotech and ultimately increasing the marginal return on lifespan per unit of research advancement.
+IKU is a dApp for directly monetizing and licensing bio R&D. It is a trustless public utility employing the blockchain and smart contracts to collapse capital, copyright exclusivity and execution into one allowing for a new data asset class to be created and traded permissionlessly in a global auction-based auction. The IKU infrastructure will serve to scale biotechnology through a liquid R&D economy - improving capital formation, serving pent up demand for biotech and ultimately increasing the marginal return on lifespan per unit of research advancement.
 
 Currently, the marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities NME. NME's typically take over 15 years per market entry, with high rates of failure and cost over $1 billion - a faulty, non-scalable process. Why? Patent friction. The IKU model combined with recent developments in globalization of clinical trials allow for an arbitrage in which market entry of cutting edge biotech can cost 200x less than the traditional patent-based pharma model. This paper explains (i) the deficiencies of the current legacy R&D incentive structure, (ii) the mission to create a digital, liquid global market to scale bio R&D/trials and (iii) how IKU ultimately compounds value through global arbitrage to push science and medicine to boundaries yet unseen.
 
@@ -54,37 +54,37 @@ This model has proven to be very inefficient as pharma’s internal rate of retu
 
  ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
 
-Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years.<sup>[42](#f42)</sup> We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[8](#f8)</sup>) See Figure B:
+Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years. We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[7](#f7)</sup>) See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
 ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH-Funding.png)
 
-The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[9](#f9)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[10](#f10)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
+The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[8](#f8)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[9](#f9)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
 
 ### Rediscovery: A Solution
 
-Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[18](#f18)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[19](#f19)</sup> Generic medicines are, and can be, built on the same active ingredients as their previously patented version.<sup>[20](#f20)</sup>. By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[21](#f21)</sup> Many high end scientists, inluding Nobel Laureates, agree that redisovery is a preferred method:
+Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[10](#f10)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[11](#f11)</sup> Generic medicines are, and can be, built on the same active ingredients as their previously patented version.<sup>[12](#f12)</sup>. By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[13](#f13)</sup> Many high end scientists, inluding Nobel Laureates, agree that redisovery is a preferred method:
 
 _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.   
    
-Rediscovery can take the form of new formulations or patient populations, and clinical trials can commence for as little as $5 million, requiring only a few years for approval, as opposed to ~15 years for NME.<sup>[22](#f22)</sup> How? eliminating significant time and cost spent replicating studies. Because the drug has already proven to be safe, it can get directly into Ph. II clinical trials (efficacy) - potentially approved thereafter on just this one trial. <sup>[23](#f23)</sup>.  In addition, rediscovery has a 30% FDA approval rate for drug rediscovery vs. < 1%  approval rate for NME upon being discovered in the lab.<sup>[24](#f24)</sup>  
+Rediscovery can take the form of new formulations or patient populations, and clinical trials can commence for as little as $5 million, requiring only a few years for approval, as opposed to ~15 years for NME.<sup>[14](#f14)</sup> How? eliminating significant time and cost spent replicating studies. Because the drug has already proven to be safe, it can get directly into Ph. II clinical trials (efficacy) - potentially approved thereafter on just this one trial. <sup>[15](#f15)</sup>. In addition, rediscovery has a 30% FDA approval rate for drug rediscovery vs. < 1%  approval rate for NME upon being discovered in the lab.<sup>[16](#f16)</sup>  
 
 Rediscovery has lacked economic incentive for development because of the patent landscape. IKU is designed to change this, providing the direct economic incentive for rediscovery (more below). To further prove the rediscovery research model: as per a recently published rediscovery trial presented at the premier cancer research conference worldwide (ASCO), as covered by Forbes, the biggest surprise of the whole conference was the effect of Metformin, a generic diabetes drug, rediscovered for treatment against lung cancer.  
    
 *Biggest Surprise: Metformin*
 
-*Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[25](#f25)</sup> 
+*Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[17](#f17)</sup> 
 
 ### Copyright vs. Patent
 
-Historically, by the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[29](#f29)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[30](#f30)</sup> Copyrights occur upon when research data is put in writing - registration is not necessary. Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[31](#f31)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[32](#f32)</sup>   
+Historically, by the time an NME enters clinical trials, its patent life has 10 years, often times 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights occur upon when research data is put in writing - registration is not necessary. Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[20](#f20)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[21](#f21)</sup>   
 
-A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D/clinical trial data sets.<sup>[33](#f33)</sup> Without such a license, a party may not utilize data sets for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial).<sup>[34](#f34)</sup>  Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[35](#f35)</sup> Jurisdictions provide for clinical trial copyright data exclusivity periods (independent of patents), including but not limited to:
+A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D/clinical trial data sets.<sup>[22](#f22)</sup> Without such a license, a party may not utilize data sets for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial).<sup>[23](#f23)</sup>  Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[24](#f24)</sup> Jurisdictions provide for clinical trial copyright data exclusivity periods (independent of patents), including but not limited to:
 
 * Europe: up to ~12 years
 * Asia: up to ~10 years
-* U.S.: up to 12 years<sup>[36](#f36)</sup>
+* U.S.: up to 12 years<sup>[25](#f25)</sup>
 
 IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated. By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies. In short, patents stifle innovation. Copyrights do not. 
 
@@ -414,13 +414,29 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f6">6</b> K. Stott, Pharma’s broken business model: An industry on the brink of terminal decline, [https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/](https://endpts.com/pharmas-broken-business-model-an-industry-on-the-brink-of-terminal-decline/) \(2017\).
 
-<b id="f7">7</b> Id.
+<b id="f7">7</b> Congressional Research Service, NIH Funding: FY1994-FY2016, [https://fas.org/sgp/crs/misc/R43341.pdf](https://fas.org/sgp/crs/misc/R43341.pdf).
 
-<b id="f8">8</b> Congressional Research Service, NIH Funding: FY1994-FY2016, [https://fas.org/sgp/crs/misc/R43341.pdf](https://fas.org/sgp/crs/misc/R43341.pdf).
+<b id="f8">8</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk \(2013\).
 
-<b id="f9">9</b> Roger Stein, MIT Research Associate, A Bold New Way to Fund Drug Research, TED Talk \(2013\).
+<b id="f9">9</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
 
-<b id="f10">10</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
+<b id="f10">10</b> The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
+
+<b id="f11">11</b> Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
+
+Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
+
+<b id="f12">12</b> FDA, What are generic drugs?, [https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm).
+
+<b id="f13">13</b> Id.
+
+<b id="f14">14</b> Id.
+
+*<b id="f15">15</b> See FN 1.
+
+<b id="f16">16</b> See FN 12.
+
+<b id="f17">17</b> Id.
 
 <b id="f11">11</b> Nature Biotechnology, Trade Secrets, Development cost comparison, China vs. US, http://blogs.nature.com/tradesecrets/2012/07/02/bio-2012-development-cost-comparison-china-vs-us (2012).
 
@@ -441,42 +457,18 @@ Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/ar
 
 <b id="f17">17</b> H. Diedrich, IBM Liason to Ethereum, Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations \(2016\).
 
-<b id="f18">18</b> The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
+<b id="f18">18</b> J. Benet, IPFS - Content Addressed, Versioned, P2P File System \(DRAFT 3\). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
 
-<b id="f19">19</b> Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
+<b id="f19">19</b> See FN 19.
 
-Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
+<b id="f20">20</b> C. Burniske, Cryptoassets \(2017\).
 
-<b id="f20">20</b> FDA, What are generic drugs?, [https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm).
+<b id="f21">21</b> R. Dalio, Principles \(2017\).
 
-<b id="f21">21</b> Id.
+<b id="f22">22</b> E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
 
-<b id="f22">22</b> Id.
+<b id="f23">23</b> Id. R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
 
-*<b id="f23">23</b> See FN 1.
+<b id="f24">24</b> EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
 
-<b id="f24">24</b> See FN 12.
-
-<b id="f25">25</b> Id.
-
-<b id="f26">26</b> FDA Approvals 2016 - 2017, [https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm483775.htm) , [https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm). JJ Hernandez, et. al., Giving Drugs a Second Chance: Overcoming Regulatory and Financial Hurdles in Repurposing Approved Drugs As Cancer Therapeutics, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694537/) \(2017\). Tufts Center for the Study of Drug Development, How the Tufts Center for the Study of Drug Development Pegged the Cost of a New Drug at $2.6 Billion \(2014\).
-
-<b id="f27">27</b> See FN 19.
-
-<b id="f28">28</b> Id.
-
-<b id="f29">29</b> J. Benet, IPFS - Content Addressed, Versioned, P2P File System \(DRAFT 3\). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
-
-<b id="f30">30</b> See FN 19.
-
-<b id="f31">31</b> C. Burniske, Cryptoassets \(2017\).
-
-<b id="f32">32</b> R. Dalio, Principles \(2017\).
-
-<b id="f33">33</b> E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
-
-<b id="f34">34</b> Id. R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
-
-<b id="f34a">34a</b> EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
-
-<b id="f35">35</b> SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
+<b id="f25">25</b> SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
