@@ -40,7 +40,7 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 ### Problem Statement
 
-Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new biotech at scale.<sup>[1](#f1)</sup> Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D rights without fault (litigation), resulting in significant inefficiencies in clinical development. <sup>[2](#f2)</sup> Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost - rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million per regimen.<sup>[3](#f3)</sup> The result is a permissioned market with high friction. Researchers are then incentivized to conceal their research in hopes of a large corporation pursuing a license, as opposed to peer collaboration within the scientific community. The result is (i) very limited R&D investment per capita and (ii) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
+Bio R&D operates in analog fashion. And rightfully so as patents and capital formation conform under the same hood. Unfortunately, the patent system makes it close to impossible for the public to realize new biotech at scale.<sup>[1](#f1)</sup> Why? Because of its analog infrastructure and associated cost in trust and liquidity. There is no enforceable global record of R&D rights without fault (litigation), resulting in significant inefficiencies in clinical development.<sup>[2](#f2)</sup> Only large, well-capitalized corporations can sustain such inefficiencies, whom then seek rent from patients, insurance and the general public through high retail cost - rare disease drugs often come with high price tags, limited human exposure, and can cost as much $1 million per regimen.<sup>[3](#f3)</sup> The result is a permissioned market with high friction. Researchers are then incentivized to conceal their research in hopes of a large corporation pursuing a license, as opposed to peer collaboration within the scientific community. The result is (i) very limited R&D investment per capita and (ii) significant illiquidity as the necessary resources are firmly controlled by centralized institutions.
 
 In addition, capital is almost exclusively allocated to new molecular entities NME (molecules never conceived nor had human exposure), as NME's are a more enforceable record of R&D.<sup>[4](#f4)</sup> Unfortunately, NME's are logistically difficult to achieve, requiring:
 
@@ -48,19 +48,19 @@ In addition, capital is almost exclusively allocated to new molecular entities N
 * 15 years to complete clinical trials for market access
 * 0.02% chance of obtaining FDA approval upon being discovered in the lab.<sup>[5](#f5)</sup>
 
-This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017<sup>[6](#f6)</sup> See Figure A:
+This model has proven to be very inefficient as pharma’s internal rate of return IRR on capital over the last ~30 years has been decreasing in linear fashion, with IRR already below the cost of capital in 2017.<sup>[6](#f6)</sup> See Figure A:
 
 **Figure A: Return on Investment in Pharma R&D**
 
  ![Return on Investment in Pharma RD](https://github.com/ikunetwork/WhitePaper/raw/master/Return-on-Investment-in-Pharma-R%26D.png)
 
-Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years. We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[7](#f7)</sup>) See Figure B:
+Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spend has outpaced R&D for the last 20 years. We've also seen a decrease in medical research funding from the U.S. National Institute of Health.<sup>[7](#f7)</sup> See Figure B:
 
 **Figure B: NIH Funding 2003-2015**
 
 ![NIH Funding 2003-2015](https://github.com/ikunetwork/WhitePaper/raw/master/NIH-Funding.png)
 
-The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[8](#f8)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[9](#f9)</sup>) While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
+The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[8](#f8)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[9](#f9)</sup> While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 200x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in China.  
 
 ### Rediscovery: A Solution
 
@@ -68,13 +68,13 @@ Already approved drugs/therapies can be redeveloped aka rediscovered to treat ma
 
 _The most fruitful basis for the discovery of a new drug is to start with an old drug_ - Sir James W. Black, Nobel Prize in Medicine 1988.   
    
-Rediscovery can take the form of new formulations or patient populations, and clinical trials can commence for as little as $5 million, requiring only a few years for approval, as opposed to ~15 years for NME.<sup>[14](#f14)</sup> How? eliminating significant time and cost spent replicating studies. Because the drug has already proven to be safe, it can get directly into Ph. II clinical trials (efficacy) - potentially approved thereafter on just this one trial. <sup>[15](#f15)</sup>. In addition, rediscovery has a 30% FDA approval rate for drug rediscovery vs. < 1%  approval rate for NME upon being discovered in the lab.<sup>[16](#f16)</sup>  
+Rediscovery can take the form of new formulations or patient populations, and clinical trials can commence for as little as $5 million, requiring only a few years for approval, as opposed to ~15 years for NME.<sup>[14](#f14)</sup> How? eliminating significant time and cost spent replicating studies. Because the drug has already proven to be safe, it can get directly into Ph. II clinical trials (efficacy) - potentially approved thereafter on just this one trial.<sup>[15](#f15)</sup> In addition, rediscovery has a 30% FDA approval rate for drug rediscovery vs. < 1%  approval rate for NME upon being discovered in the lab.<sup>[16](#f16)</sup>  
 
 Rediscovery has lacked economic incentive for development because of the patent landscape. IKU is designed to change this, providing the direct economic incentive for rediscovery (more below). To further prove the rediscovery research model: as per a recently published rediscovery trial presented at the premier cancer research conference worldwide (ASCO), as covered by Forbes, the biggest surprise of the whole conference was the effect of Metformin, a generic diabetes drug, rediscovered for treatment against lung cancer.  
    
 *Biggest Surprise: Metformin*
 
-*Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.*  <sup>[17](#f17)</sup> 
+*Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.* <sup>[17](#f17)</sup> 
 
 ### Copyright vs. Patent
 
