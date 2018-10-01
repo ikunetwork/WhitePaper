@@ -1,4 +1,4 @@
-Working Draft
+Working Draft, v.99
 
 # IKU - Biotech Redefined   
 
@@ -485,11 +485,11 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f40">40</b> Grand View Research, Medical marijuana emerged as the largest marijuana type segment in 2016 and is estimated to be valued at USD 100.03 billion by 2025, https://www.grandviewresearch.com/press-release/global-legal-marijuana-market (2018).
 
-Principal Authors          Experience
+Principal Authors          
 
-Gregory J. Rigano, Esq     IP lawyer, Counseled $1 billion+ in global tech tx
-Michael Kisselgof          Credit Suisse, Private Banking - SAP, Digital Strategy
-Thomas Deisboeck, MD       Professor Harvard Medical School, Mass General Hospital
+(i) Gregory J. Rigano, Esq. - IP lawyer, Counseled $1 billion+ in global tech tx
+(ii) Michael Kisselgof - Credit Suisse, Private Banking - SAP, Digital Strategy
+(iii) Thomas Deisboeck, MD - Professor Harvard Medical School, Mass General Hospital
 
 
 Without permission, anyone may use, reproduce or distribute any material in this white paper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notice are cited.
