@@ -78,7 +78,7 @@ Rediscovery has lacked economic incentive for development because of the patent 
 
 ### Copyright vs. Patent
 
-Historically, by the time an NME enters clinical trials, its patent life has under 10 years, often times only 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights applies when original research data is put in writing, proof of existence - registration is not necessary. Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation.<sup>[20](#f20)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[21](#f21)</sup>   
+Historically, by the time an NME enters clinical trials, its patent life has under 10 years, often times only 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights applies when original research data is put in writing, proof of existence - registration is not necessary. Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation and patent invalidation rates as high as 90%.<sup>[20](#f20)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[21](#f21)</sup>   
 
 A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EMA, CFDA\) proving copyright title provenance to R&D/clinical trial data sets.<sup>[22](#f22)</sup> Without such a license, a party may not utilize data sets for submission to a regulatory body and must start the research process anew \(raising capital and performing independent research and clinical trial).<sup>[23](#f23)</sup>  Licenses have proven to be worth billions of dollars to economic and medical systems worldwide.<sup>[24](#f24)</sup> Jurisdictions provide for clinical trial copyright data exclusivity periods (independent of patents), including but not limited to:
 
@@ -426,36 +426,44 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f9">9</b> 21st Century Cures Whitepaper, A Path to Discovery, Development, [https://energycommerce.house.gov/cures/](https://energycommerce.house.gov/cures/) \(2016\).
 
-<b id="f10">10</b> The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
+<b id="f10">10</b> Bernard Munos, Can you teach old drugs new tricks, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
 
-<b id="f11">11</b> Bernard Munos, Faster Cures, [https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091](https://www.nature.com/news/can-you-teach-old-drugs-new-tricks-1.20091) \(2016\).
-
-Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
+<b id="f11">11</b> Id.
 
 <b id="f12">12</b> FDA, What are generic drugs?, [https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm](https://www.fda.gov/Drugs/ResourcesForYou/Consumers/QuestionsAnswers/ucm100100.htm).
 
 <b id="f13">13</b> Id.
 
-<b id="f14">14</b> Id.
+<b id="f14">14</b> Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/](http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/) \(2017\).
 
-*<b id="f15">15</b> See FN 1.
+*<b id="f15">15</b> Id.  FDA Approvals 2016, https://www.fda.gov/drugs/developmentapprovalprocess/druginnovation/ucm483775.htm.  FDA Approvals 2017, https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugInnovation/ucm537040.htm.
 
-<b id="f16">16</b> See FN 12.
+<b id="f16">16</b> JJ Hernandez, et. al., Giving Drugs a Second Chance: Overcoming Regulatory and Financial Hurdles in Repurposing Approved Drugs As Cancer Therapeutics, https://www.ncbi.nlm.nih.gov/pubmed/29184849 (2017).
 
-<b id="f17">17</b> Id.
+<b id="f17">17</b> Matthew Herper, Forbes, Winners And Losers From Cancer Research's Biggest Event, https://www.forbes.com/sites/matthewherper/2018/06/04/winners-and-losers-from-cancer-researchs-biggest-event/#277c612961bf (2018).
 
-<b id="f11">11</b> Nature Biotechnology, Trade Secrets, Development cost comparison, China vs. US, http://blogs.nature.com/tradesecrets/2012/07/02/bio-2012-development-cost-comparison-china-vs-us (2012).
+<b id="f18">18</b> The Economist, Patents that kill, [https://www.economist.com/blogs/freeexchange/2014/08/innovation](https://www.economist.com/blogs/freeexchange/2014/08/innovation) \(2014\).
 
-<b id="f11a">11a</b> U.S. FDA, China Joins ICH in Pursuit of Global Harmonization of Drug Development Standards, https://blogs.fda.gov/fdavoice/index.php/2017/08/china-joins-ich-in-pursuit-of-global-harmonization-of-drug-development-standards/ (2017).  BERKELEY
+<b id="f19">19</b> Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
+
+<b id="f20">20</b> G. Quinn and S. Brachmann, Are more than 90 percent of patents challenged at the PTAB defective?, http://www.ipwatchdog.com/2017/06/14/90-percent-patents-challenged-ptab-defective/id=84343/ (2017).  See FN 1 and FN 2.
 
 
-Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/](http://www.the-scientist.com/?articles.view/articleNo/47744/title/Repurposing-Existing-Drugs-for-New-Indications/) \(2017\).
 
-<b id="f12">12</b> Id.
 
-<b id="f13">13</b> Id.
 
-<b id="f14">14</b> 
+<b id="f21">21</b> Copyright Basics, https://www.uspto.gov/learning-and-resources/ip-policy/copyright/copyright-basics.
+
+<b id="f22">22</b> FN 19.
+
+<b id="f23">23</b> Id. 
+
+<b id="f24">24</b> Id.
+
+<b id="f25">25</b> Id.
+
+
+SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
 
 <b id="f15">15</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks, [http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First\#introduction](http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction) \(1997\).
 
@@ -463,18 +471,15 @@ Bruce Bloom, Cures Within Reach, [http://www.the-scientist.com/?articles.view/ar
 
 <b id="f17">17</b> H. Diedrich, IBM Liason to Ethereum, Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations \(2016\).
 
-<b id="f18">18</b> J. Benet, IPFS - Content Addressed, Versioned, P2P File System \(DRAFT 3\). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
 
-<b id="f19">19</b> See FN 19.
 
-<b id="f20">20</b> C. Burniske, Cryptoassets \(2017\).
+J. Benet, IPFS - Content Addressed, Versioned, P2P File System \(DRAFT 3\). M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
 
-<b id="f21">21</b> R. Dalio, Principles \(2017\).
+E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
 
-<b id="f22">22</b> E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
+R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
 
-<b id="f23">23</b> Id. R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
+EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
 
-<b id="f24">24</b> EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
-
-<b id="f25">25</b> SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
+C. Burniske, Cryptoassets \(2017\).
+R. Dalio, Principles \(2017\).
