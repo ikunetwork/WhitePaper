@@ -373,7 +373,7 @@ The IKU foundation will maintain its assets as necessary for incentivizing VR pe
 
 ### Future Development
 
-Additional features are expected to be developed to further efficiencies, which may include but are not limited to advanced analytic and platform navigation tools, as well as links to language agnostic relevant public and private content through APIs \(e.g., PubMed, IP Databases\). This will improve workflow efficiency and thus lead to enhanced platform performance.
+Additional features are expected to be developed to further efficiencies, which may include but are not limited to advanced analytic and platform navigation tools including human data inputs, as well as links to language agnostic relevant public and private content through APIs \(e.g., PubMed, IP Databases\). This will improve workflow efficiency and thus lead to enhanced platform performance.
 
 As to specific anticipated service components, a software bounty may be deployed for `LIC[i]` bundling, `i` representing the number of `LIC[x]` bundled, as stated below:
 
@@ -388,15 +388,7 @@ All Network R&D initiatives would have the option to actively bundle `LIC[x]` in
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk through the ability to algorithmically bond with each other thru smart contract.
 
-Cannabis
-
-
-
-Multi-Omics
-
-- through frictionless access to rich pools of data.<sup>[38](#f38)</sup[SRS]>-     Mining data pool trends of various variables (e.g. mechanism of action, general aging, at risk populations, etc.) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`.
-   
-We anticipate the RFP model to just be the beginning. Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU may serve to provide an open machine learned clinical trial proposer,  based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, records, etc.).  Such a model may help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals.    This can be done to create condition specific information networks, e.g. small molecules for inhibiting Dbr-1  in ALS.  
+As to specific forms of research, NIH scientists believe that cannabis-based medicines can treat various conditions that currently lack quality treatment options, but proper clinical trial data is needed.<sup>[39](#f39)</sup>  Furthermore, the verified data provided by licensed cannabis distributors is just the Tetrahydrocannabinol (THC) and Cannabinoid (CBD) content, whereas the medicinal claims are anecdotal. The global medicinal cannabis market is ~$11 billion and expected to grow to ~$100 billion by 2025.<sup>[40](#f40)</sup>   The Network may serve as an authoritative source for official cannabis R&D and peer reviewed publications, allowing for stakeholders to make well- informed cannabis-related decisions. 
 
 ## Conclusion
 
@@ -487,27 +479,7 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f38">38</b> Defensive Patent Licensing, https://defensivepatentlicense.org/. Matt Corallo, e-mail communication (2018).
 
+<b id="f39">39</b> U.S. National Institute of Health, Medical Marijuana, https://nccih.nih.gov/health/marijuana.
 
-
-SF Cryptocurrency Devs, A Deep Dive into Proxy-Reencryption w/ NuCypher \(2017\).
-
-<b id="f15">15</b> 
-
-<b id="f16">16</b> 
-
-<b id="f17">17</b> 
-
-
-
-
-
-M. Egorov, M. Wilkinson, D. Nunez, NuCypher KMS: Decentralized key management system.
-
-E. March-Villa, et. al., On the Integration of In Silico Drug Design Methods for Drug Repurposing, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5440551/) \(2017\).
-
-R. Hodos, In silico methods for drug repurposing and pharmacology, [https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf](https://pdfs.semanticscholar.org/39a3/04dabca77d203c5639545c4f8480d9018797.pdf) \(2016\).
-
-EU Commission, Public Health, 8th Commission Expert Group on Safe and Timely Access to Medicines for Patients \("STAMP"\) Meeting \(2018\).
-
-C. Burniske, Cryptoassets \(2017\).
+<b id="f40">40</b> Grand View Research, Medical marijuana emerged as the largest marijuana type segment in 2016 and is estimated to be valued at USD 100.03 billion by 2025, https://www.grandviewresearch.com/press-release/global-legal-marijuana-market (2018).
 
