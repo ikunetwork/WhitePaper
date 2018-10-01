@@ -12,8 +12,8 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 1. [Introduction](#introduction)
    1. [Problem Statement](#problem-statement)
-   2 [Rediscovery: A Solution](#rediscovery:-a-solution)
-   3 [Copyright vs. Patent](#copyright-vs.-patent)
+   2. [Rediscovery: A Solution](#rediscovery:-a-solution)
+   3. [Copyright vs. Patent](#copyright-vs.-patent)
 2. [The IKU Model](#the-iku-model)
    1. [How](#how)
    2. [Smart Contracts](#smart-contracts)
