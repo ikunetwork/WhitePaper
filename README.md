@@ -281,11 +281,10 @@ The Network will serve to be a library-hub for the generation, tracking and exch
 
 The IN creates two classes of native tokens:
 
-* `IKU`: Serves as a bandwitdht and access token. IKU enables access to R&D and clinical trial proposals as a
-software license to access and mediate participation in the Network. The supply of IKU is finite.
-* `LIC`: The License Token serves as license keys.  If a certain amount of license keys are registered to one address, that private key can unlock a copyright license to the R&D data set - `permissionlessLicense` (more below); as well as a software license to access and mediate participation in the sub-network.  Supply is dependent on demand. `LIC[x]` bundles, `LIC[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `LIC[x]` bundled.  
+* `IKU`: Serves as Network bandwidth. `IKU` enables access to R&D and clinical trial proposals to mediate participation in the Network as described above. The supply of IKU is finite.
+* `LIC[x]`: The License Token serves as license keys.  If a certain amount of license keys are registered to one address, that private key can unlock an exclusive license to the R&D data set - `permissionlessLicense` (more below); as well as a copyright license to participate in the sub-network (more below).  Supply is dependent on demand. `LIC[x]` bundles, `LIC[i]` may be developed as per a future bounty, allowing for scientific and economic risk diversification where `i` represents the number of `LIC[x]` bundled.  
 
-`IKU` and `LIC[x]` token holders will retain custody, with no asset exchange third-party intervention. The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
+`IKU` and `LIC[x]` token holders may retain custody, with no asset exchange third-party intervention. The two token incentive model is designed to provide scientists and the general public with agency in determining the future of biotech, regardless of patent policy and large corporations - a radically different model that enables global liquidity for research assets.  
 
 
 ### `IKU` Value
@@ -296,22 +295,22 @@ Wallet verification of a minimum of balance of 1 IKU enables access to the `devT
 * 2nd priority to upgrade to clinical trial subject
 * Fees in `LIC[x]`
 
-Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW will serve to hold BTC, ETH, IKU and all `LIC[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `LIC[x]` as \[z%\] of all of the `LICCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
+Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW may serve to hold BTC, ETH, IKU and all `LIC[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `LIC[x]` as \[z%\] of all of the `LICCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
 
 ### `LIC` Value
 
-An `LIC[x]` is the license bandwidth of an R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.) and such rights are cryptographically maintained.  Value in the `LIC[x]` token can be ascribed to the following:
+A `LIC[x]` is the license bandwidth of an R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.) and such rights are cryptographically maintained.  Value in the `LIC[x]` token can be ascribed to the following:
 
-* Access and contribute to the `LIC[x]` sub-network with possession of a minimum, predetermined `LIC[x]` threshold. 
+* Right to access, use, publish, develop R&D and contribute to the `LIC[x]` sub-network with possession of a minimum, predetermined `LIC[x]` threshold. 
 * `permissionlessLicense` smart contract
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
 
-A transaction involving `LIC[x]` is the cryptographic validation of keys to (i) access the sub-network and (ii) `LIC[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of rights provenance on IPFS at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `LIC[x]` Holders in their sub-network on a regular basis, in which `LIC[x]` holders will have ability for contributing in the sub-network to:
+A transaction involving `LIC[x]` is the cryptographic validation of keys to (i) participate in the sub-network and (ii) `LIC[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of R&D intellectual property rights provenance at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `LIC[x]` Holders in their sub-network on a regular basis, in which `LIC[x]` holders will have ability for contributing in the sub-network to:
 
 * \(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\), based on reputation.
-* \(ii\) Provide reputation scores to fellow `LIC[x]` holders and the R&D team.
-* \(iii\) Interact and work with the sub-network through `devTools`.
+* \(ii\) publish R&D, provide commentary, review and discuss R&D actions, make recommendations, propose development amendments, coordinate presentations and publications and generally facilitate the flow of information through the Portal between the Parties.
+* \(iii\) reproduce and create derivative works based upon R&D for the purposes of marketing, advertising and promoting development, especially for cultural localization to drive adoption, retention and general support for public benefit, globally.
 
 A `LIC[x]` sub-network may capitalize on the copyright data exclusivity periods the keys provide access to.  In addition, `LIC[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `LIC[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
 
@@ -341,7 +340,7 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 }
 ```
 
-### Burning
+### Burning <MIKE PLZ REVIEW AND MAKE SURE THIS MAKES SENSE, ESPECIALLY star 1 compared to star 2>
 
 IKU aligns its burning strategy with the creation of `LIC[x]`, where a % of `IKU` tokens contributed to a specific `LIC[x]` are burned from the IKU Reserve. The same % of the specific `LIC[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
 
