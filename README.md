@@ -91,7 +91,7 @@ IKU is designed to directly monetize biotech research data, regardless of patent
 <@MIKE INSERT RISK SCORE SEE ATTACHED>
 
 
-Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies. In short, patents stifle innovation. Copyrights do not. 
+Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.<sup>[25a](#f25a)</sup> In short, patents stifle innovation. Copyrights do not. 
 
 We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
@@ -452,6 +452,8 @@ All of which lead to significant issues in transaction finality, exacerbating an
 <b id="f24">24</b> Id.
 
 <b id="f25">25</b> Id.
+
+<b id="f25a">25a</b> K. Grimes, MD and Daria Mochly-Rosen, Stanford Medical School, A Practical Guide to Drug Development in Academia, The SPARK Approach (2014).
 
 <b id="f26">26</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks, [http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First\#introduction](http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction) \(1997\).  Tom Ding, e-mail communication (2018).
 
