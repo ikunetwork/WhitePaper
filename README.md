@@ -113,11 +113,11 @@ IKU reinvents bio R&D data markets through tokenization, providing transparent a
 
 ### Smart Contracts
 
-Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: (i) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction; (ii) an automatism that is guaranteed to execute as it uses algorithms (blockchain) for enforcement, not a legal system; and (iii) binding.<sup>[37](#f37)</sup>
+Smart contracts are agreements with super powers, as they provide a deterministic environment guaranteeing information fidelity and trusted exchange of value. Specifically, a smart contract is: (i) code that moves information and/or money based on a condition between as many parties as needed, regardless of jurisdiction; (ii) an automatism that is guaranteed to execute as it uses algorithms (blockchain) for enforcement, not a legal system; and (iii) binding.<sup>[26](#f26)</sup>
 
-Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[38](#f38)</sup> Ultimately, overhead is reduced, trust improves, and efficiency increases with no third party necessary for escrow.<sup>[39](#f39)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
+Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[27](#f27)</sup> Ultimately, overhead is reduced, trust improves, and efficiency increases with no third party necessary for escrow.<sup>[28](#f28)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
-IKU leverages blockchain-based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[40](#f40)</sup> This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU. See Figure D below:
+IKU leverages blockchain-based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed. The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright.<sup>[29](#f29)</sup> This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU. See Figure D below:
 
 **Figure D: IKU Smart Contracts & IPFS**
 
@@ -139,7 +139,7 @@ Figure E further illustrates the benefits of the IKU data approach as opposed to
 
 ### Why IKU?
 
-IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for scientific R&D that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in R&D assets through decentralized resource allocation and increased market transparency. Access to R&D data and licenses are unlocked to the community at large which is expected to result new discoveries and biotechnologies. The successful creation of this system will create a positive economic and scientific feedback loop [FN SRS]. 
+IKU allows for multilateral transparency and programmatic settlement for value exchange, currently not possible within the legacy bio R&D system. By shifting traditional business processes from a few controlling entities to a global decentralized network, it is possible to provide a commercially valuable infrastructure for scientific R&D that is both dynamic and open for all. Network participants will be able to capitalize, support and trade in R&D assets through decentralized resource allocation and increased market transparency. Access to R&D data and licenses are unlocked to the community at large which is expected to result new discoveries and biotechnologies. The successful creation of this system will create a positive economic and scientific feedback loop. <sup>[29](#f29)</sup> 
 
 The Network will serve to attract R&D ideation through crowdsourced input from thought leaders, researchers and the general public. Realistically, they do not have the time, expertise or resources to commence clinical trials. The Network aims to correct this slump and inform the market of the most scientifically viable R&D initiatives.
 
@@ -189,7 +189,7 @@ Below are the players in the IKU Network. They are not mutually exclusive:
 
 `reputationScore`:
 
-* `reputationScore` is part of `devTools`. All participants may be subject to a profile linked `reputationScore` which accounts for utilization of Network resources and behavior, allowing for meritocratic decision-making based in scientific liquidity. All Network participants start with the same `reputationScore`, but will be separated by VR and non-VR. `reputationScore` may increase to `power`, `super_power` and `grand_maester`.  This enables the best ideas to flow freely, producing efficient and rapid evolution based on merits.[32](./#f32) Participants will be obligated to provide `reputationScore` to other participants they have digitally engaged.  The `reputationScore` will be publicly available.
+* `reputationScore` is part of `devTools`. All participants may be subject to a profile linked `reputationScore` which accounts for utilization of Network resources and behavior, allowing for meritocratic decision-making based in scientific liquidity. All Network participants start with the same `reputationScore`, but will be separated by VR and non-VR. `reputationScore` may increase to `power`, `super_power` and `grand_maester`.  This enables the best ideas to flow freely, producing efficient and rapid evolution based on merits.<sup>[30](#f30)</sup> Participants will be obligated to provide `reputationScore` to other participants they have digitally engaged.  The `reputationScore` will be publicly available.
 
 ### Request for Proposal
 
@@ -201,13 +201,11 @@ A proposal is required to consist of
 \(ii\) how much funds are being raised and for what percentage of `LIC[x]`, with proposers encouraged to not issue 100% of `LIC[x]` to account for future funding requirements and 
 \(iii\) the scientific justification of proposed R&D. 
 
-A standard `LIC[x]` proposal template will be provided. Further value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `LIC[x]`.<sup>[43](#f43)</sup> This leaves significant room for `LIC[x]` value creativity.
+A standard `LIC[x]` proposal template will be provided. Further value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `LIC[x]`.<sup>[31](#f31)</sup> This leaves significant room for `LIC[x]` value creativity.
 
-
- 
 ### A Prediction Market for Peer Review
 
-Prediction markets are an old idea, go back to the 1800s as a generic tool to buy and sell shares of any publicly determinable event in what you believe will happen. Prediction markets enable collection of vast amounts of information held by individuals and synthesizing it into a useful data point, without the biases that plague traditional forecasting methods, such as polls or expert analysis. (A. Mann, The Power of Prediction Markets, Nature (October 2016; discussing Austrian economist Friedrich Hayek points). Why? Because information is contained in prices. (P. Polgreen, et. al., Using Prediction Markets to Forecast Trends in Infectious Diseases, Microbe, Vol. 1, Number 10 (2006). Transactions that traders make to maximize their profits effectively reveal their private information to the marketplace. Id.  Prediction market assessments are reported to be more accurate than an uninformed prediction model 85% of the time.  Fortune 500 companies use information prediction markets to produce more efficient outcomes for enterprise. Reports include utility by Google, Intel, Microsoft, Motorola, Qualcomm, banking systems, Eli Lilly, Pfizer, Siemens, to name a few. Wikipedia, Prediction Markets. 
+Prediction markets are an old idea, go back to the 1800s as a generic tool to buy and sell shares of any publicly determinable event in what you believe will happen. <sup>[31](#f31)</sup> . Prediction markets enable collection of vast amounts of information held by individuals and synthesizing it into a useful data point, without the biases that plague traditional forecasting methods, such as polls or expert analysis.<sup>[32](#f32)</sup> (A. Mann, The Power of Prediction Markets, Nature (October 2016; discussing Austrian economist Friedrich Hayek points). Why? Because information is contained in prices.  <sup>[33](#f33)</sup> (P. Polgreen, et. al., Using Prediction Markets to Forecast Trends in Infectious Diseases, Microbe, Vol. 1, Number 10 (2006). Transactions that traders make to maximize their profits effectively reveal their private information to the marketplace. <sup>[34](#f34)</sup>  Prediction market assessments are reported to be more accurate than an uninformed prediction model 85% of the time.<sup>[35](#f35)</sup>  Fortune 500 companies use information prediction markets to produce more efficient outcomes for enterprise including utility by Google, Intel, Microsoft, Motorola, Qualcomm, banking systems, Eli Lilly, Pfizer, Siemens, to name a few. <sup>[36](#f36)</sup>Wikipedia, Prediction Markets. 
 
 The current pharma industry does not prioritize R&D opportunities based on public health outcomes, but based in patent positions and corporate profits.  The Network will serve to correct this by enabling Participants to predict R&D proposals using `IKU`, sortable by VR.  Those proposals with the most `IKU` effectively reveal otherwise private scientific information to the public at large.  Participants are incentivized to engage the prediction market to earn fees \(more on fees below\) - to provide highly predictive, robust R&D pipelines.  We incentivize the uncovering and advancement of efficient R&D, thereby creating justification for the funding of the most promising R&D initiatives.   Through this utility, IKU serves to achieve open prediction markets for biotech research - created and traded in a fungible, digital and liquid fashion, making R&D as a whole more efficient.
 
@@ -266,7 +264,7 @@ contract LICCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 
 ### IKU Network Utility
 
-The following sequence of events illustrate the IKU Network utility to facilitate global capital formation and trade for R&D:
+The following sequence of events illustrate the IKU Network utility to facilitate global resource formation and trade for R&D:
 
 **Figure F: IKU Network Utility**
 
@@ -312,7 +310,7 @@ A transaction involving `LIC[x]` is the cryptographic validation of keys to (i) 
 * \(ii\) publish R&D, provide commentary, review and discuss R&D actions, make recommendations, propose development amendments, coordinate presentations and publications and generally facilitate the flow of information through the Portal between the Parties.
 * \(iii\) reproduce and create derivative works based upon R&D for the purposes of marketing, advertising and promoting development, especially for cultural localization to drive adoption, retention and general support for public benefit, globally.
 
-A `LIC[x]` sub-network may capitalize on the copyright data exclusivity periods the keys provide access to.  In addition, `LIC[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `LIC[x]` holders, but patents may not be used in the Network. <sup>[43](#f43)</sup> Defensive Patent Licensing
+A `LIC[x]` sub-network may capitalize on the copyright data exclusivity periods the keys provide access to.  In addition, `LIC[x]` holders may pursue patent protection for inventions developed based on Network funded research, together as a sub-network as owned by `LIC[x]` holders, but patents may not be used in the Network. <sup>[37](#f37)</sup> Defensive Patent Licensing
 
 The `LIC[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `LIC[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `LIC[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `LIC[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
 
@@ -390,9 +388,13 @@ All Network R&D initiatives would have the option to actively bundle `LIC[x]` in
 
 This would be especially important for clinical trials in the same research vertical i.e. condition, disease, mechanism of action, molecule, etc. as it mitigates scientific and economic risk through the ability to algorithmically bond with each other thru smart contract.
 
+Cannabis
+
+
+
 Multi-Omics
 
-- through frictionless access to rich pools of data.<sup>[32](#f32)</sup[SRS]>-     Mining data pool trends of various variables (e.g. mechanism of action, general aging, at risk populations, etc.) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`.
+- through frictionless access to rich pools of data.<sup>[38](#f38)</sup[SRS]>-     Mining data pool trends of various variables (e.g. mechanism of action, general aging, at risk populations, etc.) will serve to efficiently align proposals to be capitalized, through both `RFP` and `Jonas`.
    
 We anticipate the RFP model to just be the beginning. Network-based computational bio analysis has become a strategy for determining R&D pipelines due to the ever-increasing pace of bio and chemical information available.<sup>[44](#f44)</sup> Various different computational approaches, including deep learning, matrix factorization methods and various algorithms have proved beneficial in navigating the wealth of information to uncover potential leads.<sup>[45](#f45)</sup>  This data is often fragmented and to date, has lacked economic incentive for the proper capital formation to enable clinical trials. IKU may serve to provide an open machine learned clinical trial proposer,  based in computational bio analysis of the bio R&D available to date (pubmed, bioRXiv, PLOS ONE, records, etc.).  Such a model may help extract insight to allow for researchers and the general population to compare patterns and essentially peer review the most efficient proposals.    This can be done to create condition specific information networks, e.g. small molecules for inhibiting Dbr-1  in ALS.  
 
@@ -447,9 +449,6 @@ All of which lead to significant issues in transaction finality, exacerbating an
 <b id="f19">19</b> Lisa Diependaele, et. al., Raising the Barriers to Access to Medicines in the Developing World – The Relentless Push for Data Exclusivity, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347964/) \(2017\). CFDA, Provisions for Drug Registration, [http://eng.sfda.gov.cn/WS03/CL0768/61645.html](http://eng.sfda.gov.cn/WS03/CL0768/61645.html). International Federation of Pharmaceutical and Manufacturers Association, [https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA\_2011\_Data\_Exclusivity\_\_En\_Web.pdf](https://www.ifpma.org/wp-content/uploads/2016/01/IFPMA_2011_Data_Exclusivity__En_Web.pdf).
 
 <b id="f20">20</b> G. Quinn and S. Brachmann, Are more than 90 percent of patents challenged at the PTAB defective?, http://www.ipwatchdog.com/2017/06/14/90-percent-patents-challenged-ptab-defective/id=84343/ (2017).  See FN 1 and FN 2.
-
-
-
 
 
 <b id="f21">21</b> Copyright Basics, https://www.uspto.gov/learning-and-resources/ip-policy/copyright/copyright-basics.
