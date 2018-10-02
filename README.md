@@ -203,12 +203,11 @@ A proposal is required to consist of
 
 A standard `LIC[x]` proposal template will be provided. Further value may be determined by the IKU user submitting the proposal, allowing for a flat environment in which value proposition may be programmed into an `LIC[x]`.  This leaves significant room for `LIC[x]` value creativity.
 
-### A Prediction Market for Peer Review
+### An Information Market for Peer Review
 
-Prediction markets are an old idea, go back to the 1800s as a generic tool to buy and sell shares of any publicly determinable event in what you believe will happen. Prediction markets enable collection of vast amounts of information held by individuals and synthesizing it into a useful data point, without the biases that plague traditional forecasting methods, such as polls or "expert" analysis.<sup>[33](#f33)</sup>. Why? Because information is contained in prices.  <sup>[34](#f34)</sup>. Transactions that traders make to maximize their profits effectively reveal their private information to the marketplace. <sup>[35](#f35)</sup>  Prediction market assessments are reported to be more accurate than an uninformed prediction model 85% of the time.<sup>[36](#f36)</sup>  Fortune 500 companies use information prediction markets to produce more efficient outcomes for enterprise including utility by Google, Intel, Microsoft, Motorola, Qualcomm, banking systems, Eli Lilly, Pfizer, Siemens, to name a few. <sup>[37](#f37)</sup> 
+Information markets enable collection of vast amounts of information held by individuals and synthesizing it into a useful data point, without the biases that plague traditional forecasting methods, such as polls or "expert" analysis.<sup>[33](#f33)</sup>. Why? Because information is contained in prices.  <sup>[34](#f34)</sup>. Transactions that traders make to maximize their profits effectively reveal their private information to the marketplace. <sup>[35](#f35)</sup>  Information market assessments are reported to be more accurate than an uninformed information prediction model 85% of the time.<sup>[36](#f36)</sup>  Fortune 500 companies use information markets to produce more efficient outcomes for enterprise including utility by Google, Intel, Microsoft, Motorola, Qualcomm, banking systems, Eli Lilly, Pfizer, Siemens, to name a few. <sup>[37](#f37)</sup> 
 
-The current pharma industry does not prioritize R&D opportunities based on public health outcomes, but based in patent positions and corporate profits.  The Network will serve to correct this by enabling Participants to predict R&D proposals using `IKU`, sortable by VR.  Those proposals with the most `IKU` effectively reveal otherwise private scientific information to the public at large.  Participants are incentivized to engage the prediction market to earn fees \(more on fees below\) - to provide highly predictive, robust R&D pipelines.  We incentivize the uncovering and advancement of efficient R&D, thereby creating justification for the funding of the most promising R&D initiatives.   Through this utility, IKU serves to achieve open prediction markets for biotech research - created and traded in a fungible, digital and liquid fashion, making R&D markets more efficient.
-
+The current pharma industry does not prioritize R&D opportunities based on public health outcomes, but based in patent positions and corporate profits.  The Network will serve to correct this by enabling Participants to predict outcomes of R&D proposals using `IKU`, sortable by VR.  Those proposals with the most `IKU` effectively reveal otherwise private scientific information to the public at large.  Participants are incentivized to engage the information market to earn fees \(more on fees below\) - to provide highly predictive, robust R&D pipelines.  We incentivize the uncovering and advancement of efficient R&D, thereby creating justification for the funding of the most promising R&D initiatives.   Stakeholders can essentially become a node in a R&D network - collectively feeding the network with information serving to fuel innovation while at the same time owning the value.  Through this utility, IKU serves to achieve open information markets for biotech research - created and traded in a fungible, digital and liquid fashion, making R&D markets more efficient.
 
 Upon a proposal achieving a specified threshold value, 2 smart contracts will be deployed to the Ethereum Blockchain: \(i\) `LIC[x]` - An ERC20 token representing the license to `[x]` and \(ii\) `LICCrowdsale[x]` \(based on [https://github.com/OpenZeppelin/zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)\), which responsible for minting `LIC[x]` and in exchange send tokens to contributors.
 
@@ -217,7 +216,7 @@ Upon `LICCrowdsale[x]` achieving its softcap - minimum funds required to achieve
 1. A `LIC[x]` sub-network is created in which `LIC[x]` holders hold digital keys 
 2. All `LIC[x]` Holders will be able to participate in their respective `LIC[x]` sub-network and work with the R&D team to achieve the mission of the proposal, e.g. complete clinical trials for _____________
 3. [y%] of the funds will be released to the R&D team,
-4. IKU Token Holders earn `LIC[x]` as described below under **Fees and the Network Digital Wallet**.
+4. IKU Token Holders earn `LIC[x]` as described below.
 
 A `LIC[x]` sub-network is an ad hoc virtual collective capitalized through smart contracts to power a specific R&D initiative.  It consists of a R&D team (principal investigator and/or project lead, etc.) and its token holder network to ultimately progress through clinical trials together by interacting and communicating through their sub-network with IKU infrastructure.
 
@@ -287,24 +286,24 @@ The IN creates two classes of native tokens:
 
 ### `IKU` Value
 
-Wallet verification of a minimum of balance of 1 IKU enables access to the `devTools B` and fees as explained under ** Fees and the Network Digital Wallet**. Value in the IKU token can be ascribed to access the following:
+Wallet verification of a minimum of balance of 1 IKU enables access to the `devTools B` and fees as explained below. Value in the IKU token can be ascribed to access the following:
 
 * `devTools B`
 * 2nd priority to upgrade to clinical trial subject
 * Fees in `LIC[x]`
 
-Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW may serve to hold BTC, ETH, IKU and all `LIC[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `LIC[x]` as \[z%\] of all of the `LICCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
+Establishing a profile on the Network provides access to the Network Digital Wallet NDW.  The NDW may serve to hold BTC, ETH, IKU and all `LIC[x]`, and is expected to also eventually hold digitalized fiat, providing for efficient capital formation and value exchange. In addition, the NDW enables IKU holders to earn fees in `LIC[x]` as \[z%\] of all of the `LICCrowdsale`, pro-rata, will flow to `IKU` holders in exchange for registering their IKU bandwidth in the information market. Such model gives an IKU holder the opportunity to contribute and have rights to all R&D initiatives on the Network. 
 
 ### `LIC` Value
 
 A `LIC[x]` is the license bandwidth of an R&D initiative, pro-rata specific to that research initiative (clinical trials, etc.) and such rights are cryptographically maintained.  Value in the `LIC[x]` token can be ascribed to the following:
 
-* Right to access, use, publish, develop R&D and contribute to the `LIC[x]` sub-network with possession of a minimum, predetermined `LIC[x]` threshold. 
+* Right to access, use, publish, develop R&D, contribute to the `LIC[x]` sub-network with possession of a minimum, predetermined `LIC[x]` threshold. 
 * `permissionlessLicense` smart contract
 * 1st priority to upgrade to clinical trial subject
 * Early access to realized biotechnology upon regulatory approval \[at a discounted \(or free\) rate\]
 
-A transaction involving `LIC[x]` is the cryptographic validation of keys to (i) participate in the sub-network and (ii) `LIC[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of R&D intellectual property rights provenance at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `LIC[x]` Holders in their sub-network on a regular basis, in which `LIC[x]` holders will have ability for contributing in the sub-network to:
+Parties that own LIC[x]` private keys effectively own a fungible piece of the R&D as the rights inusre to the benefit of LIC[x]` holders. A transaction involving `LIC[x]` is the cryptographic validation of keys to (i) participate in the sub-network and (ii) `LIC[x]` hashed data, timestamped by the blockchain. This is transparently irrefutable evidence of R&D intellectual property rights provenance at a given point in time, protecting against reasons for litigation.  The R&D team will provide updates to the `LIC[x]` Holders in their sub-network on a regular basis, in which `LIC[x]` holders will have ability for contributing in the sub-network to:
 
 * \(i\) Determine whether R&D team should have access to remainder of funds for continuing research \(upon reaching or not reaching R&D a milestone\), based on reputation.
 * \(ii\) publish R&D, provide commentary, review and discuss R&D actions, make recommendations, propose development amendments, coordinate presentations and publications and generally facilitate the flow of information through the Portal between the Parties.
