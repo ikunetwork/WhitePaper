@@ -337,13 +337,10 @@ import 'zeppelin-solidity/contracts/token/ERC20/MintableToken.sol';
 }
 ```
 
-### Burning <@MIKE PLZ REVIEW AND MAKE SURE THIS MAKES SENSE, ESPECIALLY star 1 compared to star 2>
+### Burning 
 
-IKU aligns its burning strategy with the creation of `LIC[x]`, where a % of `IKU` tokens contributed to a specific `LIC[x]` are burned from the IKU Reserve. The same % of the specific `LIC[x]` pool are also offered to IKU Token holders as a fee. Burning may occur as follows:
+IKU aligns its burning strategy with the creation of `LIC[x]`.  A % of `IKU` tokens are burned from the `IKU` Reserve upon a `LIC[x]` softcap being achieved.  This is expected to occur on a regular basis.
 
-* A `researchTarget` is submitted for Levodopa Trials - Cure Parkinson’s. The Alice Foundation submits an `RFP` for the `researchTarget` of which the IN accepts and an associated `LICCrowdsale` commences. The `LICCrowdsale` is successful and the associated `LIC[x]` sub-network Levodopa Trials - Cure Parkinson’s is created. \[y%\] of the total contributed IKU tokens are burned from the IKU Network Reserve pool and `LIC[x]` are distributed to `IKU` Token holders pro-rata based on IKU holdings.
-
-* Let’s say Bob contributed 500 ETH tokens to `LIC[x]` sub-network Levodopa Trials - Cure Parkinson’s. The Alice Foundation receives all 500 ETH tokens of which they can exchange for fiat. The Alice Foundation’s ETH and/or IKU Tokens are not burned, but rather [y%] of the total contributed ETH equivalent in IKU are burned from the IKU Reserve pool. The same [y%] of the `LIC[x]` pool is transferred back to all funders who registered their bandwidth at the time of funding, pro-rata based on IKU holdings. Thus Bob receives a piece of that [y%] in addition to 500 (ETH : `LIC[x]`) ratio.
 
 ### The `permissionlessLicense`
 
