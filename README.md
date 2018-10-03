@@ -88,8 +88,8 @@ A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EM
 
 IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated. By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. 
 
-**IKU BENEFIT**
-![IKU BENEFIT](https://github.com/ikunetwork/WhitePaper/raw/master/Risk%20Score%20V2.png)
+**CLINICAL TRIALS AT SCALE**
+![CLINICAL TRIALS AT SCALE](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png)
 
 
 Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.<sup>[25a](#f25a)</sup> In short, patents stifle innovation. Copyrights do not. 
@@ -268,7 +268,7 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 **Figure F: IKU Network Utility**
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility%203.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png)
 
 
 The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  
