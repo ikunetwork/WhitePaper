@@ -88,7 +88,8 @@ A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EM
 
 IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated. By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. 
 
-<@MIKE INSERT RISK SCORE SEE ATTACHED>
+**IKU BENEFIT**
+![IKU BENEFIT](https://github.com/ikunetwork/WhitePaper/raw/master/Risk%20Score%20V2.png)
 
 
 Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.<sup>[25a](#f25a)</sup> In short, patents stifle innovation. Copyrights do not. 
