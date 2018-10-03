@@ -267,9 +267,8 @@ The following sequence of events illustrate the IKU Network utility to facilitat
 
 **Figure F: IKU Network Utility**
 
-![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-Network-Utility%202.png)
+![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility%203.png)
 
-<@MIKE delete Library Exchange and Replace with Prediction Market, delete Peer Review s>r and replace with Funding
 
 The Network will serve to be a library-hub for the generation, tracking and exchange of superior scientific R&D assets allowing for an incentivized, open workflow for the most promising research and clinical trials.  
 
