@@ -483,9 +483,9 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 Principal Authors          
 
-(i) Gregory J. Rigano, Esq. - IP lawyer, counseled $1 billion+ in global tech tx
-(ii) Michael Kisselgof - Credit Suisse, Private Banking - SAP, Digital Strategy
-(iii) Thomas Deisboeck, MD - Professor Harvard Medical School, Mass General Hospital
+(i) Gregory J. Rigano, Esq. (email:gregor@iku.network) - IP lawyer, counseled $1 billion+ in global tech tx
+(ii) Michael Kisselgof (email: mike@iku.network) - Credit Suisse, Private Banking - SAP, Digital Strategy
+(iii) Thomas Deisboeck, MD (email: tom@iku.network) - Professor Harvard Medical School, Mass General Hospital
 
 Contributors: ____
 
