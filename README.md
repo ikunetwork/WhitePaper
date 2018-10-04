@@ -348,7 +348,7 @@ The IKU architecture facilitates an ongoing real time auction market around R&D 
 
 The party who registers the threshold of private keys now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for its respective license and therefore `LIC[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `LIC[x]` license threshold.
 
-For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure G:
+For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.<sup>[41](#f41)</sup>  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure G:
 
 **Figure G: Rapamycin License Data Stack**
 
@@ -480,6 +480,8 @@ All of which lead to significant issues in transaction finality, exacerbating an
 <b id="f39">39</b> U.S. National Institute of Health, Medical Marijuana, https://nccih.nih.gov/health/marijuana.
 
 <b id="f40">40</b> Grand View Research, Medical marijuana emerged as the largest marijuana type segment in 2016 and is estimated to be valued at USD 100.03 billion by 2025, https://www.grandviewresearch.com/press-release/global-legal-marijuana-market (2018).
+
+<b id="f41">41</b> M. Blagosklonny, From rapalogs to anti-aging formula, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5482593/ (2017).
 
 Principal Authors          
 
