@@ -449,7 +449,7 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 <b id="f25">25</b> Id.
 
-<b id="f25a">25a</b> K. Grimes, MD and Daria Mochly-Rosen, Stanford Medical School, A Practical Guide to Drug Development in Academia, The SPARK Approach (2014).
+<b id="f25a">25a</b> K. Grimes, MD and Daria Mochly-Rosen, Stanford Medical School, A Practical Guide to Drug Development in Academia, The SPARK Approach (2014).  Andrew Lo, Esther S. Kim, Paige M.C. Omura, MIT Accelerating Biomedical Innovation: a case study of SPARK program at Stanford University, School of Medicine, Drug Discovery Today, Volume 22, Number 7 (July 2017), available at http://alo.mit.edu/wp-content/uploads/2017/06/SPARK_pub_final.pdf). Jose Maria Fernandez, et. al., MIT Can Financial Engineering Cure Cancer?: A New Approach to Funding Large-Scale Biomedical Innovation,  (January 18, 2013), available at https://ssrn.com/abstract=2203203 .
 
 <b id="f26">26</b> Nick Szabo, Formalizing and Securing Relationships on Public Networks, [http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First\#introduction](http://firstmonday.org/ojs/index.php/fm/article/view/548/469-publisher=First#introduction) \(1997\).  Tom Ding, e-mail communication (2018).
 
