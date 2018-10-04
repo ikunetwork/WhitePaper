@@ -483,11 +483,10 @@ All of which lead to significant issues in transaction finality, exacerbating an
 
 Principal Authors          
 
-(i) Gregory J. Rigano, Esq. (email:gregor@iku.network) - IP lawyer, counseled $1 billion+ in global tech tx
+(i) Gregory J. Rigano, Esq. (email:gregor@iku.network) - Advisor SPARK, Stanford School of Medicine, tech lawyer
 (ii) Michael Kisselgof (email: mike@iku.network) - Credit Suisse, Private Banking - SAP, Digital Strategy
-(iii) Thomas Deisboeck, MD (email: tom@iku.network) - Professor Harvard Medical School, Mass General Hospital
+(iii) Thomas Deisboeck, MD (email: tom@iku.network) - Associate Professor Harvard Medical School, Mass General Hospital
 
-Contributors: ____
 
 
 Without permission, anyone may use, reproduce or distribute any material in this white paper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notice are cited.
