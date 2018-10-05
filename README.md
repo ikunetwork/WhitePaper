@@ -4,8 +4,8 @@ Working Draft, v.99
 
 Principal Authors          
 
-Gregory J. Rigano, Esq. - Advisor SPARK, Stanford School of Medicine, tech lawyer . 
-Michael Kisselgof - Credit Suisse, Private Banking - SAP, Digital Strategy .                                                      
+Gregory J. Rigano, Esq. - Advisor SPARK, Stanford School of Medicine, tech lawyer<br/>
+Michael Kisselgof - Credit Suisse, Private Banking - SAP, Digital Strategy<br/>                                             
 Thomas Deisboeck, MD - Associate Professor Harvard Medical School, Mass General Hospital
 
 ## Abstract
