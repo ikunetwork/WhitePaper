@@ -92,7 +92,7 @@ IKU is designed to directly monetize biotech research data, regardless of patent
 ![CLINICAL TRIALS AT SCALE](https://github.com/ikunetwork/WhitePaper/raw/master/CLINICAL%20TRIALS%20AT%20SCALE.png)
 
 
-Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.<sup>[25a](#f25a)</sup> In short, patents stifle innovation. Copyrights do not. 
+High quality science, low cost.  Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.<sup>[25a](#f25a)</sup> In short, patents stifle innovation. Copyrights do not. 
 
 We anticipate these efficiencies allow for longevity escape velocity — the point at which, for every year you're alive, science is able to extend your life for more than a year.  The holdup to achieve these efficiencies is not the science, but the incentive to mobilize resources to realize the science. Blockchains enable digitally programmable incentive models to coordinate resources where it was not previously possible. 
 
@@ -125,7 +125,7 @@ IKU leverages blockchain-based smart contracts to transact in digital R&D assets
 ![IKU Smart Contract & IPFS](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-IPFS-Smart-Contract.png)
 
 
-Because of this architecture, for the first time, intellectual property rights can become fully fungible thereby allowing for direct monetization and trade of R&D.  All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license is granted through the proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract.  
+Because of this architecture, for the first time, intellectual property rights can become fully fungible thereby allowing for direct monetization and trade of R&D.  This can be applied to any scientific initiative in which there is a value in the scientific data generated.  All transactions will be public on the Ethereum blockchain incentivizing one record of scientific truth.  A license is granted through the proof-of-license mechanism, of which the licensee can put the redeveloped drug through already established manufacturing and distribution channels, which are abundantly available for contract. 
 
 ### Direct Monetization of Research
 
