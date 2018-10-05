@@ -2,6 +2,12 @@ Working Draft, v.99
 
 # IKU - Biotech Redefined   
 
+Principal Authors          
+
+# Gregory J. Rigano, Esq. - Advisor SPARK, Stanford School of Medicine, tech lawyer
+# Michael Kisselgof - Credit Suisse, Private Banking - SAP, Digital Strategy
+# Thomas Deisboeck, MD - Associate Professor Harvard Medical School, Mass General Hospital
+
 ## Abstract
 
 IKU is a decentralized application for directly monetizing and licensing bio R&D. It is a public utility available to anyone with internet connection employing the blockchain and smart contracts to collapse capital, copyright exclusivity and execution into one allowing for a new data asset class to be created and traded permissionlessly in a global auction. The IKU infrastructure will serve to radically scale human advance in biotechnology R&D through a liquid R&D economy - improving capital formation, serving pent up demand for biotech and ultimately increasing the marginal return on lifespan per unit of research advancement.
@@ -482,13 +488,6 @@ All of which lead to significant issues in transaction finality, exacerbating an
 <b id="f40">40</b> Grand View Research, Medical marijuana emerged as the largest marijuana type segment in 2016 and is estimated to be valued at USD 100.03 billion by 2025, https://www.grandviewresearch.com/press-release/global-legal-marijuana-market (2018).
 
 <b id="f41">41</b> M. Blagosklonny, From rapalogs to anti-aging formula, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5482593/ (2017).
-
-Principal Authors          
-
-(i) Gregory J. Rigano, Esq. (email:gregor@iku.network) - Advisor SPARK, Stanford School of Medicine, tech lawyer
-(ii) Michael Kisselgof (email: mike@iku.network) - Credit Suisse, Private Banking - SAP, Digital Strategy
-(iii) Thomas Deisboeck, MD (email: tom@iku.network) - Associate Professor Harvard Medical School, Mass General Hospital
-
 
 
 Without permission, anyone may use, reproduce or distribute any material in this white paper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notice are cited.
