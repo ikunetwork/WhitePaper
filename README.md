@@ -4,7 +4,7 @@ Principal Authors
 
 Gregory J. Rigano, Esq. - Advisor SPARK, Stanford School of Medicine, tech lawyer<br/>
 Michael Kisselgof - Credit Suisse, Private Banking - SAP, Digital Strategy<br/>
-Thomas Deisboeck, MD - Associate Professor Harvard Medical School, Mass General Hospital<br/>
+Thomas Deisboeck, MD - Associate Professor Harvard Medical School, Mass General Hospital
 
 October 2018
 
