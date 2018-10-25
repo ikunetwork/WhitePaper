@@ -94,8 +94,9 @@ A copyright license is required by bio regulatory bodies globally \(i.e. FDA, EM
 
 IKU is designed to directly monetize biotech research data, regardless of patent policy, as rights are based in the copyright of the research data generated. By design, the IKU model is much less expensive in capital and time, with significantly greater probability of scientific success. 
 
-**CLINICAL TRIALS AT SCALE**
+**FIGURE C: CLINICAL TRIALS AT SCALE**
 ![CLINICAL TRIALS AT SCALE](https://github.com/ikunetwork/WhitePaper/raw/master/CLINICAL%20TRIALS%20AT%20SCALE.png)
+
 
 
 High quality science, low cost.  Such strategy compresses the R&D pipeline, allowing for value inflection to be reached more efficiently - accelerating market entry of inexpensive, safe biotechnologies.<sup>[25a](#f25a)</sup> In short, patents stifle innovation. Copyrights do not. 
@@ -104,9 +105,9 @@ We anticipate these efficiencies allow for longevity escape velocity — the poi
 
 ## The IKU Model
 
-IKU provides the infrastructure for a liquid, bio R&D network to advance productivity by orders of magnitude. The IKU Network (the "Network") will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on a blockchain. Figure C contextualizes IKU's benefits:
+IKU provides the infrastructure for a liquid, bio R&D network to advance productivity by orders of magnitude. The IKU Network (the "Network") will serve to provide value exchange entry and exit opportunities through a fungible digital licensing mechanism enforced on a blockchain. Figure D contextualizes IKU's benefits:
 
-**Figure C: Existing R&D Models**
+**Figure D: Existing R&D Models**
 
 ![Existing R&D Models](https://github.com/ikunetwork/WhitePaper/raw/master/Existing-R%26D-Models.png)
 
@@ -124,9 +125,9 @@ Smart contracts are agreements with super powers, as they provide a deterministi
 
 Once a smart contract is set in motion, the blockchain is utilized to serve as an independent third party to verify agreement execution.<sup>[27](#f27)</sup> Ultimately, overhead is reduced, trust improves, and efficiency increases with no third party necessary for escrow.<sup>[28](#f28)</sup> Money is guaranteed to flow on contract resolution without the need to sue - smart contracts provide justice without judges.
 
-IKU leverages blockchain-based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed.<sup>[29](#f29)</sup> The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. <sup>[30](#f30)</sup> The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright. This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU. See Figure D below:
+IKU leverages blockchain-based smart contracts to transact in digital R&D assets without the necessity of a middle man \(VC, investment banks, Big Pharma, etc.\). Specifically, research data will be stored on Inter Planetary File System IPFS and then hashed.<sup>[29](#f29)</sup> The hash is proof of data existence - therefore proving genesis of the data and copyright title provenance. <sup>[30](#f30)</sup> The research data itself is openly available for anyone to see, but is protected from a third party's commercial explotiation through the copyright. This hash is tokenized as license bandwidth and traded on the blockchain which enables cryptographic, timestamped validation of each transaction, providing provenance of intellectual property rights and the current state of IKU. See Figure E below:
 
-**Figure D: IKU Smart Contracts & IPFS**
+**Figure E: IKU Smart Contracts & IPFS**
 
 ![IKU Smart Contract & IPFS](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-IPFS-Smart-Contract.png)
 
@@ -137,9 +138,9 @@ Because of this architecture, for the first time, intellectual property rights c
 
 Smarts contracts bypass the middle man, allowing for research and clinical trial data to be directly monetized, as opposed to the current industry strategy which is indirect: research --> patent --> company --> sell equity in company.  Direct monetization of data is the foundation of Bitcoin and cryptoassets - providing globally liquid and accessible markets to anyone with internet. IKU's mission is to bring this model to biotech research dramatically decreasing barriers to entry,  allowing (i) researchers and other learned persons to maximize scientific objectives by directly engaging p2p markets, (ii) anyone with internet access to participate and (iii) the realization of global supply and demand of medical science as opposed to a few centralized entities with their own private interests. 
 
-Figure E further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
+Figure F further illustrates the benefits of the IKU data approach as opposed to the current, patent system:
 
-**Figure E: IKU vs. Currenty Industry**
+**Figure F: IKU vs. Currenty Industry**
 
 ![IKU vs. Currenty Industry](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Current-Industry.png)
 
@@ -230,7 +231,7 @@ A `LIC[x]` sub-network is an ad hoc virtual collective capitalized through smart
 The IKU foundation will provide legal support to convert funds raised in BTC, ETH, etc. to fiat.  All capital resources are to be allocated purely towards R&D support.  In addition, prior to initiating a clinical trial, `LIC[x]` R&D team will be responsible for ensuring ethical research compliance through an institutional review board.
 
 
-**Smart contract code for **`LICCrowdsale`
+**Smart contract for`LICCrowdsale`**
 
 ```text
 pragma solidity ^0.4.18;
@@ -272,7 +273,7 @@ contract LICCrowdsale is CappedCrowdsale, RefundableCrowdsale, MintedCrowdsale {
 
 The following sequence of events illustrate the IKU Network utility to facilitate global resource formation and trade for R&D:
 
-**Figure F: IKU Network Utility**
+**Figure G: IKU Network Utility**
 
 ![IKU Network Utility](https://github.com/ikunetwork/WhitePaper/raw/master/IKU%20Network%20Utility.png)
 
@@ -319,7 +320,7 @@ A `LIC[x]` sub-network may capitalize on the copyright data exclusivity periods 
 
 The `LIC[x]` sub-network is incentivized to provide timely and relevant information to both its own sub-network and the public as the `LIC[x]` and `IKU` will be at the mercy of market sentiment. `IKU` and `LIC[x]` tokens are expected to trade in real time, globally in the cryptoasset market place. If an `LIC[x]` sub-network does not operate in efficient scientific fashion, it is expected to be reflected accordingly.
 
-`LIC[x]`** Smart Contract**
+**Smart Contract for `LIC[x]`**
 
 ```text
 pragma solidity ^0.4.18;
@@ -354,15 +355,15 @@ The IKU architecture facilitates an ongoing real time auction market around R&D 
 
 The party who registers the threshold of private keys now has a license to utilize and exploit the R&D data, e.g. completed Phase II clinical trial data, to potentially submit to the U.S. FDA for approval. The more scientifically advanced the R&D initiative, the greater the expected demand for its respective license and therefore `LIC[x]` becomes more scientifically valuable i.e. completing Phase II clinical trials - more value will be required by one who desires a `permissionlessLicense` to achieve the `LIC[x]` license threshold.
 
-For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.<sup>[41](#f41)</sup>  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure G:
+For example, recent research has shown that Rapamycin, a generic small molecule in tablet form used prevent organ transplant rejection and to treat a rare lung disease, may have potent effects against aging.<sup>[41](#f41)</sup>  A researcher may create a modified release Rapamycin anti-aging formulation for Phase II clinical trials, leveraging extensive existing generic Rapamycin safety data in both animals and humans.  The new formulation and successful clinical trial data enable copyrights for a new data set that comes with the data exclusivity periods previously mentioned.  See Figure H:
 
-**Figure G: Rapamycin License Data Stack**
+**Figure H: Rapamycin License Data Stack**
 
 ![IRapamycin License Data Stack](https://github.com/ikunetwork/WhitePaper/raw/master/RAP-License-Data-Stack.png)
 
-In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as license - `LIC[RAP]`. The data can be licensed by registering a certain threshold of `LIC[RAP]` license private keys, then utilized in a data package for potential approval. See figure H:
+In the Rapamycin example, the new data package (formulation + clinical trials) stored on IPFS, hashed, and tokenized as license - `LIC[RAP]`. The data can be licensed by registering a certain threshold of `LIC[RAP]` license private keys, then utilized in a data package for potential approval. See figure I:
 
-**Figure H: LIC RAP MArket**
+**Figure I: LIC RAP Market**
 
 ![LIC[RAP] Market](https://github.com/ikunetwork/WhitePaper/raw/master/LIC-RAP-Market.png)
 
