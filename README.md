@@ -18,8 +18,8 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
 
 1. [Introduction](#introduction)
    1. [Problem Statement](#problem-statement)
-   2. [Rediscovery A Solution](#rediscovery:a-solution)
-   3. [Copyright vs. Patent](#copyright-vs.-patent)
+   2. [Rediscovery A Solution](#rediscovery-is-a-solution)
+   3. [Copyright vs Patent](#copyright-vs.-patent)
 2. [The IKU Model](#the-iku-model)
    1. [How](#how)
    2. [Smart Contracts](#smart-contracts)
@@ -68,7 +68,7 @@ Sadly, pharma companies carry significant non-R&D “baggage," where non-R&D spe
 
 The outcome is a 20 year backlog of potential drugs waiting for funds to enter clinical trials.<sup>[8](#f8)</sup> In fact, there are over 10,000 diseases/conditions afflicting humans of which less than 600 have known treatments.<sup>[9](#f9)</sup> While it costs over $2 billion to develop a NME in the U.S., there are multiple R&D efficiencies in which it can cost 500x less to get a treatment approved, including but not limited to drug rediscovery and pursuing clinical trials in the eastern part of the world, specifically Asia and Australia.  
 
-### Rediscovery: A Solution
+### Rediscovery is a Solution
 
 Already approved drugs/therapies can be redeveloped aka rediscovered to treat many more conditions, for which no quality treatment exist.<sup>[10](#f10)</sup>  U.S. National Institute of Health researchers speculate that 75% of existing drugs can be rediscovered to reach the market at a fraction of the cost and time.<sup>[11](#f11)</sup> Generic medicines are, and can be, built on the same active ingredients as their previously patented version.<sup>[12](#f12)</sup>. By the time a drug becomes generic the ingredients would have already been on the market for many years and as such, the generic themselves are considered safe for patients.<sup>[13](#f13)</sup> Many high end scientists, inluding Nobel Laureates, agree that redisovery is a preferred method:
 
@@ -82,7 +82,7 @@ Rediscovery has lacked economic incentive for development because of the patent 
 
 *Since Metformin went off patent, the diabetes drug has become one of the favorite treatments of life-extension types. So add this to its magic aura: In a small randomized trial of 140 patients conducted in Mexico City, adding metformin to drugs for lung cancer patients whose tumors had mutations in a gene called EGFR seemed to slow disease progression and survival ... a warning to industry to dot i's and cross t's.* <sup>[17](#f17)</sup> 
 
-### Copyright vs. Patent
+### Copyright vs Patent
 
 Historically, by the time an NME enters clinical trials, its patent life has under 10 years, often times only 5-6 years remaining.<sup>[18](#f18)</sup> Jurisdictions including U.S., EU and Asia provide copyright data exclusivity periods \(independent of patents\), for clinical trial data for up to 12 years, regardless if it is an NME.<sup>[19](#f19)</sup> Copyrights applies when original research data is put in writing, proof of existence - registration is not necessary. Patents require filing an application with a patent office and subjective analysis by a government - resulting in multiple tens of billions USD litigation and patent invalidation rates as high as 90%.<sup>[20](#f20)</sup> Furthermore, patents cannot be granted unless a party has a copyright to the respective research data.<sup>[21](#f21)</sup>   
 
