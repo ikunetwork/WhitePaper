@@ -6,13 +6,15 @@ Gregory J. Rigano, Esq. - Advisor SPARK, Stanford School of Medicine, tech lawye
 Michael Kisselgof - Credit Suisse, Private Banking - SAP, Global Marketing<br/>
 Thomas Deisboeck, MD - Associate Professor Harvard Medical School, Mass General Hospital
 
-October 2018
+February 2019
 
 ## Abstract
 
-IKU is a decentralized application for funding and developing bio r&d and clinical trials. It is a public utility open to the world, employing the Ethereum blockchain to create fundable data assets to trade in a next generation bio r&d marketplace. The IKU infrastructure will serve to radically scale human advance in biotechnology R&D through a liquid R&D economy - improving capital formation, serving pent up demand for biotech and ultimately increasing the marginal return on lifespan per unit of research advancement.
+IKU is the first DAO to accelerate bio-innovation, allowing anyone to create, license, and trade bio r&d. It is a public utility employing the blockchain and smart contracts to collapse capital and copyright exclusivity into a fundable data asset
+that can be traded and licensed permissionlessly. All proposed assets are vetted with i) ELI, an artificial neural network trained to predict regulatory approval and project success, and ii) the wisdom of the bio-medical crowd. Both methods
+are used to de-risk and reduce barrier to entry for the consumer and institution. IKU will provide for democratized access to biotech assets costing up to 1,000x less than those in the traditional legacy system, while accelerating market entry by years and still maintaining exclusivity periods to generate significant returns. This is moneyball for biotechnology.
 
-Currently, the marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities ("NME"). NME's typically take over 15 years per market entry, with high rates of failure and cost over $2 billion - a faulty, non-scalable process. Why? Patent friction. The IKU model combined with recent developments in globalization of clinical trials allow for an arbitrage in which market entry of cutting edge biotech can cost 500x less than the traditional patent-based pharma model. This paper explains (i) the deficiencies of the current legacy R&D incentive structure, (ii) the mission to create a digital, liquid global market to scale bio R&D/trials and (iii) how IKU ultimately compounds value through global arbitrage to push science and medicine to boundaries yet unseen.
+The marginal increase in lifespan is severely disproportionate to research duration as drug development and clinical trials traditionally focus on new molecular entities ("NME"). NME's typically take over 15 years per market entry, with high rates of failure and cost over $2 billion - a faulty, non-scalable process. Why? Patent friction. The IKU model combined with recent developments in globalization of clinical trials allow for an arbitrage in which market entry of cutting edge biotech can cost 500x less than the traditional patent-based pharma model. This paper explains (i) the deficiencies of the current legacy R&D incentive structure, (ii) the mission to create a digital, liquid global market to scale bio R&D/trials and (iii) how IKU ultimately compounds value through global arbitrage to push science and medicine to boundaries yet unseen.
 
 ## Table of Contents
 
@@ -24,8 +26,9 @@ Currently, the marginal increase in lifespan is severely disproportionate to res
    1. [How](#how)
    2. [Smart Contracts](#smart-contracts)
    3. [Direct Monetization of Research](#direct-monetization-of-research)
-   4. [Why IKU?](#why-iku)
-   5. [The IKU Network](#the-iku-network)
+   4. [ELI The Artificial Neural Network](#eli-the-artificial-neural-network
+   5. [Why IKU?](#why-iku)
+   6. [The IKU Network](#the-iku-network)
 3. [The Network Economy](#the-network-economy)
    1. [Research Target](#research-target)
    2. [`devTools`](#devtools)
@@ -143,6 +146,13 @@ Figure F further illustrates the benefits of the IKU data approach as opposed to
 **Figure F: IKU vs. Currenty Industry**
 
 ![IKU vs. Currenty Industry](https://github.com/ikunetwork/WhitePaper/raw/master/IKU-vs-Current-Industry.png)
+
+
+### ELI The Artificial Neural Network
+
+ELI is IKU’s Artificial Neural Network ANN specifically designed to predict regulatory approval of clinical trials and project success for proposed LIC[x] assets. We employ ML with the goal to achieve a robust A.I. in determining probability of success POS for consumer and institutional evaluation - a method to derisk asset creation and prioritization. 
+
+Why use an ANN for clinical trial POS? It is a scalable and increasingly accurate solution in calculating probability, bypassing years of labor necessary in constructing a traditional algorithm for the same task. ML techniques in reputable papers, as well as in industry i.e. InSilico Medicine, have proven to be robust in estimating clinical trial success rates and regulatory approval.31 Bycollecting historicla clinical trial data since January 2000 and expanding on similar methodology, we were able to construct our own propietary ANN to be used to vet all proposed projects.
 
 
 ### Why IKU?
