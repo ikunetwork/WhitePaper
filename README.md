@@ -26,7 +26,7 @@ The marginal increase in lifespan is severely disproportionate to research durat
    1. [How](#how)
    2. [Smart Contracts](#smart-contracts)
    3. [Direct Monetization of Research](#direct-monetization-of-research)
-   4. [ELI The Artificial Neural Network](#eli-the-artificial-neural-network
+   4. [ELI The Artificial Neural Network](#eli-the-artificial-neural-network)
    5. [Why IKU?](#why-iku)
    6. [The IKU Network](#the-iku-network)
 3. [The Network Economy](#the-network-economy)
